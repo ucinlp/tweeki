@@ -26,7 +26,7 @@ citation: >
     year = {2020}
   }
 
-pdf: /files/tweeki-wnut20.pdf
+pdf: /tweeki/files/tweeki-wnut20.pdf
 
 style: is-light
 height: is-small
@@ -49,4 +49,4 @@ items:
     subtitle: Read the Paper
     icon: fa-file-alt
     call_to_action_name: Download PDF
-    call_to_action_link: /files/tweeki-wnut20.pdf
+    call_to_action_link: /tweeki/files/tweeki-wnut20.pdf
