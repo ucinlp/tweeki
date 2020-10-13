@@ -17,7 +17,7 @@ Welcome to the webpage for {{site.data.paper.description}}.
 We published the paper at the [{{site.data.paper.venue.name}}]({{site.data.paper.venue.link}}).
 
 <div class="block">
-    <a class="button" href="{{site.data.paper.pdf}}">Download PDF</a>
+    <a class="button" href="{{site.url}}{{site.baseurl}}{{site.data.paper.pdf}}">Download PDF</a>
 </div>
 
 <div class="block">
@@ -28,9 +28,9 @@ We published the paper at the [{{site.data.paper.venue.name}}]({{site.data.paper
 
 ## Authors
 
-<div class="columns">
+<div class="columns is-multiline">
 {% for author in site.data.paper.authors %}
-<div class="column is-3-desktop is-4-tablet is-6-phone">
+<div class="column is-2-desktop is-3-tablet is-6-phone">
     <div class="card">
         <header class="card-header">
             <p class="card-header-title is-centered">
