@@ -27,6 +27,7 @@ markdown: kramdown
 remote_theme: chrisrhymes/bulma-clean-theme
 baseurl: "/tweeki"
 plugins:
+  - jekyll-feed
   - github-pages
 
 # Exclude from processing.
