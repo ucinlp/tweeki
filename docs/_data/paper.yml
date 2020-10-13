@@ -1,0 +1,52 @@
+description: Tweeki, an entity linking system for Twitter
+
+fulltitle: "Tweeki: Linking Named Entities on Twitter to a Knowledge Graph"
+
+authors:
+  - name: Bahareh Harandizadeh
+    img: http://sameersingh.org/img/group/bahareh.jpg
+    aff: University of California, Irvine
+  - name: Sameer Singh
+    website: http://sameersingh.org
+    img: http://sameersingh.org/img/face/sameer-sq.jpg
+    aff: University of California, Irvine
+
+venue: 
+  name: Workshop on Noisy User-generated Text (W-NUT)
+  link: http://noisy-text.github.io/2020/
+
+abstract: >
+  To identify what entities are being talked about in tweets, we need to automatically link named entities that appear in tweets to structured KBs like WikiData. Existing approaches often struggle with such short, noisy texts, or their complex design and reliance on supervision make them brittle, difficult to use and maintain, and lose significance over time. Further, there is a lack of a large, linked corpus of tweets to aid researchers, along with lack of gold dataset to evaluate the accuracy of entity linking. In this paper, we introduce (1) Tweeki, an unsupervised, modular entity linking system for Twitter, (2) TweekiData, a large, automatically-annotated corpus of Tweets linked to entities in WikiData, and (3) TweekiGold, a gold dataset for entity linking evaluation. Through comprehensive analysis, we show that Tweeki is comparable to the performance of recent state-of-the-art entity linkers models, the dataset is of high quality, and a use case of how the dataset can be used to improve downstream tasks in social media analysis (geolocation prediction). 
+
+citation: >
+  @inproceedings{tweeki:wnut20,
+    author = {Bahareh Haradizadeh and Sameer Singh},
+    title = { {Tweeki: Linking Named Entities on Twitter to a Knowledge Graph} },
+    booktitle = {Workshop on Noisy User-generated Text (W-NUT)},
+    year = {2020}
+  }
+
+pdf: /files/tweeki-wnut20.pdf
+
+style: is-light
+height: is-small
+items:
+  - title: 
+    subtitle: Lots of Tweets with Links
+    icon: fa-database
+    # description: >
+    #   The example description text goes here and can be multiple lines.
+
+    #   For example, such as this. 
+    call_to_action_name: Get the Data
+    call_to_action_link: https://github.com/ucinlp/tweeki/data
+  - title: 
+    subtitle: Run Tweeki Yourself
+    icon: fa-file-code
+    call_to_action_name: Source Code
+    call_to_action_link: https://github.com/ucinlp/tweeki
+  - title: 
+    subtitle: Read the Paper
+    icon: fa-file-alt
+    call_to_action_name: Download PDF
+    call_to_action_link: /files/tweeki-wnut20.pdf
