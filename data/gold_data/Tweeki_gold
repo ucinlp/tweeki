@@ -1,0 +1,9654 @@
+# tweet_id 1
+# ...
+1	Syracuse	B-ORG	Syracuse Orange men's basketball|Q15718182
+2	and	O	-
+3	Pitt	B-ORG	Pittsburgh Panthers men's basketball|Q7199342
+4	in	O	-
+5	the	O	-
+6	#	O	-
+7	ACC	B-MISC	Atlantic Coast Conference|Q756355
+8	...	O	-
+9	its	O	-
+10	gon	O	-
+11	na	O	-
+12	be	O	-
+13	a	O	-
+14	long	O	-
+15	year	O	-
+16	for	O	-
+17	Maryland	B-ORG	Maryland Terrapins Men's Basketball|Q15055268
+
+# tweet_id 2
+# ...
+1	MSU	B-ORG	Michigan State Spartans men's basketball|Q3856893
+2	mens	O	-
+3	basketball	O	-
+4	signs	O	-
+5	Gary	B-PER	Gary Harris|Q5525214
+6	Harris	I-PER	Gary Harris|Q5525214
+7	.	O	-
+8	Womens	O	-
+9	basketball	O	-
+10	gets	O	-
+11	Mariah	B-PER	-
+12	Harris	I-PER	-
+13	.	O	-
+14	Harrises	B-PER	-
+15	on	O	-
+16	Harrises	B-PER	-
+17	on	O	-
+18	Harrises	B-PER	-
+19	.	O	-
+20	#	O	-
+21	GottaHaveIt	O	-
+
+# tweet_id 3
+# ...
+1	Nirvanas	B-PER	Nirvana|Q11649
+2	Nevermind	B-MISC	Nevermind|Q17444
+3	was	O	-
+4	a	O	-
+5	damn	O	-
+6	near	O	-
+7	perfect	O	-
+8	album	O	-
+9	,	O	-
+10	like	O	-
+11	Marleys	B-PER	Bob Marley|Q409
+12	Talking	B-MISC	Talkin' Blues|Q1047708
+13	Blues	I-MISC	Talkin' Blues|Q1047708
+14	or	O	-
+15	Coltranes	B-PER	John Coltrane|Q7346
+16	A	B-MISC	A Love Supreme|Q5106
+17	Love	I-MISC	A Love Supreme|Q5106
+18	Supreme	I-MISC	A Love Supreme|Q5106
+19	.	O	-
+20	-	O	-
+21	Talib	B-PER	Talib Kweli|Q318755
+22	Kweli	I-PER	Talib Kweli|Q318755
+
+# tweet_id 4
+# ...
+1	This	O	-
+2	F.S.U	B-ORG	Florida State Seminoles football|Q5461626
+3	vs	O	-
+4	Oklahoma	B-ORG	Oklahoma Sooners football|Q10608114
+5	game	O	-
+6	is	O	-
+7	insane	O	-
+8	.	O	-
+9	#	O	-
+10	Freshmen	O	-
+11	qb	O	-
+12	.	O	-
+13	#	O	-
+14	GONOLES	O	-
+
+# tweet_id 5
+# ...
+1	@mitch_way	O	-
+2	I	O	-
+3	just	O	-
+4	tweeted	O	-
+5	a	O	-
+6	similar	O	-
+7	article	O	-
+8	.	O	-
+9	Penn	B-LOC	Pennsylvania State University|Q739627
+10	State	I-LOC	Pennsylvania State University|Q739627
+11	knew	O	-
+12	about	O	-
+13	the	O	-
+14	investigation	O	-
+15	which	O	-
+16	makes	O	-
+17	me	O	-
+18	wonder	O	-
+19	why	O	-
+20	were	O	-
+21	nt	O	-
+22	they	O	-
+23	prepared	O	-
+24	?	O	-
+
+# tweet_id 6
+# ...
+1	Anyone	O	-
+2	in	O	-
+3	Austin	B-LOC	Austin, Texas|Q16559
+4	going	O	-
+5	to	O	-
+6	the	O	-
+7	Best	B-LOC	Best Buy|Q533415
+8	Buy	I-LOC	Best Buy|Q533415
+9	on	O	-
+10	Airport	B-LOC	-
+11	Blvd	I-LOC	-
+12	tonight	O	-
+13	/	O	-
+14	tomorrow	O	-
+15	?	O	-
+
+# tweet_id 7
+# ...
+1	Chris	B-PER	Chris Brown|Q155700
+2	Brown	I-PER	Chris Brown|Q155700
+3	,	O	-
+4	Beyonce	B-PER	Beyoncé|Q36153
+5	,	O	-
+6	Nicki	B-PER	Nicki Minaj|Q162202
+7	Minaj	I-PER	Nicki Minaj|Q162202
+8	,	O	-
+9	Kelly	B-PER	Kelly Rowland|Q184249
+10	Rowland	I-PER	Kelly Rowland|Q184249
+11	Win	O	-
+12	@	O	-
+13	Soul	B-MISC	Soul Train Music Awards|Q959013
+14	Train	I-MISC	Soul Train Music Awards|Q959013
+15	Awards	I-MISC	Soul Train Music Awards|Q959013
+16	List	O	-
+17	Of	O	-
+18	Winners	O	-
+
+# tweet_id 8
+# ...
+1	I	O	-
+2	ca	O	-
+3	nt	O	-
+4	WAIT	O	-
+5	to	O	-
+6	take	O	-
+7	Jamal	B-PER	-
+8	to	O	-
+9	see	O	-
+10	Lion	B-MISC	The Lion King|Q36479
+11	King	I-MISC	The Lion King|Q36479
+12	D	I-MISC	The Lion King|Q36479
+
+# tweet_id 9
+# ...
+1	AHAHAH	O	-
+2	RT	O	-
+3	@politico	O	-
+4	The	B-MISC	The Roots|Q1052139
+5	Roots	I-MISC	The Roots|Q1052139
+6	use	O	-
+7	entrance	O	-
+8	music	O	-
+9	to	O	-
+10	bash	O	-
+11	Michele	B-PER	Michele Bachmann|Q160582
+12	Bachmann	I-PER	Michele Bachmann|Q160582
+13	on	O	-
+14	Jimmy	B-PER	Jimmy Fallon|Q335680
+15	Fallon	I-PER	Jimmy Fallon|Q335680
+16	:	O	-
+
+# tweet_id 10
+# ...
+1	@DominickAnthony	O	-
+2	@DorionRenaud	O	-
+3	I	O	-
+4	have	O	-
+5	this	O	-
+6	other	O	-
+7	one	O	-
+8	and	O	-
+9	they	O	-
+10	only	O	-
+11	sell	O	-
+12	it	O	-
+13	at	O	-
+14	Saks	B-ORG	Saks Fifth Avenue|Q2723882
+
+# tweet_id 11
+# ...
+1	Picking	O	-
+2	up	O	-
+3	the	O	-
+4	hubby	O	-
+5	(	O	-
+6	@	O	-
+7	New	B-LOC	New England Baptist Hospital|Q14715761
+8	England	I-LOC	New England Baptist Hospital|Q14715761
+9	Baptist	I-LOC	New England Baptist Hospital|Q14715761
+10	Hospital	I-LOC	New England Baptist Hospital|Q14715761
+11	)	O	-
+
+# tweet_id 12
+# ...
+1	Journalism	O	-
+2	:|	O	-
+3	(	O	-
+4	@	O	-
+5	Carolina	B-LOC	Carolina Coliseum|Q5044798
+6	Coliseum	I-LOC	Carolina Coliseum|Q5044798
+7	w/	O	-
+8	others	O	-
+9	)	O	-
+
+# tweet_id 13
+# ...
+1	Me	O	-
+2	and	O	-
+3	@__CertainlyMe	O	-
+4	were	O	-
+5	cracking	O	-
+6	up	O	-
+7	at	O	-
+8	Wedding	B-MISC	Wedding Crashers|Q238866
+9	Crashers	I-MISC	Wedding Crashers|Q238866
+10	last	O	-
+11	night	O	-
+12	lol	O	-
+
+# tweet_id 14
+# ...
+1	A	O	-
+2	beautiful	O	-
+3	day	O	-
+4	for	O	-
+5	a	O	-
+6	post	O	-
+7	-	O	-
+8	prandial	O	-
+9	drive	O	-
+10	back	O	-
+11	home	O	-
+12	in	O	-
+13	NC	B-LOC	North Carolina|Q1454
+14	!	O	-
+
+# tweet_id 15
+# ...
+1	Waiting	O	-
+2	for	O	-
+3	the	O	-
+4	Don	B-PER	-
+5	.	O	-
+6	(	O	-
+7	@	O	-
+8	Terenine	B-LOC	-
+9	in	O	-
+10	Chattanooga	B-LOC	Chattanooga, Tennessee|Q186702
+11	)	O	-
+
+# tweet_id 16
+# ...
+1	Lest	O	-
+2	we	O	-
+3	forget	O	-
+4	,	O	-
+5	Blacbeard	B-PER	Blackbeard|Q213518
+6	,	O	-
+7	real	O	-
+8	name	O	-
+9	Edward	B-PER	Blackbeard|Q213518
+10	Teach	I-PER	Blackbeard|Q213518
+11	,	O	-
+12	was	O	-
+13	killed	O	-
+14	day	O	-
+15	n	O	-
+16	n	O	-
+17	a	O	-
+18	battle	O	-
+19	w	O	-
+20	British	B-MISC	British people|Q842438
+21	sailors	O	-
+22	off	O	-
+23	coast	O	-
+24	of	O	-
+25	N.C.	B-LOC	North Carolina|Q1454
+26	#	O	-
+27	arrgh	O	-
+
+# tweet_id 17
+# ...
+1	On	O	-
+2	an	O	-
+3	inbound	O	-
+4	train	O	-
+5	from	O	-
+6	#	O	-
+7	Ashmont	B-LOC	Ashmont|Q4805681
+8	going	O	-
+9	to	O	-
+10	#	O	-
+11	OccupyBoston	B-MISC	-
+12	march	O	-
+13	at	O	-
+14	:	O	-
+15	PM	O	-
+
+# tweet_id 18
+# ...
+1	Ill	O	-
+2	eventually	O	-
+3	stop	O	-
+4	eating	O	-
+5	Doritos	B-MISC	Doritos|Q776795
+6	.	O	-
+7	Eventually	O	-
+8	.	O	-
+
+# tweet_id 19
+# ...
+1	#	O	-
+2	finally	O	-
+3	(	O	-
+4	@	O	-
+5	Chicago	B-LOC	O'Hare International Airport|Q213717
+6	OHare	I-LOC	O'Hare International Airport|Q213717
+7	International	I-LOC	O'Hare International Airport|Q213717
+8	Airport	I-LOC	O'Hare International Airport|Q213717
+9	(	O	-
+10	ORD	B-LOC	O'Hare International Airport|Q213717
+11	)	O	-
+12	w/	O	-
+13	others	O	-
+14	)	O	-
+
+# tweet_id 20
+# ...
+1	Anthony	B-PER	Anthony Wayne|Q574116
+2	Wayne	I-PER	Anthony Wayne|Q574116
+3	up	O	-
+4	-	O	-
+5	at	O	-
+6	half	O	-
+7	..	O	-
+8	#	O	-
+9	Fridaynightfrenzy	O	-
+10	(	O	-
+11	@	O	-
+12	Anthony	B-ORG	Anthony Wayne High School|Q4773693
+13	Wayne	I-ORG	Anthony Wayne High School|Q4773693
+14	High	I-ORG	Anthony Wayne High School|Q4773693
+15	School	I-ORG	Anthony Wayne High School|Q4773693
+16	)	O	-
+
+# tweet_id 21
+# ...
+1	Floored	O	-
+2	!	O	-
+3	!	O	-
+4	!	O	-
+5	@IZMA_Apparel	O	-
+6	makes	O	-
+7	the	O	-
+8	iconic	O	-
+9	Christmas	B-MISC	Christmas|Q19809
+10	window	O	-
+11	@HoltRenfrew	O	-
+12	on	O	-
+13	Bloor	B-LOC	-
+14	St	I-LOC	-
+15	in	O	-
+16	#	O	-
+17	toronto	B-LOC	Toronto|Q172
+
+# tweet_id 22
+# ...
+1	Last	O	-
+2	night	O	-
+3	in	O	-
+4	NYC	B-LOC	New York City|Q60
+5	(	O	-
+6	@	O	-
+7	Days	B-ORG	Days Inn|Q1047239
+8	Inn	I-ORG	Days Inn|Q1047239
+9	)	O	-
+
+# tweet_id 23
+# ...
+1	@PiersTonight	O	-
+2	@piersmorgan	O	-
+3	CNN	B-ORG	CNN|Q48340
+4	just	O	-
+5	asked	O	-
+6	Obama	B-PER	Barack Obama|Q76
+7	about	O	-
+8	the	O	-
+9	situation	O	-
+10	in	O	-
+11	Libya	B-LOC	Libya|Q1016
+12	...	O	-
+13	He	O	-
+14	said	O	-
+15	,	O	-
+16	I	O	-
+17	did	O	-
+18	nt	O	-
+19	know	O	-
+20	the	O	-
+21	Situation	O	-
+22	left	O	-
+23	the	O	-
+24	Jersey	B-LOC	Jersey Shore|Q3246511
+25	Shore	I-LOC	Jersey Shore|Q3246511
+
+# tweet_id 24
+# ...
+1	Pizarro	B-LOC	-
+2	:	O	-
+3	Willow	B-ORG	-
+4	Street	I-ORG	-
+5	Wood	I-ORG	-
+6	-	O	-
+7	Fired	O	-
+8	Pizza	O	-
+9	gets	O	-
+10	a	O	-
+11	fresh	O	-
+12	look	O	-
+13	for	O	-
+14	th	O	-
+15	anniversary	O	-
+16	:	O	-
+17	When	O	-
+18	Ed	B-PER	-
+19	Rathmann	I-PER	-
+20	,	O	-
+21	owner	O	-
+22	of	O	-
+23	Willo	B-LOC	-
+24	...	O	-
+
+# tweet_id 25
+# ...
+1	And	O	-
+2	Lake	B-LOC	Lake Dallas, Texas|Q981800
+3	Dallas	I-LOC	Lake Dallas, Texas|Q981800
+4	murders	O	-
+5	another	O	-
+6	hit	O	-
+7	..	O	-
+
+# tweet_id 26
+# ...
+1	Good	O	-
+2	Morning	O	-
+3	NYC	B-LOC	New York City|Q60
+4	!	O	-
+5	@	O	-
+6	AP	B-LOC	-
+7	Roof	I-LOC	-
+8	Deck	I-LOC	-
+
+# tweet_id 27
+# ...
+1	Winters	O	-
+2	,	O	-
+3	California	B-LOC	California|Q99
+4	is	O	-
+5	gorgeous	O	-
+6	.	O	-
+7	Glad	O	-
+8	we	O	-
+9	came	O	-
+10	here	O	-
+11	instead	O	-
+12	of	O	-
+13	Lake	B-LOC	Lake Tahoe|Q169962
+14	Tahoe	I-LOC	Lake Tahoe|Q169962
+15	.	O	-
+16	Plus	O	-
+17	so	O	-
+18	many	O	-
+19	cute	O	-
+20	farm	O	-
+21	boys	O	-
+22	:)	O	-
+
+# tweet_id 28
+# ...
+1	It	O	-
+2	was	O	-
+3	great	O	-
+4	to	O	-
+5	see	O	-
+6	Jordan	B-PER	-
+7	&	O	-
+8	Rock	B-PER	-
+9	Williams	I-PER	-
+10	play	O	-
+11	again	O	-
+12	.	O	-
+13	( 	O	-
+14	@	O	-
+15	Western	B-ORG	Western Carolina Catamounts|Q7987685
+16	Carolina	I-ORG	Western Carolina Catamounts|Q7987685
+17	-	O	-
+18	Hennon	B-LOC	Hennon Stadium|Q5715113
+19	Stadium	I-LOC	Hennon Stadium|Q5715113
+20	)	O	-
+
+# tweet_id 29
+# ...
+1	This	O	-
+2	holiday	O	-
+3	,	O	-
+4	record	O	-
+5	a	O	-
+6	story	O	-
+7	with	O	-
+8	a	O	-
+9	loved	O	-
+10	one	O	-
+11	at	O	-
+12	our	O	-
+13	StoryBooths	B-MISC	Storybooth|Q60677751
+14	in	O	-
+15	Atlanta	B-LOC	Atlanta|Q23556
+16	.	O	-
+17	Reserve	O	-
+18	now	O	-
+19	!	O	-
+20	--	O	-
+21	or	O	-
+22	#	O	-
+23	fb	O	-
+24	Aunt	O	-
+25	Gin	O	-
+
+# tweet_id 30
+# ...
+1	Since	O	-
+2	Deutschetelekom	B-MISC	Deutsche Telekom|Q9396
+3	has	O	-
+4	mentioned	O	-
+5	their	O	-
+6	Windows	B-MISC	-
+7	Mango	I-MISC	-
+8	rollout	O	-
+9	,	O	-
+10	what	O	-
+11	does	O	-
+12	T-Mobile	B-ORG	T-Mobile US|Q3511885
+13	USA	B-LOC	United States|Q30
+14	have	O	-
+15	to	O	-
+16	say	O	-
+17	about	O	-
+18	this	O	-
+19	side	O	-
+20	of	O	-
+21	the	O	-
+22	pond	O	-
+23	..	O	-
+24	#	O	-
+25	HD	O	-
+
+# tweet_id 31
+# ...
+1	Got	O	-
+2	the	O	-
+3	rig	O	-
+4	set	O	-
+5	up	O	-
+6	in	O	-
+7	the	O	-
+8	rain	O	-
+9	.	O	-
+10	:)	O	-
+11	(	O	-
+12	@	O	-
+13	Kohler	B-LOC	Kohler Co.|Q6426036
+14	Co.	I-LOC	Kohler Co.|Q6426036
+15	w/	O	-
+16	others	O	-
+17	)	O	-
+18	[	O	-
+19	pic	O	-
+20	]	O	-
+21	:	O	-
+
+# tweet_id 32
+# ...
+1	@NameRingBells	O	-
+2	:	O	-
+3	FAMU	B-MISC	-
+4	Homecoming	I-MISC	-
+5	or	O	-
+6	stay	O	-
+7	in	O	-
+8	Miami	B-LOC	Miami|Q8652
+9	for	O	-
+10	Miami	B-MISC	-
+11	Carnival	I-MISC	-
+12	..	O	-
+13	sigh	O	-
+14	,	O	-
+15	,	O	-
+16	I	O	-
+17	wanna	O	-
+18	go	O	-
+19	...	O	-
+20	you	O	-
+21	suppose	O	-
+22	to	O	-
+23	been	O	-
+24	my	O	-
+25	tour	O	-
+26	guide	O	-
+
+# tweet_id 33
+# ...
+1	OneMain	B-ORG	OneMain Financial|Q28444592
+2	Financial	I-ORG	OneMain Financial|Q28444592
+3	(	O	-
+4	FSN	B-ORG	Full Service Network|Q5508137
+5	)	O	-
+6	Consumer	O	-
+7	Finance	O	-
+8	Sales	O	-
+9	Repres	O	-
+10	...	O	-
+11	-	O	-
+12	Citigroup	B-ORG	Citigroup|Q219508
+13	:	O	-
+14	(	O	-
+15	#	O	-
+16	Columbia	B-LOC	Columbia|Q38453
+17	,	O	-
+18	SC	B-LOC	South Carolina|Q1456
+19	)	O	-
+20	#	O	-
+21	CitiJobs	O	-
+22	#	O	-
+23	Finance	O	-
+24	#	O	-
+25	Jobs	O	-
+26	#	O	-
+27	Job	O	-
+
+# tweet_id 34
+# ...
+1	San	B-LOC	San Jose|Q16553
+2	Jose	I-LOC	San Jose|Q16553
+3	Hosts	O	-
+4	Solar	B-MISC	-
+5	Tour	I-MISC	-
+6	to	O	-
+7	Help	O	-
+8	Residents	O	-
+9	Cut	O	-
+10	Energy	O	-
+11	Costs	O	-
+12	&	O	-
+13	Create	O	-
+14	a	O	-
+15	Bright	O	-
+16	Green	O	-
+17	Future	O	-
+18	:	O	-
+19	The	O	-
+20	City	B-LOC	San Jose|Q16553
+21	of	I-LOC	San Jose|Q16553
+22	San	I-LOC	San Jose|Q16553
+23	Jos	I-LOC	San Jose|Q16553
+24	...	O	-
+
+# tweet_id 35
+# ...
+1	In	O	-
+2	Frederick	B-LOC	Frederick, Maryland|Q472675
+3	,	O	-
+4	MD	B-LOC	Maryland|Q1391
+5	.	O	-
+6	Could	O	-
+7	this	O	-
+8	bus	O	-
+9	make	O	-
+10	it	O	-
+11	to	O	-
+12	Union	B-LOC	Washington Union Station|Q3570
+13	Station	I-LOC	Washington Union Station|Q3570
+14	,	O	-
+15	DC	B-LOC	Washington, D.C.|Q61
+16	by	O	-
+17	:	O	-
+18	?	O	-
+19	#	O	-
+20	bathroombreak	O	-
+
+# tweet_id 36
+# ...
+1	We	O	-
+2	can	O	-
+3	send	O	-
+4	you	O	-
+5	to	O	-
+6	Neverland	B-LOC	Neverland Ranch|Q953021
+7	Ranch	I-LOC	Neverland Ranch|Q953021
+8	,	O	-
+9	a	O	-
+10	Catholic	B-MISC	Catholic Church|Q9592
+11	church	O	-
+12	,	O	-
+13	or	O	-
+14	Penn	B-ORG	Pennsylvania State University|Q739627
+15	State	I-ORG	Pennsylvania State University|Q739627
+16	University	I-ORG	Pennsylvania State University|Q739627
+17	!	O	-
+18	....	O	-
+19	or	O	-
+20	Syracuse	B-ORG	Syracuse University|Q617433
+21	University	I-ORG	Syracuse University|Q617433
+22	@bfmitchell	O	-
+23	we	O	-
+24	have	O	-
+25	fun	O	-
+26	here	O	-
+
+# tweet_id 37
+# ...
+1	Back	O	-
+2	to	O	-
+3	school	O	-
+4	(	O	-
+5	@	O	-
+6	Art	B-ORG	The Art Institutes International – Kansas City|Q7714402
+7	Institutes	I-ORG	The Art Institutes International – Kansas City|Q7714402
+8	International	I-ORG	The Art Institutes International – Kansas City|Q7714402
+9	-	I-ORG	The Art Institutes International – Kansas City|Q7714402
+10	Kansas	I-ORG	The Art Institutes International – Kansas City|Q7714402
+11	City	I-ORG	The Art Institutes International – Kansas City|Q7714402
+12	)	O	-
+
+# tweet_id 38
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	The	O	-
+5	Royal	B-ORG	Royal Copenhagen|Q1440151
+6	Copenhagen	I-ORG	Royal Copenhagen|Q1440151
+7	(	O	-
+8	Mission	B-LOC	-
+9	Dr.	I-LOC	-
+10	,	O	-
+11	Solvang	B-LOC	Solvang, California|Q822559
+12	)	O	-
+
+# tweet_id 39
+# ...
+1	Taste	O	-
+2	testing	O	-
+3	Texas	B-LOC	Texas|Q1439
+4	toast	O	-
+5	steak	O	-
+6	sandwich	O	-
+7	(	O	-
+8	@	O	-
+9	Texas	B-LOC	-
+10	Saloon	I-LOC	-
+11	)	O	-
+
+# tweet_id 40
+# ...
+1	Ferry	B-MISC	ferry|Q25653
+2	to	O	-
+3	Amalfi	B-LOC	Amalfi|Q80563
+4	.	O	-
+5	Now	O	-
+6	waiting	O	-
+7	on	O	-
+8	bus	O	-
+9	that	O	-
+10	will	O	-
+11	take	O	-
+12	us	O	-
+13	up	O	-
+14	to	O	-
+15	Ravello	B-LOC	Ravello|Q81427
+16	.	O	-
+17	#	O	-
+18	fb	O	-
+
+# tweet_id 41
+# ...
+1	Heading	O	-
+2	up	O	-
+3	to	O	-
+4	Santa	B-LOC	Santa Fe, New Mexico|Q38555
+5	Fe	I-LOC	Santa Fe, New Mexico|Q38555
+6	again	O	-
+7	.	O	-
+8	(	O	-
+9	@	O	-
+10	Rail	O	-
+11	Runner	O	-
+12	:	O	-
+13	Sandova	B-LOC	Sandoval County|Q493255
+14	/	O	-
+15	U.S.	B-LOC	-
+16	HWY	I-LOC	-
+17	)	O	-
+
+# tweet_id 42
+# ...
+1	@TrapSquadNard	O	-
+2	_	O	-
+3	Boutta	B-PER	-
+4	Leave	O	-
+5	New	B-LOC	Province of New Jersey|Q2335128
+6	Jersey	I-LOC	Province of New Jersey|Q2335128
+
+# tweet_id 44
+# ...
+1	Dirty	B-PER	Dirty South (musician)|Q968306
+2	South	I-PER	Dirty South (musician)|Q968306
+3	&	O	-
+4	Gareth	B-PER	Gareth Emery|Q555552
+5	Emery	I-PER	Gareth Emery|Q555552
+6	(	O	-
+7	@	O	-
+8	Marquee	B-LOC	-
+9	Nightclub	I-LOC	-
+10	&	I-LOC	-
+11	Dayclub	I-LOC	-
+12	w/	O	-
+13	others	O	-
+14	)	O	-
+
+# tweet_id 45
+# ...
+1	The	O	-
+2	only	O	-
+3	place	O	-
+4	to	O	-
+5	get	O	-
+6	service	O	-
+7	in	O	-
+8	Blue	B-LOC	-
+9	Rodge	I-LOC	-
+10	is	O	-
+11	the	O	-
+12	Bear	B-LOC	-
+13	store	O	-
+
+# tweet_id 46
+# ...
+1	Onward	O	-
+2	to	O	-
+3	Houston	B-LOC	Houston|Q16555
+4	(	O	-
+5	@	O	-
+6	Dallas	B-ORG	-
+7	Love	I-ORG	-
+8	Field	I-ORG	-
+9	Gate	I-ORG	-
+10	)	O	-
+
+# tweet_id 47
+# ...
+1	A	O	-
+2	Lady	O	-
+3	In	O	-
+4	Da	B-LOC	-
+5	Streets	I-LOC	-
+6	&	O	-
+7	amp	O	-
+8	;	O	-
+9	A	O	-
+10	Freak	O	-
+11	In	O	-
+12	Da	B-LOC	-
+13	U	O	-
+14	Know	O	-
+15	What	O	-
+16	?	O	-
+17	Beyonce	B-PER	Beyoncé|Q36153
+18	#	O	-
+
+# tweet_id 48
+# ...
+1	Art	B-MISC	-
+2	Show	I-MISC	-
+3	at	O	-
+4	Rittenhouse	B-LOC	Rittenhouse Square|Q7336808
+5	#	O	-
+6	sonice	O	-
+
+# tweet_id 49
+# ...
+1	Just	O	-
+2	got	O	-
+3	me	O	-
+4	some	O	-
+5	boudain	O	-
+6	from	O	-
+7	Billy	B-ORG	-
+8	Rays	I-ORG	-
+9	in	O	-
+10	Opelousas	B-LOC	Opelousas, Louisiana|Q1154039
+11	.	O	-
+12	Hit	O	-
+13	the	O	-
+14	spot	O	-
+15	.	O	-
+
+# tweet_id 50
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	Northpark	B-LOC	-
+5	Townhomes	I-LOC	-
+6	(	O	-
+7	Apricot	B-LOC	-
+8	drive	O	-
+9	,	O	-
+10	San	B-LOC	San Antonio|Q975
+11	Antonio	I-LOC	San Antonio|Q975
+12	)	O	-
+
+# tweet_id 51
+# ...
+1	Karaoke	O	-
+2	and	O	-
+3	beeeer	O	-
+4	with	O	-
+5	Bert	B-PER	-
+6	(	O	-
+7	@	O	-
+8	Escondidos	B-ORG	-
+9	Mexican	I-ORG	-
+10	Restaurant	I-ORG	-
+11	)	O	-
+
+# tweet_id 52
+# ...
+1	getting	O	-
+2	closer	O	-
+3	to	O	-
+4	home	O	-
+5	.	O	-
+6	(	O	-
+7	@	O	-
+8	Hartsfield	B-LOC	Hartsfield–Jackson Atlanta International Airport|Q214861 
+9	-	I-LOC	Hartsfield–Jackson Atlanta International Airport|Q214861
+10	Jackson	I-LOC	Hartsfield–Jackson Atlanta International Airport|Q214861
+11	Atlanta	I-LOC	Hartsfield–Jackson Atlanta International Airport|Q214861
+12	International	I-LOC	Hartsfield–Jackson Atlanta International Airport|Q214861
+13	Airport	I-LOC	Hartsfield–Jackson Atlanta International Airport|Q214861
+14	(	O	-
+15	ATL	B-ORG	Hartsfield–Jackson Atlanta International Airport|Q214861
+16	)	O	-
+17	w/	O	-
+18	others	O	-
+19	)	O	-
+
+# tweet_id 53
+# ...
+1	A	O	-
+2	few	O	-
+3	more	O	-
+4	days	O	-
+5	until	O	-
+6	I	O	-
+7	can	O	-
+8	watch	O	-
+9	Penn	B-LOC	Penn State Nittany Lions football|Q7163267
+10	state	O	-
+11	get	O	-
+12	bent	O	-
+13	over	O	-
+14	and	O	-
+15	rammed	O	-
+16	by	O	-
+17	Alabama	B-LOC	Alabama Crimson Tide football|Q4705216
+18	lol	O	-
+
+# tweet_id 54
+# ...
+1	Goldie	B-PER	Goldie Hawn|Q188459
+2	Hawn	I-PER	Goldie Hawn|Q188459
+3	Spotted	O	-
+4	In	O	-
+5	Manhattan	B-LOC	Manhattan, Kansas|Q856841
+6	,	O	-
+7	NYC	B-LOC	New York City|Q60
+8	.	O	-
+
+# tweet_id 55
+# ...
+1	About	O	-
+2	to	O	-
+3	have	O	-
+4	brunch	O	-
+5	.	O	-
+6	In	O	-
+7	north	O	-
+8	Miami	B-LOC	Miami Beach, Florida|Q201516
+9	Beach	I-LOC	Miami Beach, Florida|Q201516
+10	.	O	-
+
+# tweet_id 56
+# ...
+1	@carolfowler	O	-
+2	Caleb	B-PER	-
+3	Janie	I-PER	-
+4	serviceable	O	-
+5	backup	O	-
+6	.	O	-
+7	KC	B-LOC	Kansas City|Q41819
+8	,	O	-
+9	Denver	B-LOC	Denver|Q16554
+10	&	O	-
+11	Seattle	B-LOC	Seattle|Q5083
+12	still	O	-
+13	left	O	-
+14	on	O	-
+15	schedule	O	-
+16	.	O	-
+17	Optimist	O	-
+18	with	O	-
+19	knowledge	O	-
+20	.	O	-
+
+# tweet_id 57
+# ...
+1	Miss	B-MISC	Miss Angola|Q634149
+2	Angola	I-MISC	Miss Angola|Q634149
+3	was	O	-
+4	crowned	O	-
+5	as	O	-
+6	Miss	B-MISC	Miss Universe 2011|Q932457
+7	Universe	I-MISC	Miss Universe 2011|Q932457
+8	.	O	-
+9	Wonder	O	-
+10	what	O	-
+11	the	O	-
+12	ppl	O	-
+13	from	O	-
+14	Venus	B-MISC	Venus|Q313
+15	and	O	-
+16	Mars	B-MISC	Mars|Q111
+17	think	O	-
+18	about	O	-
+19	that	O	-
+20	.	O	-
+21	#	O	-
+22	AlesUnsolvedMisteries	O	-
+
+# tweet_id 58
+# ...
+1	At	O	-
+2	the	O	-
+3	airport	O	-
+4	in	O	-
+5	Dallas	B-LOC	Dallas|Q16557
+6	,	O	-
+7	waiting	O	-
+8	to	O	-
+9	board	O	-
+10	my	O	-
+11	last	O	-
+12	flight	O	-
+13	to	O	-
+14	Denver	B-LOC	Denver|Q16554
+15	!	O	-
+16	!	O	-
+17	#	O	-
+18	GroupUNO	O	-
+19	#	O	-
+20	NCMCO	O	-
+21	#	O	-
+22	redjacketswag	O	-
+23	Who	O	-
+24	s	O	-
+25	ready	O	-
+26	?	O	-
+27	?	O	-
+
+# tweet_id 59
+# ...
+1	Big	O	-
+2	game	O	-
+3	today	O	-
+4	...	O	-
+5	If	O	-
+6	we	O	-
+7	win	O	-
+8	I	O	-
+9	wo	O	-
+10	nt	O	-
+11	have	O	-
+12	to	O	-
+13	work	O	-
+14	a	O	-
+15	playoff	O	-
+16	game	O	-
+17	during	O	-
+18	Dawgs	B-ORG	Georgia Bulldogs football|Q5547370
+19	v.	O	-
+20	Nebraska	B-ORG	Nebraska Cornhuskers football|Q6984693
+21	(	O	-
+22	@	O	-
+23	The	B-ORG	Seattle Storm|Q2056983
+24	Seattle	I-ORG	Seattle Storm|Q2056983
+25	Storm	I-ORG	Seattle Storm|Q2056983
+26	)	O	-
+
+# tweet_id 60
+# ...
+1	Happy	O	-
+2	October	B-MISC	October|Q124
+3	everyone	O	-
+4	!	O	-
+5	:)	O	-
+6	Thank	O	-
+7	you	O	-
+8	God	B-MISC	deity|Q178885
+9	for	O	-
+10	this	O	-
+11	new	O	-
+12	season	O	-
+13	.	O	-
+14	Fall	O	-
+15	is	O	-
+16	by	O	-
+17	far	O	-
+18	my	O	-
+19	favorite	O	-
+20	season	O	-
+21	in	O	-
+22	NYC	B-LOC	New York City|Q60
+23	.	O	-
+24	Yay	O	-
+25	!	O	-
+
+# tweet_id 61
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	The	B-LOC	-
+5	Centre	I-LOC	-
+6	Apartments	I-LOC	-
+7	(	O	-
+8	Croyden	B-LOC	-
+9	Ave	I-LOC	-
+10	,	O	-
+11	Croyden	B-LOC	-
+12	Ave	I-LOC	-
+13	&	I-LOC	-
+14	Drake	I-LOC	-
+15	,	O	-
+16	Kalamazoo	B-LOC	Kalamazoo, Michigan|Q167155
+17	)	O	-
+
+# tweet_id 62
+# ...
+1	Dear	O	-
+2	citizens	O	-
+3	of	O	-
+4	Phoenix	B-LOC	Phoenix, Arizona|Q16556
+5	,	O	-
+6	Arizona	B-LOC	Arizona|Q816
+7	:	O	-
+8	The	O	-
+9	loud	O	-
+10	laughter	O	-
+11	followed	O	-
+12	by	O	-
+13	deep	O	-
+14	sobbing	O	-
+15	you	O	-
+16	heard	O	-
+17	was	O	-
+18	the	O	-
+19	TSA	O	-
+20	after	O	-
+21	I	O	-
+22	went	O	-
+23	through	O	-
+24	the	O	-
+25	body	O	-
+26	scan	O	-
+27	.	O	-
+
+# tweet_id 63
+# ...
+1	Miami	B-LOC	Miami|Q8652
+2	are	O	-
+3	you	O	-
+4	ready	O	-
+5	for	O	-
+6	Bobby	B-PER	Bobby V|Q682511
+7	V	I-PER	Bobby V|Q682511
+8	at	O	-
+9	cafe	B-LOC	-
+10	iguana	I-LOC	-
+11	tonight	O	-
+12	Live	O	-
+
+# tweet_id 64
+# ...
+1	Tim	B-PER	-
+2	Hightower	I-PER	-
+3	make	O	-
+4	me	O	-
+5	wanna	O	-
+6	kiss	O	-
+7	Jessica	B-PER	-
+8	Sowerbrower	I-PER	-
+9	.	O	-
+10	-Dan	B-PER	-
+11	Bowman	I-PER	-
+12	lmaaaaoooo	O	-
+
+# tweet_id 65
+# ...
+1	Watching	O	-
+2	Green	B-ORG	Green Bay Packers|Q213837
+3	Bay	I-ORG	Green Bay Packers|Q213837
+4	Do	O	-
+5	There	O	-
+6	Thing	O	-
+7	.	O	-
+8	#	O	-
+9	NFL	B-ORG	National Football League|Q1215884
+
+# tweet_id 66
+# ...
+1	Sons	O	-
+2	of	O	-
+3	the	O	-
+4	Republic	B-LOC	Republic of Texas|Q170588
+5	of	I-LOC	Republic of Texas|Q170588
+6	Texas	I-LOC	Republic of Texas|Q170588
+7	(	O	-
+8	@	O	-
+9	San	B-LOC	-
+10	Antonio	I-LOC	-
+11	Country	I-LOC	-
+12	Club	I-LOC	-
+13	)	O	-
+
+# tweet_id 67
+# ...
+1	Coffee	O	-
+2	for	O	-
+3	the	O	-
+4	road	O	-
+5	-	O	-
+6	hampton	B-LOC	Hampton Bays|Q3461320
+7	bays	I-LOC	Hampton Bays|Q3461320
+8	bound	O	-
+9	with	O	-
+10	carol	B-PER	-
+11	:)	O	-
+12	(	O	-
+13	@	O	-
+14	Dunkin	B-LOC	Dunkin'|Q847743 
+15	Donuts	I-LOC	Dunkin'|Q847743
+16	)	O	-
+
+# tweet_id 68
+# ...
+1	Time	O	-
+2	to	O	-
+3	go	O	-
+4	Black	B-MISC	Black Friday (shopping)|Q86483
+5	Friday	I-MISC	Black Friday (shopping)|Q86483
+6	shopping	O	-
+7	.	O	-
+8	Dawkins	B-PER	Dawkins|Q21508013
+9	,	O	-
+10	help	O	-
+11	me	O	-
+12	.	O	-
+
+# tweet_id 69
+# ...
+1	Roundtable	O	-
+2	(	O	-
+3	@	O	-
+4	Naval	B-ORG	Naval Air Station Jacksonville|Q3017076
+5	Air	I-ORG	Naval Air Station Jacksonville|Q3017076
+6	Station	I-ORG	Naval Air Station Jacksonville|Q3017076
+7	Jacksonville	I-ORG	Naval Air Station Jacksonville|Q3017076
+8	)	O	-
+
+# tweet_id 70
+# ...
+1	Trying	O	-
+2	out	O	-
+3	the	O	-
+4	new	O	-
+5	place	O	-
+6	with	O	-
+7	Mark	B-PER	-
+8	and	O	-
+9	Randee	B-PER	-
+10	.	O	-
+11	(	O	-
+12	@	O	-
+13	Dos	B-ORG	-
+14	Gringos	I-ORG	-
+15	Southwestern	I-ORG	-
+16	Grill	I-ORG	-
+17	)	O	-
+
+# tweet_id 71
+# ...
+1	Excited	O	-
+2	to	O	-
+3	be	O	-
+4	producing	O	-
+5	video	O	-
+6	for	O	-
+7	@NWEN_ORGs	O	-
+8	Entrepreneur	B-ORG	-
+9	University	I-ORG	-
+10	this	O	-
+11	AM	O	-
+12	at	O	-
+13	Bell	B-LOC	-
+14	Harbor	I-LOC	-
+15	.	O	-
+16	#	O	-
+17	NWENEU	O	-
+
+# tweet_id 72
+# ...
+1	Boise	B-LOC	Boise State Broncos football|Q16192112
+2	vs	O	-
+3	oklahoma	B-LOC	Oklahoma Sooners football|Q10608114
+4	in	O	-
+5	the	O	-
+6	championship	O	-
+7	would	O	-
+8	be	O	-
+9	hilarious	O	-
+10	.	O	-
+11	#	O	-
+12	ncaa	O	-
+
+# tweet_id 73
+# ...
+1	#	O	-
+2	NP	O	-
+3	"	O	-
+4	New	B-MISC	The Wild, the Innocent & the E Street Shuffle|Q1463801
+5	York	I-MISC	The Wild, the Innocent & the E Street Shuffle|Q1463801
+6	City	I-MISC	The Wild, the Innocent & the E Street Shuffle|Q1463801
+7	Serenade	I-MISC	The Wild, the Innocent & the E Street Shuffle|Q1463801
+8	"	O	-
+9	Bruce	B-PER	Bruce Springsteen|Q1225
+10	Springsteen	I-PER	Bruce Springsteen|Q1225
+11	.	O	-
+12	One	O	-
+13	of	O	-
+14	my	O	-
+15	favorites	O	-
+16	,	O	-
+17	and	O	-
+18	under	O	-
+19	appreciated	O	-
+20	songs	O	-
+21	.	O	-
+
+# tweet_id 74
+# ...
+1	@pitbull	O	-
+2	so	O	-
+3	what	O	-
+4	s	O	-
+5	going	O	-
+6	in	O	-
+7	Akron	B-LOC	Akron, Ohio|Q163132
+8	today	O	-
+9	?	O	-
+
+# tweet_id 75
+# ...
+1	Willie	B-PER	Willie Nelson|Q206112
+2	Nelson	I-PER	Willie Nelson|Q206112
+3	just	O	-
+4	made	O	-
+5	me	O	-
+6	cry	O	-
+7	and	O	-
+8	join	O	-
+9	the	O	-
+10	ASPCA	B-ORG	American Society for the Prevention of Cruelty to Animals|Q2416421
+11	.	O	-
+
+# tweet_id 76
+# ...
+1	Oh	O	-
+2	TSA	B-ORG	Transportation Security Administration|Q2304163
+3	,	O	-
+4	you	O	-
+5	are	O	-
+6	a	O	-
+7	marvel	O	-
+8	of	O	-
+9	inefficiency	O	-
+10	.	O	-
+11	(	O	-
+12	@	O	-
+13	El	B-LOC	El Paso International Airport|Q1231062
+14	Paso	I-LOC	El Paso International Airport|Q1231062
+15	International	I-LOC	El Paso International Airport|Q1231062
+16	Airport	I-LOC	El Paso International Airport|Q1231062
+17	(	O	-
+18	ELP	B-LOC	El Paso International Airport|Q1231062
+19	)	O	-
+20	w/	O	-
+21	others	O	-
+22	)	O	-
+
+# tweet_id 77
+# ...
+1	Chris	B-PER	-
+2	from	O	-
+3	Brooklyn	B-LOC	Brooklyn|Q18419
+4	is	O	-
+5	yelling	O	-
+6	out	O	-
+7	the	O	-
+8	#	O	-
+9	OWS	B-MISC	Occupy Wall Street|Q180654
+10	message	O	-
+11	being	O	-
+12	chanted	O	-
+13	.	O	-
+14	"	O	-
+15	I	O	-
+16	feel	O	-
+17	like	O	-
+18	I	O	-
+19	m	O	-
+20	in	O	-
+21	church	O	-
+22	"	O	-
+23	he	O	-
+24	laughs	O	-
+
+# tweet_id 78
+# ...
+1	Enjoying	O	-
+2	this	O	-
+3	snowy	O	-
+4	night	O	-
+5	in	O	-
+6	New	B-LOC	New York City|Q60
+7	York	I-LOC	New York City|Q60
+8	City	I-LOC	New York City|Q60
+9	while	O	-
+10	listening	O	-
+11	to	O	-
+12	some	O	-
+13	Adele	B-PER	Adele|Q23215
+14	&	O	-
+15	lt	O	-
+16	;	O	-
+
+# tweet_id 79
+# ...
+1	QA	O	-
+2	Automation	O	-
+3	Engineer	O	-
+4	(	O	-
+5	#	O	-
+6	SanFrancisco	B-LOC	San Francisco|Q62
+7	,	O	-
+8	CA	B-LOC	California|Q99
+9	)	O	-
+10	#	O	-
+11	HRIJobs	O	-
+12	#	O	-
+13	Sales	O	-
+14	#	O	-
+15	Jobs	O	-
+16	#	O	-
+17	Job	O	-
+
+# tweet_id 80
+# ...
+1	Watching	O	-
+2	some	O	-
+3	Monday	B-MISC	Monday|Q105
+4	night	O	-
+5	football	O	-
+6	!	O	-
+7	!	O	-
+8	!	O	-
+9	(	O	-
+10	@	O	-
+11	Buffalo	B-ORG	Buffalo Wild Wings|Q509255
+12	Wild	I-ORG	Buffalo Wild Wings|Q509255
+13	Wings	I-ORG	Buffalo Wild Wings|Q509255
+14	)	O	-
+
+# tweet_id 81
+# ...
+1	Jus	O	-
+2	listen	O	-
+3	to	O	-
+4	Beyonce	B-PER	Beyoncé|Q36153
+5	whole	O	-
+6	album	O	-
+7	in	O	-
+8	like	O	-
+9	mins	O	-
+10	to	O	-
+11	SHORT	O	-
+
+# tweet_id 82
+# ...
+1	getting	O	-
+2	ready	O	-
+3	for	O	-
+4	some	O	-
+5	good	O	-
+6	jazz	O	-
+7	music	O	-
+8	(	O	-
+9	@	O	-
+10	House	B-LOC	House of Blues|Q648898
+11	of	I-LOC	House of Blues|Q648898
+12	Blues	I-LOC	House of Blues|Q648898
+13	w/	O	-
+14	@denverleonard	O	-
+15	)	O	-
+
+# tweet_id 84
+# ...
+1	Kassidy	B-PER	-
+2	and	O	-
+3	Yaya	B-PER	-
+4	.	O	-
+5	:-)	O	-
+6	(	O	-
+7	@	O	-
+8	Atlantic	B-LOC	-
+9	Station	I-LOC	-
+10	Arch	I-LOC	-
+11	)	O	-
+
+# tweet_id 85
+# ...
+1	POKO	B-ORG	-
+2	wins	O	-
+3	!	O	-
+4	!	O	-
+5	(	O	-
+6	@	O	-
+7	NYC	B-ORG	NYC Social Sports Club|Q6956056
+8	Social	I-ORG	NYC Social Sports Club|Q6956056
+9	Sports	I-ORG	NYC Social Sports Club|Q6956056
+10	Club	I-ORG	NYC Social Sports Club|Q6956056
+11	-	O	-
+12	Village	B-ORG	-
+13	Pourhouse	I-ORG	-
+14	)	O	-
+
+# tweet_id 86
+# ...
+1	FAIR	O	-
+2	.	O	-
+3	tasting	O	-
+4	this	O	-
+5	afternoon	O	-
+6	(	O	-
+7	@	O	-
+8	Whole	B-ORG	Whole Foods Market|Q1809448
+9	Foods	I-ORG	Whole Foods Market|Q1809448
+10	Market	I-ORG	Whole Foods Market|Q1809448
+11	)	O	-
+
+# tweet_id 87
+# ...
+1	@LouisCK	O	-
+2	about	O	-
+3	to	O	-
+4	take	O	-
+5	stage	O	-
+6	at	O	-
+7	Beacon	B-LOC	Beacon Theatre (New York City)|Q264186
+8	Theater	I-LOC	Beacon Theatre (New York City)|Q264186
+9	!	O	-
+10	(	O	-
+11	@	O	-
+12	Beacon	B-LOC	Beacon Theatre (New York City)|Q264186
+13	Theatre	I-LOC	Beacon Theatre (New York City)|Q264186
+14	w/	O	-
+15	others	O	-
+16	)	O	-
+17	[	O	-
+18	pic	O	-
+19	]	O	-
+20	:	O	-
+
+# tweet_id 88
+# ...
+1	Blackberry	B-MISC	BlackBerry OS|Q880016
+2	app	O	-
+3	world	O	-
+4	finally	O	-
+5	got	O	-
+6	a	O	-
+7	face	O	-
+8	lift	O	-
+
+# tweet_id 89
+# ...
+1	Back	O	-
+2	to	O	-
+3	work	O	-
+4	after	O	-
+5	an	O	-
+6	awesome	O	-
+7	weekend	O	-
+8	off	O	-
+9	(	O	-
+10	@	O	-
+11	Panera	B-ORG	Panera Bread|Q7130852
+12	Bread	I-ORG	Panera Bread|Q7130852
+13	)	O	-
+
+# tweet_id 90
+# ...
+1	@MissCaliJay	O	-
+2	buckeye	O	-
+3	an	O	-
+4	hour	O	-
+5	west	O	-
+6	of	O	-
+7	Phoenix	B-LOC	Phoenix, Arizona|Q16556
+
+# tweet_id 91
+# ...
+1	I	O	-
+2	spent	O	-
+3	$	O	-
+4	in	O	-
+5	Morgantown	B-LOC	Morgantown, West Virginia|Q653636
+6	,	O	-
+7	WV	B-LOC	West Virginia|Q1371
+8	this	O	-
+9	weekend	O	-
+10	,	O	-
+11	which	O	-
+12	is	O	-
+13	like	O	-
+14	a	O	-
+15	West	B-MISC	-
+16	Virginians	I-MISC	-
+17	yearly	O	-
+18	income	O	-
+19	.	O	-
+20	You	O	-
+21	re	O	-
+22	welcome	O	-
+23	for	O	-
+24	the	O	-
+25	stimulus	O	-
+26	package	O	-
+27	.	O	-
+
+# tweet_id 92
+# ...
+1	At	O	-
+2	the	O	-
+3	Hilton	B-MISC	-
+4	Regional	I-MISC	-
+5	Owner	I-MISC	-
+6	Conference	I-MISC	-
+7	:	O	-
+8	Hampton	B-LOC	Hampton by Hilton|Q5646230
+9	Inn	I-LOC	Hampton by Hilton|Q5646230
+10	&	I-LOC	Hampton by Hilton|Q5646230
+11	Suites	I-LOC	Hampton by Hilton|Q5646230
+12	,	O	-
+13	Sacramento	B-LOC	Sacramento, California|Q18013
+
+# tweet_id 93
+# ...
+1	I	O	-
+2	think	O	-
+3	Kelly	B-PER	Kelly Clarkson|Q483507
+4	Clarkson	I-PER	Kelly Clarkson|Q483507
+5	is	O	-
+6	a	O	-
+7	lesbian	O	-
+8	.	O	-
+9	All	O	-
+10	her	O	-
+11	songs	O	-
+12	are	O	-
+13	about	O	-
+14	hating	O	-
+15	men	O	-
+16	.	O	-
+
+# tweet_id 94
+# ...
+1	Wayne	B-PER	Wayne Rooney|Q266613
+2	Rooney	I-PER	Wayne Rooney|Q266613
+3	has	O	-
+4	nothing	O	-
+5	on	O	-
+6	David	B-PER	David Villa|Q83006
+7	Villa	I-PER	David Villa|Q83006
+8	...	O	-
+9	Unbelievable	O	-
+10	free	O	-
+11	kick	O	-
+12	for	O	-
+13	a	O	-
+14	goal	O	-
+15	.	O	-
+16	#	O	-
+17	latetweet	O	-
+
+# tweet_id 95
+# ...
+1	The	O	-
+2	horror	O	-
+3	is	O	-
+4	back	O	-
+5	and	O	-
+6	improved	O	-
+7	for	O	-
+8	Halloween	B-MISC	Halloween|Q251868
+9	...	O	-
+10	always	O	-
+11	fun	O	-
+12	in	O	-
+13	Mountain	B-LOC	Mountain View, California|Q486860
+14	View	I-LOC	Mountain View, California|Q486860
+15	!	O	-
+16	–	O	-
+17	at	O	-
+18	DC	B-LOC	-
+19	Cemetery	I-LOC	-
+
+# tweet_id 96
+# ...
+1	@BOOMERESIASON	O	-
+2	I	O	-
+3	hate	O	-
+4	Omar	B-PER	-
+5	from	O	-
+6	Brooklyn	B-LOC	Brooklyn|Q18419
+7	.	O	-
+
+# tweet_id 97
+# ...
+1	Boats	O	-
+2	!	O	-
+3	(	O	-
+4	@	O	-
+5	Dewey	B-LOC	Dewey Beach, Delaware|Q755722
+6	Beach	I-LOC	Dewey Beach, Delaware|Q755722
+7	!	O	-
+8	w/	O	-
+9	others	O	-
+10	)	O	-
+11	[	O	-
+12	pic	O	-
+13	]	O	-
+14	:	O	-
+
+# tweet_id 98
+# ...
+1	so	O	-
+2	proud	O	-
+3	of	O	-
+4	LA	B-LOC	Los Angeles|Q65
+5	;)	O	-
+6	“	O	-
+7	@WWLTV	O	-
+8	:	O	-
+9	Video	O	-
+10	:	O	-
+11	Stompers	O	-
+12	at	O	-
+13	Macys	B-MISC	Macy's Thanksgiving Day Parade|Q79407
+14	Thanksgiving	I-MISC	Macy's Thanksgiving Day Parade|Q79407
+15	Day	I-MISC	Macy's Thanksgiving Day Parade|Q79407
+16	parade	I-MISC	Macy's Thanksgiving Day Parade|Q79407
+17	”	O	-
+
+# tweet_id 99
+# ...
+1	bieber	B-PER	Justin Bieber|Q34086
+2	yeahhh	O	-
+3	,	O	-
+4	we	O	-
+5	love	O	-
+6	#	O	-
+7	CANADA	B-LOC	Canada|Q16
+8	:)	O	-
+9	.	O	-
+10	Come	O	-
+11	to	O	-
+12	montreal	B-LOC	Montreal|Q340
+13	,	O	-
+14	ctober	O	-
+15	?	O	-
+16	:D	O	-
+17	Je	O	-
+18	taime	O	-
+19	justin	B-PER	Justin Bieber|Q34086
+20	&	O	-
+21	lt	O	-
+22	;	O	-
+23	.	O	-
+
+# tweet_id 100
+# ...
+1	A	O	-
+2	foot	O	-
+3	next	O	-
+4	to	O	-
+5	Katharine	B-PER	Katharine McPhee|Q229282
+6	McPhee	I-PER	Katharine McPhee|Q229282
+7	.	O	-
+8	My	O	-
+9	idol	O	-
+10	moment	O	-
+11	finally	O	-
+12	complete	O	-
+13	.	O	-
+14	(	O	-
+15	@	O	-
+16	Cafe	B-LOC	Café de Cluny|Q12713986
+17	Cluny	I-LOC	Café de Cluny|Q12713986
+18	)	O	-
+
+# tweet_id 101
+# ...
+1	Everyone	O	-
+2	follow	O	-
+3	@locopeztacos	O	-
+4	.	O	-
+5	Best	O	-
+6	food	O	-
+7	in	O	-
+8	Philadelphia	B-LOC	Philadelphia|Q1345
+9	!	O	-
+
+# tweet_id 102
+# ...
+1	In	O	-
+2	my	O	-
+3	bunk	O	-
+4	enjoying	O	-
+5	a	O	-
+6	movie	O	-
+7	.	O	-
+8	Sleep	O	-
+9	soon	O	-
+10	so	O	-
+11	I	O	-
+12	can	O	-
+13	drive	O	-
+14	to	O	-
+15	Seattle	B-LOC	Seattle|Q5083
+16	early	O	-
+17	...	O	-
+18	@	O	-
+19	Portland	B-LOC	Portland, Oregon|Q6106
+20	,	O	-
+21	OR	B-LOC	Oregon|Q824
+
+# tweet_id 103
+# ...
+1	War	B-LOC	War Memorial Stadium (Arkansas)|Q3566221
+2	Memorial	I-LOC	War Memorial Stadium (Arkansas)|Q3566221
+3	Stadium	I-LOC	War Memorial Stadium (Arkansas)|Q3566221
+4	looks	O	-
+5	amazing	O	-
+6	tonight	O	-
+7	!	O	-
+8	Go	O	-
+9	Hogs	O	-
+10	!	O	-
+11	!	O	-
+12	!	O	-
+13	#	O	-
+14	WPS	O	-
+15	#	O	-
+16	Razorbacks	O	-
+
+# tweet_id 104
+# ...
+1	Ryan	B-PER	Ryan Adams|Q437970
+2	Adams	I-PER	Ryan Adams|Q437970
+3	Heartbreaker	B-MISC	Heartbreaker|Q645435
+4	album	O	-
+5	on	O	-
+6	...	O	-
+7	Yes	O	-
+8	!	O	-
+
+# tweet_id 105
+# ...
+1	On	O	-
+2	the	O	-
+3	way	O	-
+4	back	O	-
+5	to	O	-
+6	Durham	B-LOC	Durham, England|Q179815
+
+# tweet_id 106
+# ...
+1	That	O	-
+2	Old	B-ORG	Old Navy|Q2735242
+3	Navy	I-ORG	Old Navy|Q2735242
+4	commercial	O	-
+5	is	O	-
+6	so	O	-
+7	damn	O	-
+8	#	O	-
+9	STUPID	O	-
+
+# tweet_id 107
+# ...
+1	Duran	B-MISC	Duran Duran|Q58381
+2	Duran	I-MISC	Duran Duran|Q58381
+3	Concert	O	-
+4	(	O	-
+5	@	O	-
+6	Nokia	B-LOC	Microsoft Theater|Q7048038
+7	Theatre	I-LOC	Microsoft Theater|Q7048038
+8	w/	O	-
+9	others	O	-
+10	)	O	-
+
+# tweet_id 108
+# ...
+1	Just	O	-
+2	posted	O	-
+3	a	O	-
+4	photo	O	-
+5	@	O	-
+6	Charlotte	B-LOC	Charlotte/Douglas International Airport|Q597649
+7	-	I-LOC	Charlotte/Douglas International Airport|Q597649
+8	Douglas	I-LOC	Charlotte/Douglas International Airport|Q597649
+9	International	I-LOC	Charlotte/Douglas International Airport|Q597649
+10	Airport	I-LOC	Charlotte/Douglas International Airport|Q597649
+11	(	O	-
+12	CLT	B-ORG	Charlotte/Douglas International Airport|Q597649
+13	)	O	-
+
+# tweet_id 109
+# ...
+1	This	O	-
+2	nigga	O	-
+3	had	O	-
+4	me	O	-
+5	thinking	O	-
+6	I	O	-
+7	was	O	-
+8	going	O	-
+9	to	O	-
+10	Long	B-LOC	Long Beach, California|Q16739
+11	Beach	I-LOC	Long Beach, California|Q16739
+12	tonite	O	-
+13	...	O	-
+14	Had	O	-
+15	a	O	-
+16	nigga	O	-
+17	all	O	-
+18	dressed	O	-
+19	up	O	-
+20	and	O	-
+21	shit	O	-
+22	...	O	-
+23	I	O	-
+24	hate	O	-
+25	flakes	O	-
+
+# tweet_id 110
+# ...
+1	Maybe	O	-
+2	ill	O	-
+3	kick	O	-
+4	it	O	-
+5	one	O	-
+6	last	O	-
+7	night	O	-
+8	in	O	-
+9	Ohio	B-LOC	Ohio|Q1397
+
+# tweet_id 111
+# ...
+1	Chai	O	-
+2	Latte	O	-
+3	to	O	-
+4	get	O	-
+5	me	O	-
+6	home	O	-
+7	!	O	-
+8	(	O	-
+9	@	O	-
+10	Starbucks	B-ORG	Starbucks|Q37158
+11	)	O	-
+
+# tweet_id 112
+# ...
+1	The	O	-
+2	Sis	O	-
+3	and	O	-
+4	the	O	-
+5	Dunnys	O	-
+6	@	O	-
+7	The	B-LOC	Cosmopolitan of Las Vegas|Q1436845
+8	Cosmopolitan	I-LOC	Cosmopolitan of Las Vegas|Q1436845
+9	of	I-LOC	Cosmopolitan of Las Vegas|Q1436845
+10	Las	I-LOC	Cosmopolitan of Las Vegas|Q1436845
+11	Vegas	I-LOC	Cosmopolitan of Las Vegas|Q1436845
+
+# tweet_id 113
+# ...
+1	Watching	O	-
+2	"	O	-
+3	The	B-MISC	The King of Queens|Q826594
+4	King	I-MISC	The King of Queens|Q826594
+5	of	I-MISC	The King of Queens|Q826594
+6	Queens	I-MISC	The King of Queenn|Q826594
+7	"	O	-
+8	gettin	O	-
+9	weak	O	-
+10	haha	O	-
+
+# tweet_id 114
+# ...
+1	@Showtime_Guard	O	-
+2	u	O	-
+3	got	O	-
+4	that	O	-
+5	done	O	-
+6	in	O	-
+7	Texas	B-LOC	Texas|Q1439
+8	?	O	-
+
+# tweet_id 115
+# ...
+1	@JessicaFackler	O	-
+2	//	O	-
+3	I	O	-
+4	bet	O	-
+5	they	O	-
+6	have	O	-
+7	perms	O	-
+8	in	O	-
+9	Michigan	B-LOC	Michigan|Q1166
+10	.	O	-
+11	#	O	-
+12	justsayin	O	-
+13	.	O	-
+
+# tweet_id 116
+# ...
+1	@BIEBERINLA	O	-
+2	cuz	O	-
+3	Janice	O	-
+4	what	O	-
+5	to	O	-
+6	eat	O	-
+7	filipino	B-MISC	Filipino|Q33298
+8	food	O	-
+9	so	O	-
+10	we	O	-
+11	love	O	-
+12	to	O	-
+13	eat	O	-
+14	Filipino	B-MISC	Filipino|Q33298
+15	food	O	-
+
+# tweet_id 117
+# ...
+1	Mole	B-PER	-
+2	Poblano	I-PER	-
+3	@Javiers	O	-
+4	#	O	-
+5	Dallas	B-LOC	Dallas|Q16557
+6	#	O	-
+7	addicted	O	-
+
+# tweet_id 118
+# ...
+1	DMb	B-MISC	Dave Matthews Band Caravan|Q5229304
+2	caravan	I-MISC	Dave Matthews Band Caravan|Q5229304
+3	.	O	-
+4	Pics	O	-
+5	of	O	-
+6	"	O	-
+7	the	O	-
+8	reverend	O	-
+9	"	O	-
+10	to	O	-
+11	follow	O	-
+12	...	O	-
+13	(	O	-
+14	@	O	-
+15	Randalls	B-LOC	Randalls and Wards Islands|Q21042825
+16	Island	I-LOC	Randalls and Wards Islands|Q21042825
+17	w/	O	-
+18	others	O	-
+19	)	O	-
+
+# tweet_id 119
+# ...
+1	currently	O	-
+2	at	O	-
+3	the	O	-
+4	best	O	-
+5	thing	O	-
+6	about	O	-
+7	Florida	B-LOC	Florida|Q812
+8	...	O	-
+9	Steak	B-ORG	Steak 'n Shake|Q7605233
+10	n	I-ORG	Steak 'n Shake|Q7605233
+11	Shake	I-ORG	Steak 'n Shake|Q7605233
+12	!	O	-
+13	!	O	-
+14	:)	O	-
+
+# tweet_id 120
+# ...
+1	@brianjohnsonM	O	-
+2	I	O	-
+3	just	O	-
+4	bought	O	-
+5	it	O	-
+6	on	O	-
+7	eBay	B-MISC	EBay|Q58024
+8	:	O	-
+9	)	O	-
+
+# tweet_id 121
+# ...
+1	Found	O	-
+2	out	O	-
+3	Bon	B-PER	Bon Iver|Q357340
+4	Iver	I-PER	Bon Iver|Q357340
+5	is	O	-
+6	in	O	-
+7	Council	B-LOC	Council Bluffs, Iowa|Q695565
+8	Bluffs	I-LOC	Council Bluffs, Iowa|Q695565
+9	on	O	-
+10	the	O	-
+11	th	O	-
+12	.	O	-
+13	I	O	-
+14	need	O	-
+15	to	O	-
+16	look	O	-
+17	into	O	-
+18	these	O	-
+19	things	O	-
+20	more	O	-
+21	in	O	-
+22	advance	O	-
+23	.	O	-
+
+# tweet_id 122
+# ...
+1	#	O	-
+2	transamerica	O	-
+3	#	O	-
+4	pyramid	O	-
+5	#	O	-
+6	transamericapyramid	O	-
+7	#	O	-
+8	sfo	O	-
+9	#	O	-
+10	sanfrancisco	B-LOC	San Francisco|Q62
+11	#	O	-
+12	california	B-LOC	California|Q99
+13	#	O	-
+14	usa	O	-
+15	#	O	-
+16	us	O	-
+17	#	O	-
+18	unit	O	-
+19	@	O	-
+20	Transamerica	B-MISC	Transamerica Pyramid|Q216865
+21	Pyramid	I-MISC	Transamerica Pyramid|Q216865
+
+# tweet_id 123
+# ...
+1	Good	O	-
+2	morning	O	-
+3	.	O	-
+4	Been	O	-
+5	up	O	-
+6	and	O	-
+7	driving	O	-
+8	hours	O	-
+9	already	O	-
+10	.	O	-
+11	Less	O	-
+12	than	O	-
+13	miles	O	-
+14	from	O	-
+15	home	O	-
+16	...	O	-
+17	@	O	-
+18	Cedar	B-LOC	Cedar City, Utah|Q487212
+19	City	I-LOC	Cedar City, Utah|Q487212
+20	,	O	-
+21	UT	B-LOC	Utah|Q829
+
+# tweet_id 124
+# ...
+1	Wow	O	-
+2	FIFA	B-ORG	FIFA|Q253414
+3	bout	O	-
+4	to	O	-
+5	be	O	-
+6	sick	O	-
+
+# tweet_id 125
+# ...
+1	Child	O	-
+2	Abduction	O	-
+3	Emergency	O	-
+4	issued	O	-
+5	for	O	-
+6	Chicago	B-LOC	Chicago|Q1297
+7	,	O	-
+8	IL	B-LOC	Illinois|Q1204
+
+# tweet_id 126
+# ...
+1	@I_AM_HOTROD	O	-
+2	when	O	-
+3	and	O	-
+4	where	O	-
+5	did	O	-
+6	you	O	-
+7	go	O	-
+8	to	O	-
+9	Canada	B-LOC	Canada|Q16
+10	?	O	-
+11	?	O	-
+12	Go	O	-
+13	to	O	-
+14	Montreal	B-LOC	Montreal|Q340
+15	you	O	-
+16	re	O	-
+17	so	O	-
+18	Hot	O	-
+
+# tweet_id 127
+# ...
+1	Damn	O	-
+2	it	O	-
+3	,	O	-
+4	back	O	-
+5	to	O	-
+6	Boston	B-LOC	Boston|Q100
+7	.	O	-
+8	Ill	O	-
+9	miss	O	-
+10	you	O	-
+11	NYC	B-LOC	New York City|Q60
+12	.	O	-
+
+# tweet_id 128
+# ...
+1	My	O	-
+2	view	O	-
+3	outside	O	-
+4	the	O	-
+5	cabin	O	-
+6	...	O	-
+7	just	O	-
+8	breathtaking	O	-
+9	@	O	-
+10	Big	B-LOC	Big Bear Lake, California|Q430708
+11	Bear	I-LOC	Big Bear Lake, California|Q430708
+12	Lake	I-LOC	Big Bear Lake, California|Q430708
+13	,	O	-
+14	CA	B-LOC	California|Q99
+
+# tweet_id 129
+# ...
+1	My	O	-
+2	favorite	O	-
+3	buffet	O	-
+4	!	O	-
+5	(	O	-
+6	@	O	-
+7	Golden	B-LOC	Golden Corral|Q4039560
+8	Corral	I-LOC	Golden Corral|Q4039560
+9	w/	O	-
+10	others	O	-
+11	)	O	-
+
+# tweet_id 130
+# ...
+1	Forgot	O	-
+2	to	O	-
+3	check	O	-
+4	in	O	-
+5	hell	O	-
+6	!	O	-
+7	(	O	-
+8	@	O	-
+9	JP	B-ORG	JPMorgan Chase|Q192314
+10	Morgan	I-ORG	JPMorgan Chase|Q192314
+11	Chase	I-ORG	JPMorgan Chase|Q192314
+12	)	O	-
+
+# tweet_id 131
+# ...
+1	#	O	-
+2	CoastToCoast	O	-
+3	.	O	-
+4	Anaheim	B-LOC	Anaheim, California|Q49247
+5	,	O	-
+6	California	B-LOC	California|Q99
+7	@CodySimpson	O	-
+8	#	O	-
+9	EveningsInLondon	O	-
+
+# tweet_id 132
+# ...
+1	Coffee	O	-
+2	in	O	-
+3	the	O	-
+4	park	O	-
+5	with	O	-
+6	Mr	O	-
+7	Vonnegut	B-PER	-
+8	(	O	-
+9	@	O	-
+10	Centra	B-LOC	Rat Rock|Q7295400
+11	Park	I-LOC	Rat Rock|Q7295400
+12	-	I-LOC	Rat Rock|Q7295400
+13	The	I-LOC	Rat Rock|Q7295400
+14	Rocks	I-LOC	Rat Rock|Q7295400
+15	w/	O	-
+16	others	O	-
+17	)	O	-
+18	[	O	-
+19	pic	O	-
+20	]	O	-
+21	:	O	-
+
+# tweet_id 133
+# ...
+1	Hey	O	-
+2	!	O	-
+3	I	O	-
+4	have	O	-
+5	an	O	-
+6	extra	O	-
+7	ticket	O	-
+8	for	O	-
+9	Wilco	B-MISC	Wilco|Q637771
+10	at	O	-
+11	Merriweather	B-LOC	Merriweather Post Pavilion|Q3306612
+12	Post	I-LOC	Merriweather Post Pavilion|Q3306612
+13	Pavillion	I-LOC	Merriweather Post Pavilion|Q3306612
+14	on	O	-
+15	Sunday	O	-
+16	.	O	-
+17	Who	O	-
+18	wants	O	-
+19	it	O	-
+20	?	O	-
+
+# tweet_id 134
+# ...
+1	Niggas	O	-
+2	hatin	O	-
+3	on	O	-
+4	Maryland	B-LOC	Maryland|Q1391
+5	uniforms	O	-
+6	,	O	-
+7	I	O	-
+8	think	O	-
+9	them	O	-
+10	hoes	O	-
+11	nice	O	-
+12	!	O	-
+
+# tweet_id 135
+# ...
+1	Nuthin	O	-
+2	better	O	-
+3	to	O	-
+4	do	O	-
+5	...	O	-
+6	hope	O	-
+7	USC	B-LOC	USC Trojans football|Q7866357
+8	ai	O	-
+9	nt	O	-
+10	lame	O	-
+11	tho	O	-
+12	...	O	-
+
+# tweet_id 136
+# ...
+1	@JoshLevine	O	-
+2	Bradley	B-PER	Bradley Cooper|Q205707
+3	Cooper	I-PER	Bradley Cooper|Q205707
+4	was	O	-
+5	in	O	-
+6	Philly	B-LOC	Philadelphia|Q1345
+7	tonight	O	-
+8	...	O	-
+
+# tweet_id 137
+# ...
+1	Christmas	B-MISC	Christmas|Q19809
+2	in	O	-
+3	Hell	O	-
+4	&	O	-
+5	gt	O	-
+6	;	O	-
+7	Christmas	B-MISC	Christmas|Q19809
+8	in	O	-
+9	El	B-LOC	El Paso, Texas|Q16562
+10	Paso	I-LOC	El Paso, Texas|Q16562
+
+# tweet_id 138
+# ...
+1	Trent	B-PER	Trent Richardson|Q3538465
+2	Richardson	I-PER	Trent Richardson|Q3538465
+3	is	O	-
+4	embarrassin	O	-
+5	UF	B-ORG	Florida Gators football|Q5461394
+
+# tweet_id 139
+# ...
+1	Come	O	-
+2	on	O	-
+3	down	O	-
+4	to	O	-
+5	the	O	-
+6	Bank	B-ORG	Bank of America|Q487907
+7	of	I-ORG	Bank of America|Q487907
+8	America	I-ORG	Bank of America|Q487907
+9	building	O	-
+10	.	O	-
+11	Measure	B-MISC	-
+12	J	I-MISC	-
+13	rally	O	-
+14	!	O	-
+15	Lets	O	-
+16	put	O	-
+17	Palm	B-LOC	Palm Springs|Q488004
+18	Springs	I-LOC	Palm Springs|Q488004
+19	back	O	-
+20	to	O	-
+21	work	O	-
+22	.	O	-
+
+# tweet_id 140
+# ...
+1	Nothing	O	-
+2	like	O	-
+3	Starbucks	B-ORG	Starbucks|Q37158
+4	to	O	-
+5	start	O	-
+6	my	O	-
+7	morning	O	-
+
+# tweet_id 141
+# ...
+1	@Sexyb	O	-
+2	yea	O	-
+3	I	O	-
+4	just	O	-
+5	got	O	-
+6	back	O	-
+7	from	O	-
+8	Chicago	B-LOC	Chicago|Q1297
+9	I	O	-
+10	was	O	-
+11	in	O	-
+12	phoniex	B-LOC	Phoenix|Q16556
+13	weeks	O	-
+14	before	O	-
+15	that	O	-
+16	...	O	-
+17	I	O	-
+18	going	O	-
+19	to	O	-
+20	Vegas	B-LOC	Las Vegas|Q23768
+21	and	O	-
+22	la	B-LOC	Los Angeles|Q65
+23	in	O	-
+24	feburary	O	-
+
+# tweet_id 142
+# ...
+1	Yeah	O	-
+2	TERPS	B-ORG	Maryland Terrapins football|Q6781508
+3	lets	O	-
+4	go	O	-
+5	.	O	-
+6	(	O	-
+7	@	O	-
+8	Capital	B-LOC	Maryland Stadium|Q2929171	
+9	One	I-LOC	Maryland Stadium|Q2929171
+10	Field	I-LOC	Maryland Stadium|Q2929171
+11	at	I-LOC	Maryland Stadium|Q2929171
+12	Byrd	I-LOC	Maryland Stadium|Q2929171
+13	Stadium	I-LOC	Maryland Stadium|Q2929171
+14	for	O	-
+15	WVU	B-ORG	West Virginia Mountaineers football|Q937935
+16	vs	O	-
+17	MD	B-ORG	Maryland Terrapins football|Q6781508
+18	w/	O	-
+19	others	O	-
+20	)	O	-
+21	[	O	-
+22	pic	O	-
+23	]	O	-
+24	:	O	-
+
+# tweet_id 143
+# ...
+1	Haha	O	-
+2	!	O	-
+3	That	O	-
+4	Arkham	B-MISC	Batman: Arkham City|Q288811
+5	City	I-MISC	Batman: Arkham City|Q288811
+6	big	O	-
+7	head	O	-
+8	mode	O	-
+9	is	O	-
+10	hilarious	O	-
+11	.	O	-
+
+# tweet_id 144
+# ...
+1	ready	O	-
+2	for	O	-
+3	this	O	-
+4	upcoming	O	-
+5	Atlanta	B-LOC	Atlanta|Q23556
+6	trip	O	-
+7	!	O	-
+
+# tweet_id 145
+# ...
+1	We	O	-
+2	are	O	-
+3	at	O	-
+4	the	O	-
+5	Food	B-ORG	-
+6	,	I-ORG	-
+7	Fiber	I-ORG	-
+8	&	I-ORG	-
+9	Energy	I-ORG	-
+10	Fest	I-ORG	-
+11	@	O	-
+12	ledgeview	O	-
+13	nature	O	-
+14	center	O	-
+15	in	O	-
+16	Chilton	B-LOC	Chilton, Wisconsin|Q1014161
+17	.	O	-
+18	Tons	O	-
+19	of	O	-
+20	great	O	-
+21	exhibits	O	-
+22	&	O	-
+23	producers	O	-
+24	.	O	-
+
+# tweet_id 146
+# ...
+1	ABC	B-ORG	ABC News|Q287171
+2	News	I-ORG	ABC News|Q287171
+3	:	O	-
+4	Breaking	O	-
+5	:	O	-
+6	Plane	O	-
+7	Reportedly	O	-
+8	Crashes	O	-
+9	Into	O	-
+10	Superstition	B-LOC	Superstition Mountains|Q2396891
+11	Mountains	I-LOC	Superstition Mountains|Q2396891
+12	Near	O	-
+13	Phoenix	B-LOC	Phoenix, Arizona|Q16556
+14	,	O	-
+15	Ariz.	B-LOC	Arizona|Q816
+16	”	O	-
+17	this	O	-
+18	is	O	-
+19	why	O	-
+20	I	O	-
+21	m	O	-
+22	scrd	O	-
+23	of	O	-
+24	flyn	O	-
+
+# tweet_id 147
+# ...
+1	Parking	O	-
+2	before	O	-
+3	the	O	-
+4	show	O	-
+5	.	O	-
+6	I	O	-
+7	m	O	-
+8	totally	O	-
+9	gon	O	-
+10	na	O	-
+11	see	O	-
+12	WICKED	O	-
+13	!	O	-
+14	Again	O	-
+15	.	O	-
+16	(	O	-
+17	@	O	-
+18	Nashville	B-ORG	Nashville Public Library|Q6966987
+19	Public	I-ORG	Nashville Public Library|Q6966987
+20	Library	I-ORG	Nashville Public Library|Q6966987
+21	)	O	-
+
+# tweet_id 148
+# ...
+1	Now	O	-
+2	to	O	-
+3	the	O	-
+4	San	B-LOC	Feast of San Gennaro|Q1130684
+5	Gennaro	I-LOC	Feast of San Gennaro|Q1130684
+6	in	O	-
+7	Little	B-LOC	Little Italy, Manhattan|Q201462
+8	Italy	I-LOC	Little Italy, Manhattan|Q201462
+9	!	O	-
+10	(	O	-
+11	@	O	-
+12	Times	B-LOC	Times Square|Q11259
+13	Square	I-LOC	Times Square|Q11259
+14	New	I-LOC	Times Square|Q11259
+15	York	I-LOC	Times Square|Q11259
+16	)	O	-
+
+# tweet_id 149
+# ...
+1	Holly	B-PER	Holly Madison|Q229948
+2	Madison	I-PER	Holly Madison|Q229948
+3	is	O	-
+4	literally	O	-
+5	the	O	-
+6	only	O	-
+7	mainstream	O	-
+8	celebrity	O	-
+9	i	O	-
+10	havnt	O	-
+11	unfollowed	O	-
+12	.	O	-
+
+# tweet_id 150
+# ...
+1	Ben	O	-
+2	Savage	O	-
+3	Lol	O	-
+4	.	O	-
+5	I	O	-
+6	hope	O	-
+7	you	O	-
+8	enjoyed	O	-
+9	your	O	-
+10	visit	O	-
+11	to	O	-
+12	Virginia	B-LOC	Virginia|Q1370
+13	!	O	-
+14	The	O	-
+15	weather	O	-
+16	was	O	-
+17	beautiful	O	-
+18	:)	O	-
+
+# tweet_id 151
+# ...
+1	Not	O	-
+2	sure	O	-
+3	what	O	-
+4	s	O	-
+5	more	O	-
+6	depressing	O	-
+7	,	O	-
+8	that	O	-
+9	I	O	-
+10	m	O	-
+11	watching	O	-
+12	Piranha	B-MISC	Piranha|Q16881251
+13	or	O	-
+14	that	O	-
+15	I	O	-
+16	m	O	-
+17	allowing	O	-
+18	my	O	-
+19	kids	O	-
+20	to	O	-
+21	watch	O	-
+22	Piranha	B-MISC	Piranha|Q16881251
+23	.	O	-
+
+# tweet_id 152
+# ...
+1	Geek	B-MISC	Geek Charming|Q865193
+2	Charming	I-MISC	Geek Charming|Q865193
+3	is	O	-
+4	probably	O	-
+5	my	O	-
+6	new	O	-
+7	favorite	O	-
+8	movie	O	-
+9	!	O	-
+
+# tweet_id 153
+# ...
+1	Denise	B-PER	-
+2	Boylan	I-PER	-
+3	I	O	-
+4	leave	O	-
+5	this	O	-
+6	upcoming	O	-
+7	monday	B-MISC	Monday|Q105
+8	!	O	-
+9	Mallory	B-PER	-
+10	invited	O	-
+11	me	O	-
+12	:)	O	-
+13	#	O	-
+14	dzloveonthewestcoast	O	-
+
+# tweet_id 154
+# ...
+1	Snoopy	B-MISC	Snoopy|Q659447
+2	band	O	-
+3	aid	O	-
+4	beyond	O	-
+5	tough	O	-
+6	.	O	-
+
+# tweet_id 155
+# ...
+1	Watching	O	-
+2	#	O	-
+3	snow	O	-
+4	from	O	-
+5	the	O	-
+6	subway	B-LOC	New York City Subway|Q7733
+7	window	O	-
+8	,	O	-
+9	float	O	-
+10	and	O	-
+11	crash	O	-
+12	and	O	-
+13	in	O	-
+14	every	O	-
+15	direction	O	-
+16	make	O	-
+17	a	O	-
+18	dash	O	-
+19	.	O	-
+20	#	O	-
+21	NYC	B-LOC	New York City|Q60
+22	#	O	-
+23	queens	O	-
+
+# tweet_id 156
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	Burger	B-LOC	Burger King|Q177054
+5	King	I-LOC	Burger King|Q177054
+6	(	O	-
+7	N	B-LOC	-
+8	Ocean	I-LOC	-
+9	Ave	I-LOC	-
+10	,	O	-
+11	Farmingville	B-LOC	Farmingville, New York|Q941968
+12	)	O	-
+
+# tweet_id 157
+# ...
+1	What	O	-
+2	s	O	-
+3	better	O	-
+4	shanghai	B-LOC	Shanghai|Q8686
+5	or	O	-
+6	Beijing	B-LOC	Beijing|Q956
+7	?	O	-
+
+# tweet_id 158
+# ...
+1	I	O	-
+2	want	O	-
+3	to	O	-
+4	watch	O	-
+5	Swiss	B-MISC	Swiss Family Robinson|Q1367163
+6	Family	I-MISC	Swiss Family Robinson|Q1367163
+7	Robinson	I-MISC	Swiss Family Robinson|Q1367163
+8	right	O	-
+9	MEOW	O	-
+10	!	O	-
+
+# tweet_id 159
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	Animal	B-LOC	-
+5	House	I-LOC	-
+6	(	O	-
+7	Buffalo	B-LOC	Buffalo, New York|Q40435
+8	,	O	-
+9	NY	B-LOC	New York City|Q60
+10	)	O	-
+
+# tweet_id 160
+# ...
+1	Eeeep	O	-
+2	!	O	-
+3	“	O	-
+4	@msleamichele	O	-
+5	:	O	-
+6	Just	O	-
+7	left	O	-
+8	a	O	-
+9	screening	O	-
+10	of	O	-
+11	tonights	O	-
+12	episode	O	-
+13	of	O	-
+14	#	O	-
+15	glee	B-MISC	Glee (TV series)|Q152178
+16	and	O	-
+17	can	O	-
+18	I	O	-
+19	just	O	-
+20	say-	O	-
+21	Probably	O	-
+22	one	O	-
+23	of	O	-
+24	the	O	-
+25	best	O	-
+26	Glee	B-MISC	Glee (TV series)|Q152178
+27	episodes	O	-
+28	EVER	O	-
+29	!	O	-
+30	”	O	-
+
+# tweet_id 161
+# ...
+1	Molly	O	-
+2	this	O	-
+3	is	O	-
+4	why	O	-
+5	i	O	-
+6	love	O	-
+7	Flickr	B-ORG	Flickr|Q103204
+8	....	O	-
+
+# tweet_id 162
+# ...
+1	Fresh	O	-
+2	coffee	O	-
+3	,	O	-
+4	Amy	B-PER	Amy Winehouse|Q15897
+5	Winehouse	I-PER	Amy Winehouse|Q15897
+6	and	O	-
+7	Norah	B-PER	Norah Jones|Q549981
+8	Jones	I-PER	Norah Jones|Q549981
+9	joining	O	-
+10	me	O	-
+11	on	O	-
+12	my	O	-
+13	homework	O	-
+14	quest	O	-
+15	.	O	-
+16	Happy	O	-
+17	Tuesday	O	-
+18	,	O	-
+19	and	O	-
+20	thank	O	-
+21	you	O	-
+22	Starbucks	B-ORG	Starbucks|Q37158
+23	Coffee	O	-
+24	for	O	-
+25	the	O	-
+26	soundtrack	O	-
+27	.	O	-
+
+# tweet_id 163
+# ...
+1	Home	O	-
+2	again	O	-
+3	!	O	-
+4	(	O	-
+5	@	O	-
+6	Lake	B-LOC	Lake Placid, New York|Q192700
+7	Placid	I-LOC	Lake Placid, New York|Q192700
+8	,	O	-
+9	New	B-LOC	New York City|Q60
+10	York	I-LOC	New York City|Q60
+11	)	O	-
+
+# tweet_id 164
+# ...
+1	Watching	O	-
+2	Manchester	B-ORG	Manchester United F.C.|Q18656
+3	United	I-ORG	Manchester United F.C.|Q18656
+4	vs	O	-
+5	Chelsea	B-ORG	Chelsea F.C.|Q9616
+
+# tweet_id 165
+# ...
+1	I	O	-
+2	m	O	-
+3	listening	O	-
+4	to	O	-
+5	Kelly	B-PER	Kelly Clarkson|Q483507
+6	Clarkson	I-PER	Kelly Clarkson|Q483507
+7	(	O	-
+8	others	O	-
+9	checked	O	-
+10	-	O	-
+11	in	O	-
+12	)	O	-
+13	GetGlue	B-MISC	tvtag|Q5553768
+14	@kelly_clarkson	O	-
+
+# tweet_id 166
+# ...
+1	RT	B-MISC	RT|Q22868
+2	Breaking	O	-
+3	News	O	-
+4	:	O	-
+5	Chicago	B-LOC	Chicago|Q1297
+6	police	O	-
+7	officers	O	-
+8	among	O	-
+9	indicted	O	-
+10	on	O	-
+11	federal	O	-
+12	gang	O	-
+13	charges	O	-
+14	-	O	-
+
+# tweet_id 167
+# ...
+1	To	O	-
+2	NYC	B-LOC	New York City|Q60
+3	!	O	-
+4	(	O	-
+5	@	O	-
+6	Chicago	B-ORG	Midway International Airport|Q1061437
+7	Midway	I-ORG	Midway International Airport|Q1061437
+8	International	I-ORG	Midway International Airport|Q1061437
+9	Airport	I-ORG	Midway International Airport|Q1061437
+10	(	O	-
+11	MDW	B-ORG	Midway International Airport|Q1061437
+12	)	O	-
+13	w/	O	-
+14	others	O	-
+15	)	O	-
+
+# tweet_id 168
+# ...
+1	Off	O	-
+2	to	O	-
+3	Cleveland	B-LOC	Cleveland|Q37320
+4	via	O	-
+5	Charlotte	B-LOC	Charlotte, North Carolina|Q16565
+6	!	O	-
+7	(	O	-
+8	@	O	-
+9	RDU	O	Raleigh–Durham International Airport|Q1192962
+10	-	O	-
+11	Gate	O	-
+12	D	O	-
+13	)	O	-
+
+# tweet_id 169
+# ...
+1	Another	O	-
+2	hour	O	-
+3	car	O	-
+4	ride	O	-
+5	with	O	-
+6	my	O	-
+7	brother	O	-
+8	singing	O	-
+9	Adele	B-PER	Adele|Q23215
+10	to	O	-
+11	the	O	-
+12	top	O	-
+13	of	O	-
+14	his	O	-
+15	lungs	O	-
+16	is	O	-
+17	nt	O	-
+18	gon	O	-
+19	na	O	-
+20	cut	O	-
+21	it	O	-
+22	.	O	-
+23	#	O	-
+24	stfu	O	-
+25		O	-
+26	,	O	-
+
+# tweet_id 170
+# ...
+1	@TheRealKurtHess	O	-
+2	are	O	-
+3	you	O	-
+4	going	O	-
+5	to	O	-
+6	sing	O	-
+7	me	O	-
+8	some	O	-
+9	Justin	B-PER	Justin Bieber|Q34086
+10	bieber	I-PER	Justin Bieber|34086
+11	,	O	-
+12	take	O	-
+13	my	O	-
+14	psych	O	-
+15	quiz	O	-
+16	,	O	-
+17	or	O	-
+18	do	O	-
+19	both	O	-
+20	at	O	-
+21	the	O	-
+22	same	O	-
+23	time	O	-
+24	?	O	-
+25	#	O	-
+26	BestSuperHeroEver	O	-
+
+# tweet_id 171
+# ...
+1	So	O	-
+2	cool	O	-
+3	Boeing	B-ORG	Boeing|Q66
+4	Airplanes	O	-
+5	:	O	-
+6	Heres	O	-
+7	video	O	-
+8	of	O	-
+9	st	O	-
+10	#	O	-
+11	ANA	B-ORG	All Nippon Airways|Q204284
+12	taking	O	-
+13	off	O	-
+14	from	O	-
+15	the	O	-
+16	Seattle	B-LOC	Seattle|Q5083
+17	area	O	-
+18	abt	O	-
+19	.	O	-
+20	hours	O	-
+21	ago	O	-
+22	,	O	-
+23	w/	O	-
+24	wing	O	-
+25	wave	O	-
+
+# tweet_id 172
+# ...
+1	Rebecca	B-PER	Rebecca Black|Q18804
+2	Black	I-PER	Rebecca Black|Q18804
+3	Apperently	O	-
+4	JB	B-PER	Justin Bieber|Q34086
+5	is	O	-
+6	a	O	-
+7	baby	O	-
+8	daddy	O	-
+9	!	O	-
+10	That	O	-
+11	s	O	-
+12	why	O	-
+
+# tweet_id 173
+# ...
+1	I	O	-
+2	ve	O	-
+3	had	O	-
+4	firework	O	-
+5	by	O	-
+6	Katy	B-PER	Katy Perry|Q42493
+7	perry	I-PER	Katy Perry|Q42493
+8	in	O	-
+9	my	O	-
+10	head	O	-
+11	all	O	-
+12	day	O	-
+13	but	O	-
+14	now	O	-
+15	I	O	-
+16	afraid	O	-
+17	to	O	-
+18	listen	O	-
+19	to	O	-
+20	it	O	-
+21	because	O	-
+22	@PatYoWeave	O	-
+23	will	O	-
+24	hear	O	-
+25	and	O	-
+26	feel	O	-
+27	smug	O	-
+
+# tweet_id 174
+# ...
+1	howie	O	-
+2	Soo	O	-
+3	sad	O	-
+4	I	O	-
+5	ca	O	-
+6	nt	O	-
+7	make	O	-
+8	to	O	-
+9	HMV	B-ORG	HMV|Q10854572
+10	tonight	O	-
+11	in	O	-
+12	Toronto	B-LOC	Toronto|Q172
+13	!	O	-
+14	Ca	O	-
+15	nt	O	-
+16	wait	O	-
+17	to	O	-
+18	listen	O	-
+19	to	O	-
+20	Back	B-MISC	Back to Me (Fantasia album)|Q3462614
+21	to	I-MISC	Back to Me (Fantasia album)|Q3462614
+22	Me	I-MISC	Back to Me (Fantasia album)|Q3462614
+23	after	O	-
+24	work	O	-
+25	#	O	-
+26	ktbspa	O	-
+
+# tweet_id 175
+# ...
+1	I	O	-
+2	forgot	O	-
+3	to	O	-
+4	check	O	-
+5	in	O	-
+6	yesterday	O	-
+7	!	O	-
+8	Fail	O	-
+9	!	O	-
+10	Ahh	O	-
+11	well	O	-
+12	,	O	-
+13	coffee	O	-
+14	makes	O	-
+15	everything	O	-
+16	better	O	-
+17	:)	O	-
+18	(	O	-
+19	@	O	-
+20	Tim	B-ORG	Tim Hortons|Q175106
+21	Hortons	I-ORG	Tim Hortons|Q175106
+22	)	O	-
+
+# tweet_id 176
+# ...
+1	The	O	-
+2	more	O	-
+3	you	O	-
+4	lose	O	-
+5	yourself	O	-
+6	in	O	-
+7	something	O	-
+8	bigger	O	-
+9	than	O	-
+10	yourself	O	-
+11	,	O	-
+12	the	O	-
+13	more	O	-
+14	energy	O	-
+15	you	O	-
+16	will	O	-
+17	have	O	-
+18	.	O	-
+19	Norman	B-PER	Norman Vincent Peale|Q708251
+20	Vincent	I-PER	Norman Vincent Peale|Q708251
+21	Peale	I-PER	Norman Vincent Peale|Q708251
+
+# tweet_id 177
+# ...
+1	Hey	O	-
+2	Chris	B-PER	Chris Guillebeau|Q5106742
+3	Guillebeau	I-PER	Chris Guillebeau|Q5106742
+4	,	O	-
+5	my	O	-
+6	friend	O	-
+7	just	O	-
+8	told	O	-
+9	me	O	-
+10	about	O	-
+11	u	O	-
+12	,	O	-
+13	now	O	-
+14	I	O	-
+15	want	O	-
+16	read	O	-
+17	ur	O	-
+18	book	O	-
+19	.	O	-
+20	I	O	-
+21	liv	O	-
+22	in	O	-
+23	Lib	O	-
+24	pt	O	-
+25	&	O	-
+26	fundraise	O	-
+27	pt	O	-
+28	.	O	-
+29	Ur	O	-
+30	life	O	-
+31	seems	O	-
+32	cool	O	-
+33	.	O	-
+
+# tweet_id 178
+# ...
+1	Ellen	B-PER	Ellen DeGeneres|Q483325
+2	DeGeneres	I-PER	Ellen DeGeneres|Q483325
+3	Hav	O	-
+4	secs	O	-
+5	help	O	-
+6	a	O	-
+7	child	O	-
+8	prostitute	O	-
+9	get	O	-
+10	school	O	-
+11	for	O	-
+12	the	O	-
+13	st	O	-
+14	time	O	-
+15	in	O	-
+16	Liberia	B-LOC	Liberia|Q1014
+17	?	O	-
+18	Vote	O	-
+19	:	O	-
+20	#	O	-
+21	chasegiving	O	-
+
+# tweet_id 179
+# ...
+1	Heading	O	-
+2	to	O	-
+3	church	O	-
+4	this	O	-
+5	AM	O	-
+6	!	O	-
+7	!	O	-
+8	Excited	O	-
+9	to	O	-
+10	worship	O	-
+11	with	O	-
+12	Jeremy	B-PER	Jeremy Bryan|Q6181173
+13	Bryan	I-PER	Jeremy Bryan|Q6181173
+14	!	O	-
+15	!	O	-
+16	Hope	O	-
+17	you	O	-
+18	guys	O	-
+19	are	O	-
+20	worshipping	O	-
+21	with	O	-
+22	those	O	-
+23	you	O	-
+24	love	O	-
+25	this	O	-
+26	AM	O	-
+27	!	O	-
+
+# tweet_id 180
+# ...
+1	I	O	-
+2	think	O	-
+3	its	O	-
+4	hilarious	O	-
+5	that	O	-
+6	I	O	-
+7	love	O	-
+8	Will	B-PER	Will Smith|Q40096
+9	Smith	I-PER	Will Smith|Q40096
+10	.	O	-
+
+# tweet_id 181
+# ...
+1	#	O	-
+2	nowplaying	O	-
+3	♪	O	-
+4	P.S.	B-MISC	-
+5	(	I-MISC	-
+6	I	I-MISC	-
+7	m	I-MISC	-
+8	Still	I-MISC	-
+9	Not	I-MISC	-
+10	Over	I-MISC	-
+11	You	I-MISC	-
+12	)	I-MISC	-
+13	by	O	-
+14	Rihanna	B-PER	Rihanna|Q36844
+
+# tweet_id 182
+# ...
+1	Fashion	O	-
+2	show	O	-
+3	Milwaukee	B-LOC	Milwaukee|Q37836
+4	style	O	-
+5	.	O	-
+6	(	O	-
+7	@	O	-
+8	Milwaukee	B-LOC	Milwaukee Art Museum|Q325712
+9	Art	I-LOC	Milwaukee Art Museum|Q325712
+10	Museum	I-LOC	Milwaukee Art Museum|Q325712
+11	for	O	-
+12	Runup	O	-
+13	to	O	-
+14	the	O	-
+15	Runway	O	-
+16	w/	O	-
+17	others	O	-
+18	)	O	-
+
+# tweet_id 183
+# ...
+1	ti	O	-
+2	status	O	-
+3	.	O	-
+4	Brooklyn	B-LOC	Brooklyn|Q18419
+5	bound	O	-
+6	(	O	-
+7	@	O	-
+8	Columbia	B-ORG	Columbia University|Q49088
+9	University	I-ORG	Columbia University|Q49088
+10	:	O	-
+11	Graduate	B-ORG	Columbia University Graduate School of Journalism|Q844673
+12	School	I-ORG	Columbia University Graduate School of Journalism|Q844673
+13	of	I-ORG	Columbia University Graduate School of Journalism|Q844673
+14	Journalism	I-ORG	Columbia University Graduate School of Journalism|Q844673
+15	w/	O	-
+16	others	O	-
+17	)	O	-
+
+# tweet_id 184
+# ...
+1	Breaking	O	-
+2	News	O	-
+3	:	O	-
+4	UEFA	B-ORG	UEFA Champions League|Q18756
+5	bans	O	-
+6	England	B-LOC	England|Q21
+7	forward	O	-
+8	Wayne	B-PER	Wayne Rooney|Q266613
+9	Rooney	I-PER	Wayne Rooney|Q266613
+10	for	O	-
+11	European	B-MISC	European Championship|Q1375427
+12	Championship	I-MISC	European Championship|Q1375427
+13	matches	O	-
+14	-	O	-
+15	APhehehe	O	-
+
+# tweet_id 185
+# ...
+1	Victoria	B-PER	Victoria Justice|Q200194
+2	Justice	I-PER	Victoria Justice|Q200194
+3	all	B-MISC	All I Want Is Everything|Q26211401
+4	I	I-MISC	All I Want Is Everything|Q26211401
+5	want	I-MISC	All I Want Is Everything|Q26211401
+6	is	I-MISC	All I Want Is Everything|Q26211401
+7	everything	I-MISC	All I Want Is Everything|Q26211401
+
+# tweet_id 186
+# ...
+1	Laurie	B-PER	Laurie Anderson|Q235066
+2	Anderson	I-PER	Laurie Anderson|Q235066
+3	in	O	-
+4	conversation	O	-
+5	w/	O	-
+6	Martha	B-PER	-
+7	Lavey	I-PER	-
+8	(	O	-
+9	@	O	-
+10	Chicago	B-ORG	Chicago Humanities Festival|Q5095650
+11	Humanities	I-ORG	Chicago Humanities Festival|Q5095650
+12	Festival	I-ORG	Chicago Humanities Festival|Q5095650
+13	@	O	-
+14	Francis	B-ORG	Francis W. Parker School (Chicago)|Q5482672
+15	W.	I-ORG	Francis W. Parker School (Chicago)|Q5482672
+16	Parker	I-ORG	Francis W. Parker School (Chicago)|Q5482672
+17	School	I-ORG	Francis W. Parker School (Chicago)|Q5482672
+18	)	O	-
+
+# tweet_id 187
+# ...
+1	Its	O	-
+2	times	O	-
+3	like	O	-
+4	these	O	-
+5	when	O	-
+6	I	O	-
+7	wish	O	-
+8	I	O	-
+9	had	O	-
+10	more	O	-
+11	friends	O	-
+12	in	O	-
+13	Charlotte	B-LOC	Charlotte, North Carolina|Q16565
+14	.	O	-
+15	And	O	-
+16	its	O	-
+17	raining	O	-
+18	...	O	-
+19	peachy	O	-
+20	.	O	-
+
+# tweet_id 188
+# ...
+1	Kris	B-PER	Kris Humphries|Q363421
+2	Humphries	I-PER	Kris Humphries|Q363421
+3	:	O	-
+4	are	O	-
+5	you	O	-
+6	excited	O	-
+7	about	O	-
+8	getting	O	-
+9	married	O	-
+10	?	O	-
+11	Kim	B-PER	Kim Kardashian|Q186304
+12	Kardashian	I-PER	Kim Kardashian|Q186304
+13	:	O	-
+14	totes	O	-
+15	.	O	-
+16	#	O	-
+17	hilarious	O	-
+18	#	O	-
+19	soundslikeme	O	-
+
+# tweet_id 189
+# ...
+1	Fuck	O	-
+2	alllll	O	-
+3	who	O	-
+4	met	O	-
+5	Mac	B-PER	Mac (rapper)|Q6722173
+6	tonight	O	-
+7	#	O	-
+8	sooooojealous	O	-
+
+# tweet_id 190
+# ...
+1	Line	O	-
+2	out	O	-
+3	the	O	-
+4	door	O	-
+5	at	O	-
+6	Chipotle	B-LOC	Chipotle Mexican Grill|Q465751
+7	for	O	-
+8	a	O	-
+9	straight	O	-
+10	hour	O	-
+11	now	O	-
+12	.	O	-
+
+# tweet_id 191
+# ...
+1	I	O	-
+2	get	O	-
+3	fucking	O	-
+4	livid	O	-
+5	when	O	-
+6	people	O	-
+7	who	O	-
+8	know	O	-
+9	nothing	O	-
+10	about	O	-
+11	Soccer	B-MISC	association football|Q2736
+12	say	O	-
+13	to	O	-
+14	me	O	-
+15	that	O	-
+16	Rooney	B-PER	Wayne Rooney|Q266613
+17	is	O	-
+18	better	O	-
+19	than	O	-
+20	Messi	B-PER	Lionel Messi|Q615
+21	.	O	-
+22	#	O	-
+23	whatajoke	O	-
+24	#	O	-
+25	theonlyplayeryouknow	O	-
+
+# tweet_id 192
+# ...
+1	Third	O	-
+2	time	O	-
+3	today	O	-
+4	.	O	-
+5	(	O	-
+6	@	O	-
+7	Westin	B-LOC	Westin Building|Q7988917
+8	Building	I-LOC	Westin Building|Q7988917
+9	)	O	-
+
+# tweet_id 193
+# ...
+1	#	O	-
+2	gigem	O	-
+3	(	O	-
+4	@	O	-
+5	Kyle	B-LOC	Kyle Field|Q945223
+6	Field	I-LOC	Kyle Field|Q945223
+7	for	O	-
+8	Kansas	B-ORG	Kansas Jayhawks football|Q6365000
+9	Jayhawks	I-ORG	Kansas Jayhawks football|Q6365000
+10	vs.	O	-
+11	Texas	B-ORG	Texas A&M Aggies football|Q7707428
+12	A&M	I-ORG	Texas A&M Aggies football|Q7707428
+13	Aggies	I-ORG	Texas A&M Aggies football|Q7707428
+14	w/	O	-
+15	@jcpalmer	O	-
+16	)	O	-
+
+# tweet_id 194
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	Bradford	B-ORG	Bradford Academy|Q4954580
+5	Academy	I-ORG	Bradford Academy|Q4954580
+6	(	O	-
+7	Garner	B-LOC	-
+8	,	O	-
+9	Telegraph	B-LOC	Telegraph Avenue|Q7696225
+10	,	O	-
+11	Oakland	B-LOC	Oakland|Q17042
+12	)	O	-
+
+# tweet_id 195
+# ...
+1	Cake	B-LOC	-
+2	flour	I-LOC	-
+3	bakery	I-LOC	-
+4	is	O	-
+5	on	O	-
+6	Food	B-ORG	Food Network|Q1435969
+7	Network	I-ORG	Food Network|Q1435969
+8	!	O	-
+9	#	O	-
+10	Louisville	B-LOC	Louisville, Kentucky|Q43668
+
+# tweet_id 196
+# ...
+1	Watching	O	-
+2	my	O	-
+3	MacBook	B-MISC	MacBook Pro|Q214276
+4	Pro	I-MISC	MacBook Pro|Q214276
+5	,	O	-
+6	iPad	B-MISC	IPad|Q2796
+7	,	O	-
+8	and	O	-
+9	iPhone	B-MISC	iPhon|Q2766
+10	sync	O	-
+11	wirelessly	O	-
+12	in	O	-
+13	via	O	-
+14	iCloud	B-MISC	ICloud|Q283469
+15	.	O	-
+16	I	O	-
+17	know	O	-
+18	Apple	B-ORG	Apple Inc.|Q312
+19	was	O	-
+20	behind	O	-
+21	on	O	-
+22	this	O	-
+23	,	O	-
+24	but	O	-
+25	still	O	-
+26	so	O	-
+27	cool	O	-
+28	.	O	-
+
+# tweet_id 197
+# ...
+1	Visiting	O	-
+2	Mama	O	-
+3	and	O	-
+4	Papa	O	-
+5	!	O	-
+6	!	O	-
+7	(	O	-
+8	@	O	-
+9	Ripley	B-LOC	Ripley|Q2532316
+10	,	O	-
+11	WV	B-LOC	West Virginia|Q1371
+12	)	O	-
+
+# tweet_id 198
+# ...
+1	Miami	B-LOC	Miami|Q8652
+2	is	O	-
+3	colder	O	-
+4	than	O	-
+5	Gainesville	B-LOC	Gainesville, Florida|Q487999
+6	#	O	-
+7	wat	O	-
+
+# tweet_id 199
+# ...
+1	All	O	-
+2	this	O	-
+3	Joe	B-PER	Joe Paterno|Q546591
+4	Paterno	I-PER	Joe Paterno|Q546591
+5	shit	O	-
+6	goin	O	-
+7	on	O	-
+8	my	O	-
+9	mom	O	-
+10	over	O	-
+11	talkin	O	-
+12	about	O	-
+13	all	O	-
+14	the	O	-
+15	football	O	-
+16	players	O	-
+17	she	O	-
+18	used	O	-
+19	date	O	-
+20	when	O	-
+21	she	O	-
+22	went	O	-
+23	to	O	-
+24	penn	B-ORG	Pennsylvania State University|Q739627
+25	state	I-ORG	Pennsylvania State University|Q739627
+26	-_-	O	-
+27	lmao	O	-
+
+# tweet_id 200
+# ...
+1	Going	O	-
+2	to	O	-
+3	Port	B-LOC	Port Authority of New York and New Jersey|Q908666
+4	Authority	I-LOC	Port Authority of New York and New Jersey|Q908666
+
+# tweet_id 201
+# ...
+1	#	O	-
+2	YouKnowWhatIHateTheMost	O	-
+3	SNOW	O	-
+4	!	O	-
+5	Ca	O	-
+6	nt	O	-
+7	believe	O	-
+8	its	O	-
+9	snowing	O	-
+10	in	O	-
+11	Connecticut	B-LOC	Connecticut|Q779
+12	,	O	-
+13	glad	O	-
+14	I	O	-
+15	m	O	-
+16	in	O	-
+17	NC	B-LOC	North Carolina|Q1454
+
+# tweet_id 202
+# ...
+1	Beautifully	O	-
+2	designed	O	-
+3	Apple	B-ORG	Apple Inc.|Q312
+4	logo	O	-
+5	written	O	-
+6	into	O	-
+7	the	O	-
+8	top	O	-
+9	of	O	-
+10	the	O	-
+11	Newsstand	B-MISC	Newsstand (software)|Q2686971
+12	folder	O	-
+13	.	O	-
+14	Its	O	-
+15	the	O	-
+16	little	O	-
+17	things	O	-
+
+# tweet_id 203
+# ...
+1	I	O	-
+2	canceled	O	-
+3	my	O	-
+4	rent	O	-
+5	-	O	-
+6	a	O	-
+7	-	O	-
+8	car	O	-
+9	reservation	O	-
+10	and	O	-
+11	am	O	-
+12	heading	O	-
+13	for	O	-
+14	the	O	-
+15	downtown	O	-
+16	of	O	-
+17	Seattle	B-LOC	Seattle|Q5083
+18	by	O	-
+19	train	O	-
+20	.	O	-
+
+# tweet_id 204
+# ...
+1	@graviora_manent	O	-
+2	Wait	O	-
+3	a	O	-
+4	second	O	-
+5	,	O	-
+6	does	O	-
+7	Nebraska	B-LOC	Nebraska|Q1553
+8	even	O	-
+9	have	O	-
+10	people	O	-
+11	living	O	-
+12	there	O	-
+13	?	O	-
+14	!	O	-
+15	?	O	-
+
+# tweet_id 205
+# ...
+1	We	O	-
+2	made	O	-
+3	it	O	-
+4	guys	O	-
+5	!	O	-
+6	Onto	O	-
+7	Florida	B-LOC	Florida|Q812
+8	.	O	-
+9	FYI	O	-
+10	the	O	-
+11	Denver	B-LOC	Denver|Q16554
+12	rain	O	-
+13	has	O	-
+14	begun	O	-
+15	.	O	-
+16	Hoping	O	-
+17	the	O	-
+18	snow	O	-
+19	starts	O	-
+20	after	O	-
+21	all	O	-
+22	MBTers	O	-
+23	depart	O	-
+24	morz	O	-
+25	.	O	-
+
+# tweet_id 206
+# ...
+1	Yes	O	-
+2	,	O	-
+3	I	O	-
+4	d	O	-
+5	love	O	-
+6	to	O	-
+7	donate	O	-
+8	to	O	-
+9	Greenpeace	B-ORG	Greenpeace|Q81307
+10	.	O	-
+11	Unfortunately	O	-
+12	,	O	-
+13	I	O	-
+14	m	O	-
+15	a	O	-
+16	college	O	-
+17	student	O	-
+18	that	O	-
+19	still	O	-
+20	relies	O	-
+21	on	O	-
+22	my	O	-
+23	parents	O	-
+24	income	O	-
+25	.	O	-
+26	Ask	O	-
+27	me	O	-
+28	in	O	-
+29	years	O	-
+30	.	O	-
+
+# tweet_id 207
+# ...
+1	@RyanBohac	O	-
+2	can	O	-
+3	get	O	-
+4	a	O	-
+5	spray	O	-
+6	at	O	-
+7	Walgreens	B-LOC	Walgreens|Q1591889
+8	where	O	-
+9	you	O	-
+10	spray	O	-
+11	it	O	-
+12	up	O	-
+13	one	O	-
+14	nostril	O	-
+15	and	O	-
+16	it	O	-
+17	goes	O	-
+18	all	O	-
+19	the	O	-
+20	way	O	-
+21	up	O	-
+22	your	O	-
+23	sinuses	O	-
+24	and	O	-
+25	comes	O	-
+26	out	O	-
+27	the	O	-
+28	other	O	-
+
+# tweet_id 208
+# ...
+1	Cool	O	-
+2	,	O	-
+3	Honda	B-ORG	Honda|Q9584
+4	.	O	-
+5	Just	O	-
+6	break	O	-
+7	on	O	-
+8	me	O	-
+9	right	O	-
+10	now	O	-
+11	at	O	-
+12	my	O	-
+13	most	O	-
+14	broke	O	-
+15	point	O	-
+16	in	O	-
+17	my	O	-
+18	life	O	-
+19	.	O	-
+20	Any	O	-
+21	manly	O	-
+22	man	O	-
+23	know	O	-
+24	how	O	-
+25	to	O	-
+26	fix	O	-
+27	a	O	-
+28	car	O	-
+29	in	O	-
+30	sru	O	-
+31	?	O	-
+
+# tweet_id 209
+# ...
+1	Got	O	-
+2	a	O	-
+3	meeting	O	-
+4	with	O	-
+5	a	O	-
+6	chiropractor	O	-
+7	in	O	-
+8	Beverly	B-LOC	Beverly Hills, California|Q127856
+9	Hills	I-LOC	Beverly Hills, California|Q127856
+10	.	O	-
+11	Hoping	O	-
+12	to	O	-
+13	find	O	-
+14	a	O	-
+15	LA	B-LOC	Los Angeles|Q65
+16	home	O	-
+17	for	O	-
+18	my	O	-
+19	nutrition	O	-
+20	program	O	-
+21	!	O	-
+
+# tweet_id 210
+# ...
+1	Taking	O	-
+2	a	O	-
+3	work	O	-
+4	call	O	-
+5	in	O	-
+6	Office	B-ORG	Office Depot|Q1337797
+7	Depot	I-ORG	Office Depot|Q1337797
+8	sitting	O	-
+9	at	O	-
+10	a	O	-
+11	nice	O	-
+12	desk	O	-
+13	.	O	-
+14	Ha	O	-
+15	!	O	-
+16	New	O	-
+17	definition	O	-
+18	of	O	-
+19	home	O	-
+20	office	O	-
+21	.	O	-
+
+# tweet_id 211
+# ...
+1	Ok	O	-
+2	,	O	-
+3	so	O	-
+4	I	O	-
+5	would	O	-
+6	like	O	-
+7	to	O	-
+8	talk	O	-
+9	about	O	-
+10	how	O	-
+11	absolutely	O	-
+12	freaking	O	-
+13	adorable	O	-
+14	Adam	B-PER	Adam Pascal|Q2787296
+15	Pascal	I-PER	Adam Pascal|Q2787296
+16	looks	O	-
+17	in	O	-
+18	this	O	-
+19	photo	O	-
+20	.	O	-
+21	@MemphisBroadway	O	-
+
+# tweet_id 212
+# ...
+1	After	O	-
+2	hrs	O	-
+3	of	O	-
+4	studying	O	-
+5	/	O	-
+6	tweeting	O	-
+7	.	O	-
+8	I	O	-
+9	m	O	-
+10	going	O	-
+11	to	O	-
+12	run	O	-
+13	,	O	-
+14	come	O	-
+15	back	O	-
+16	and	O	-
+17	SLEEEEEEEP	O	-
+18	.	O	-
+19	Goodnight	O	-
+20	.	O	-
+
+# tweet_id 213
+# ...
+1	@martincesare	O	-
+2	LOL	O	-
+3	could	O	-
+4	make	O	-
+5	a	O	-
+6	bot	O	-
+
+# tweet_id 214
+# ...
+1	Estimated	O	-
+2	snow	O	-
+3	totals	O	-
+4	so	O	-
+5	far	O	-
+6	from	O	-
+7	The	B-ORG	The Weather Channel|Q2043935
+8	Weather	I-ORG	The Weather Channel|Q2043935
+9	Channel	I-ORG	The Weather Channel|Q2043935
+
+# tweet_id 215
+# ...
+1	@DawsonRob	O	-
+2	right	O	-
+3	,	O	-
+4	he	O	-
+5	had	O	-
+6	to	O	-
+7	win	O	-
+8	because	O	-
+9	Maryland	B-ORG	Maryland Terrapins football|Q6781508
+10	football	O	-
+11	has	O	-
+12	been	O	-
+13	a	O	-
+14	superpower	O	-
+15	for	O	-
+16	the	O	-
+17	past	O	-
+18	years	O	-
+
+# tweet_id 216
+# ...
+1	Florida	B-LOC	Florida State Seminoles football|Q5461626
+2	-	O	-
+3	Alabama	B-LOC	Alabama Crimson Tide football|Q4705216
+4	game	O	-
+5	is	O	-
+6	real	O	-
+7	.	O	-
+8	#	O	-
+9	chompchomp	O	-
+
+# tweet_id 217
+# ...
+1	FCS	B-MISC	NCAA Division I|Q2842604
+2	has	O	-
+3	five	O	-
+4	wins	O	-
+5	over	O	-
+6	the	O	-
+7	FBS	B-MISC	NCAA Division I Football Bowl Subdivision|Q19673326
+8	,	O	-
+9	half	O	-
+10	of	O	-
+11	last	O	-
+12	years	O	-
+13	total	O	-
+14	but	O	-
+15	pretty	O	-
+16	good	O	-
+17	showing	O	-
+18	nonetheless	O	-
+19	.	O	-
+
+# tweet_id 218
+# ...
+1	@hokieguru	O	-
+2	That	O	-
+3	NDSU	B-ORG	North Dakota State Bison football|Q7055045
+4	-	O	-
+5	UNI	B-ORG	Northern Iowa Panthers football|Q16969928
+6	game	O	-
+7	is	O	-
+8	going	O	-
+9	to	O	-
+10	be	O	-
+11	fantastic	O	-
+12	.	O	-
+13	great	O	-
+14	Ds	O	-
+15	,	O	-
+16	great	O	-
+17	running	O	-
+18	games	O	-
+
+# tweet_id 219
+# ...
+1	Just	O	-
+2	in	O	-
+3	case	O	-
+4	anyone	O	-
+5	forgets	O	-
+6	we	O	-
+7	are	O	-
+8	near	O	-
+9	Memphis	B-LOC	Memphis, Tennessee|Q16563
+10	.	O	-
+11	#	O	-
+12	fb	O	-
+
+# tweet_id 220
+# ...
+1	Its	O	-
+2	game	O	-
+3	time	O	-
+4	!	O	-
+5	Lets	O	-
+6	go	O	-
+7	Buffalo	B-ORG	Buffalo Bulls football|Q4985682
+8	!	O	-
+9	!	O	-
+10	Fuck	O	-
+11	the	O	-
+12	Flyers	B-ORG	Dayton Flyers football|Q5243529
+13	:)	O	-
+14	#	O	-
+15	lordstanley	O	-
+
+# tweet_id 221
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	Southampton	B-LOC	 Southampton, Pennsylvania|Q7569090
+5	-	O	-
+6	PA	B-LOC	Pennsylvania|Q1400
+7	(	O	-
+8	nd	B-LOC	-
+9	St.	I-LOC	-
+10	Pike	I-LOC	-
+11	,	O	-
+12	Southampton	B-LOC	Southampton, Pennsylvania|Q7569090
+13	)	O	-
+
+# tweet_id 222
+# ...
+1	Most	O	-
+2	beautiful	O	-
+3	girl	O	-
+4	in	O	-
+5	the	O	-
+6	world	O	-
+7	I	O	-
+8	think	O	-
+9	is	O	-
+10	Natalie	B-PER	Natalie Portman|Q37876
+11	Portman	I-PER	Natalie Portman|Q37876
+12	!	O	-
+13	💙	O	-
+14	@_Natalieportman	O	-
+
+# tweet_id 223
+# ...
+1	Computer	O	-
+2	freezing	O	-
+3	much	O	-
+4	less	O	-
+5	often	O	-
+6	.	O	-
+7	(	O	-
+8	@	O	-
+9	Department	B-ORG	Department of Motor Vehicles|Q539809
+10	of	I-ORG	Department of Motor Vehicles|Q539809
+11	Motor	I-ORG	Department of Motor Vehicles|Q539809
+12	Vehicles	I-ORG	Department of Motor Vehicles|Q539809
+13	)	O	-
+
+# tweet_id 224
+# ...
+1	Pulling	O	-
+2	up	O	-
+3	to	O	-
+4	taco	B-ORG	Taco Bell|Q752941
+5	bell	I-ORG	Taco Bell|Q752941
+6	blasting	O	-
+7	Norma	B-PER	Norma Jean (singer)|Q522034
+8	Jean	I-PER	Norma Jean (singer)|Q522034
+9	#	O	-
+
+# tweet_id 225
+# ...
+1	@XPajarillo	O	-
+2	have	O	-
+3	you	O	-
+4	ever	O	-
+5	been	O	-
+6	there	O	-
+7	?	O	-
+8	My	O	-
+9	friend	O	-
+10	owns	O	-
+11	a	O	-
+12	little	O	-
+13	restaurant	O	-
+14	Philippine	B-LOC	Philippines|Q928
+15	in	O	-
+16	south	O	-
+17	Austin	B-LOC	Austin, Texas|Q16559
+18	by	O	-
+19	my	O	-
+20	old	O	-
+21	high	O	-
+22	school	O	-
+23	.	O	-
+
+# tweet_id 226
+# ...
+1	My	O	-
+2	wife	O	-
+3	convinced	O	-
+4	me	O	-
+5	that	O	-
+6	@alan_tudyk	O	-
+7	is	O	-
+8	perfect	O	-
+9	casting	O	-
+10	for	O	-
+11	Barry	B-PER	Barry Allen|Q58400182
+12	Allen	I-PER	Barry Allen|Q58400182
+13	/	O	-
+14	The	B-MISC	The Flash|Q3987087
+15	Flash	I-MISC	The Flash|Q3987087
+16	.	O	-
+17	By	O	-
+18	suggesting	O	-
+19	it	O	-
+20	.	O	-
+21	She	O	-
+22	s	O	-
+23	good	O	-
+24	and	O	-
+25	smart	O	-
+26	and	O	-
+27	pretty	O	-
+28	.	O	-
+29	#	O	-
+30	fb	O	-
+
+# tweet_id 227
+# ...
+1	So	O	-
+2	uptight	O	-
+3	it	O	-
+4	almost	O	-
+5	makes	O	-
+6	me	O	-
+7	long	O	-
+8	for	O	-
+9	the	O	-
+10	"	O	-
+11	political	O	-
+12	correctness	O	-
+13	"	O	-
+14	of	O	-
+15	the	O	-
+16	s	O	-
+17	:	O	-
+18	NBC	B-ORG	NBC|Q13974
+19	Apologizes	O	-
+20	To	O	-
+21	Michele	B-PER	Michele Bachmann|Q160582
+22	Bachmann	I-PER	Michele Bachmann|Q160582
+23	-	O	-
+
+# tweet_id 228
+# ...
+1	Tebow	B-PER	Tim Tebow|Q517467
+2	would	O	-
+3	ve	O	-
+4	won	O	-
+5	that	O	-
+6	Denver	B-ORG	Denver Broncos|Q223507
+7	game	O	-
+8	at	O	-
+9	Tennessee	B-LOC	Tennessee|Q1509
+10	.	O	-
+11	(	O	-
+12	via	O	-
+13	@RealSkipBayless	O	-
+14	)	O	-
+15	/cc	O	-
+16	@cheesymac	O	-
+
+# tweet_id 229
+# ...
+1	Sad	O	-
+2	to	O	-
+3	be	O	-
+4	leaving	O	-
+5	CO	B-LOC	Colombia|Q739
+6	.	O	-
+7	Thanks	O	-
+8	@jayosea	O	-
+9	for	O	-
+10	always	O	-
+11	making	O	-
+12	it	O	-
+13	feel	O	-
+14	like	O	-
+15	home	O	-
+16	.	O	-
+17	(	O	-
+18	@	O	-
+19	Denver	B-LOC	Denver International Airport|Q330015
+20	International	I-LOC	Denver International Airport|Q330015
+21	Airport	I-LOC	Denver International Airport|Q330015
+22	(	O	-
+23	DEN	B-LOC	Denver International Airport|Q330015
+24	)	O	-
+25	)	O	-
+
+# tweet_id 230
+# ...
+1	Kids	O	-
+2	just	O	-
+3	discovered	O	-
+4	#	O	-
+5	Skype	B-MISC	Skype|Q40984
+6	.	O	-
+7	We	O	-
+8	just	O	-
+9	did	O	-
+10	a	O	-
+11	video	O	-
+12	call	O	-
+13	from	O	-
+14	about	O	-
+15	feet	O	-
+16	away	O	-
+17	.	O	-
+
+# tweet_id 231
+# ...
+1	Sent	O	-
+2	my	O	-
+3	information	O	-
+4	to	O	-
+5	the	O	-
+6	Art	B-ORG	The Art Institute of Washington|Q7714398
+7	Institute	I-ORG	The Art Institute of Washington|Q7714398
+8	on	I-ORG	The Art Institute of Washington|Q7714398
+9	Washington	I-ORG	The Art Institute of Washington|Q7714398
+10	this	O	-
+11	morning	O	-
+12	...	O	-
+13	Thinkin	O	-
+14	about	O	-
+15	sending	O	-
+16	my	O	-
+17	info	O	-
+18	to	O	-
+19	Corcoran	B-LOC	Corcoran Gallery of Art|Q768446
+20	as	O	-
+21	well	O	-
+
+# tweet_id 232
+# ...
+1	Old	O	-
+2	school	O	-
+3	chicken	O	-
+4	sandwhich	O	-
+5	:-)	O	-
+6	(	O	-
+7	@	O	-
+8	Burger	B-LOC	Burger King|Q177054
+9	King	I-LOC	Burger King|Q177054
+10	)	O	-
+
+# tweet_id 233
+# ...
+1	IBMs	B-ORG	Watson|Q12253
+2	Watson	I-ORG	Watson|Q12253
+3	vs	O	-
+4	Harvard	B-ORG	Harvard Business School|Q49126
+5	Business	I-ORG	Harvard Business School|Q49126
+6	School	I-ORG	Harvard Business School|Q49126
+7	and	O	-
+8	MIT	B-ORG	MIT Sloan School of Management|Q142740
+9	Sloan	I-ORG	MIT Sloan School of Management|Q142740
+10	(	O	-
+11	@	O	-
+12	Burden	B-LOC	Burden Hall|Q48837745
+13	Auditorium	I-LOC	Burden Hall|Q48837745
+14	)	O	-
+15	[	O	-
+16	pic	O	-
+17	]	O	-
+18	:	O	-
+
+# tweet_id 234
+# ...
+1	There&#;s	O	-
+2	zombies	O	-
+3	running	O	-
+4	through	O	-
+5	downtown	O	-
+6	Nashville	B-LOC	Nashville, Tennessee|Q23197
+7	right	O	-
+8	now	O	-
+9	for	O	-
+10	the	O	-
+11	k.	O	-
+12	Wish	O	-
+13	I	O	-
+14	had	O	-
+15	signed	O	-
+16	up	O	-
+17	for	O	-
+18	this	O	-
+19	!	O	-
+
+# tweet_id 235
+# ...
+1	The	O	-
+2	guy	O	-
+3	working	O	-
+4	the	O	-
+5	McDonalds	B-ORG	McDonald's|Q38076
+6	drive	O	-
+7	thru	O	-
+8	definitely	O	-
+9	judged	O	-
+10	me	O	-
+11	as	O	-
+12	I	O	-
+13	was	O	-
+14	singing	O	-
+15	Defying	B-MISC	Defying Gravity (song)|Q2636723
+16	Gravity	I-MISC	Defying Gravity (song)|Q2636723
+17	at	O	-
+18	the	O	-
+19	top	O	-
+20	of	O	-
+21	my	O	-
+22	lungs	O	-
+23	.	O	-
+24	Live	O	-
+25	a	O	-
+26	little	O	-
+27	,	O	-
+28	bro	O	-
+29	.	O	-
+
+# tweet_id 236
+# ...
+1	Hahahahahaha	O	-
+2	Kohls	B-ORG	-
+3	remade	O	-
+4	the	O	-
+5	song	O	-
+6	Friday	B-MISC	Friday|Q1770461
+7	into	O	-
+8	a	O	-
+9	Black	B-MISC	Black Friday (shopping)|Q86483
+10	Friday	I-MISC	Black Friday (shopping)|Q86483
+11	commercial	O	-
+12	.	O	-
+13	Too	O	-
+14	funny	O	-
+15	.	O	-
+
+# tweet_id 237
+# ...
+1	Its	O	-
+2	Business	O	-
+3	Time-	O	-
+4	off	O	-
+5	to	O	-
+6	SF	B-LOC	San Francisco|Q62
+7	!	O	-
+8	(	O	-
+9	@	O	-
+10	McCarran	B-LOC	McCarran International Airport|Q853886
+11	International	I-LOC	McCarran International Airport|Q853886
+12	Airport	I-LOC	McCarran International Airport|Q853886
+13	(	O	-
+14	LAS	B-LOC	McCarran International Airport|Q853886
+15	)	O	-
+16	w/	O	-
+17	others	O	-
+18	)	O	-
+
+# tweet_id 238
+# ...
+1	Mississippi	B-ORG	Mississippi State Bulldogs football|Q6879318
+2	State	I-ORG	Mississippi State Bulldogs football|Q6879318
+3	fans	O	-
+4	seem	O	-
+5	to	O	-
+6	be	O	-
+7	taking	O	-
+8	over	O	-
+9	every	O	-
+10	bar	O	-
+11	I	O	-
+12	walk	O	-
+13	past	O	-
+14	.	O	-
+15	Glad	O	-
+16	I	O	-
+17	have	O	-
+18	nt	O	-
+19	heard	O	-
+20	any	O	-
+21	annoying	O	-
+22	cowbells	O	-
+23	yet	O	-
+24	.	O	-
+
+# tweet_id 239
+# ...
+1	In	O	-
+2	front	O	-
+3	of	O	-
+4	Michelle	B-PER	Michelle Rodriguez|Q184219
+5	Rodriguez	I-PER	Michelle Rodriguez|Q184219
+6	at	O	-
+7	YYZ	B-LOC	Toronto Pearson International Airport|Q242066
+8	,	O	-
+9	about	O	-
+10	to	O	-
+11	tell	O	-
+12	her	O	-
+13	I	O	-
+14	love	O	-
+15	Blue	B-MISC	Blue Crush|Q885677
+16	Crush	I-MISC	Blue Crush|Q885677
+17	...	O	-
+18	I	O	-
+19	did	O	-
+20	nt	O	-
+
+# tweet_id 240
+# ...
+1	@_erykuhhhx	O	-
+2	you	O	-
+3	re	O	-
+4	in	O	-
+5	the	O	-
+6	OC	B-LOC	Orange County|Q5925
+7	?	O	-
+
+# tweet_id 241
+# ...
+1	Goodnight	O	-
+2	#	O	-
+3	twitter	B-MISC	Twitter|Q918
+4	...	O	-
+5	see	O	-
+6	u	O	-
+7	tomorrow	O	-
+8	plus	O	-
+9	talking	O	-
+10	to	O	-
+11	my	O	-
+12	grandparents	O	-
+13	in	O	-
+14	the	O	-
+15	Philippines	B-LOC	Philippines|Q928
+16	:	O	-
+17	)	O	-
+18	love	O	-
+19	em	O	-
+
+# tweet_id 242
+# ...
+1	Dinner	O	-
+2	at	O	-
+3	my	O	-
+4	second	O	-
+5	favorite	O	-
+6	restaurant	O	-
+7	in	O	-
+8	Knoxville	B-LOC	Knoxville, Tennessee|Q185582
+9	...	O	-
+10	#	O	-
+11	score	O	-
+
+# tweet_id 243
+# ...
+1	waiting	O	-
+2	for	O	-
+3	my	O	-
+4	wife	O	-
+5	(	O	-
+6	@	O	-
+7	Oakland	B-LOC	Oakland International Airport|Q1165584
+8	International	I-LOC	Oakland International Airport|Q1165584
+9	Airport	I-LOC	Oakland International Airport|Q1165584
+10	(	O	-
+11	OAK	B-LOC	Oakland International Airport|Q1165584
+12	)	O	-
+13	w/	O	-
+14	others	O	-
+15	)	O	-
+
+# tweet_id 244
+# ...
+1	@WriteJaxWrite	O	-
+2	ok	O	-
+3	I	O	-
+4	m	O	-
+5	doing	O	-
+6	my	O	-
+7	Verizon	B-MISC	Verizon Communications|Q467752
+8	thing	O	-
+9	:*	O	-
+
+# tweet_id 245
+# ...
+1	Is	O	-
+2	Herman	B-PER	Herman Cain|Q491019
+3	Cain	I-PER	Herman Cain|Q491019
+4	really	O	-
+5	running	O	-
+6	for	O	-
+7	office	O	-
+8	?	O	-
+
+# tweet_id 246
+# ...
+1	in	O	-
+2	a	O	-
+3	John	B-PER	John Mayer|Q215215
+4	Mayer	I-PER	John Mayer|Q215215
+5	mood	O	-
+6	this	O	-
+7	morning	O	-
+
+# tweet_id 247
+# ...
+1	@ststev	O	-
+2	I	O	-
+3	thought	O	-
+4	they	O	-
+5	went	O	-
+6	and	O	-
+7	printed	O	-
+8	different	O	-
+9	UK	B-LOC	United Kingdom|Q145
+10	and	O	-
+11	USA	B-LOC	United States|Q30
+12	versions	O	-
+13	with	O	-
+14	different	O	-
+15	spellings	O	-
+16	,	O	-
+17	actually	O	-
+
+# tweet_id 248
+# ...
+1	@LnxPrgr	O	-
+2	i	O	-
+3	have	O	-
+4	never	O	-
+5	used	O	-
+6	either	O	-
+7	a	O	-
+8	Twitter	B-MISC	Twitter|Q918
+9	or	O	-
+10	Facebook	B-MISC	Facebook|Q355
+11	native	O	-
+12	desktop	O	-
+13	OS	B-MISC	operating system|Q9135
+14	app	O	-
+15	:	O	-
+16	the	O	-
+17	website	O	-
+18	is	O	-
+19	the	O	-
+20	whole	O	-
+21	thing	O	-
+22	,	O	-
+23	right	O	-
+24	?	O	-
+
+# tweet_id 249
+# ...
+1	Its	O	-
+2	impossible	O	-
+3	to	O	-
+4	not	O	-
+5	fall	O	-
+6	in	O	-
+7	love	O	-
+8	with	O	-
+9	Manhattan	B-LOC	Manhattan|Q11299
+10	on	O	-
+11	a	O	-
+12	night	O	-
+13	like	O	-
+14	this	O	-
+15	...	O	-
+
+# tweet_id 250
+# ...
+1	Alright	O	-
+2	.	O	-
+3	ESPN	B-ORG	ESPN|Q217776
+4	not	O	-
+5	in	O	-
+6	HD	B-MISC	High-definition television|Q133454
+7	has	O	-
+8	sound	O	-
+9	.	O	-
+10	HD	B-MISC	High-definition television|Q133454
+11	does	O	-
+12	nt	O	-
+13	.	O	-
+14	Boo	O	-
+15	.	O	-
+
+# tweet_id 251
+# ...
+1	Pledge	O	-
+2	event	O	-
+3	(	O	-
+4	@	O	-
+5	AU	O	-
+6	–	O	-
+7	Washington	B-ORG	Washington College of Law|Q167049
+8	College	I-ORG	Washington College of Law|Q167049
+9	of	I-ORG	Washington College of Law|Q167049
+10	Law	I-ORG	Washington College of Law|Q167049
+11	w/	O	-
+12	others	O	-
+13	)	O	-
+
+# tweet_id 252
+# ...
+1	Love	O	-
+2	love	O	-
+3	LOVE	O	-
+4	Disney	B-MISC	The Walt Disney Company|Q7414
+5	movies	O	-
+6	:))	O	-
+
+# tweet_id 253
+# ...
+1	John	B-PER	John Elway|Q432931
+2	Elway	I-PER	John Elway|Q432931
+3	is	O	-
+4	at	O	-
+5	the	O	-
+6	Baylor	B-ORG	Baylor Bears football|Q4874596
+7	game	O	-
+8	tonight	O	-
+9	!	O	-
+10	#	O	-
+11	rgtobaylor	O	-
+
+# tweet_id 254
+# ...
+1	Headed	O	-
+2	to	O	-
+3	Salt	B-LOC	Salt Lake City|Q23337
+4	Lake	I-LOC	Salt Lake City|Q23337
+5	City	I-LOC	Salt Lake City|Q23337
+6	for	O	-
+7	the	O	-
+8	day	O	-
+9	.	O	-
+
+# tweet_id 255
+# ...
+1	Just	O	-
+2	thinking	O	-
+3	about	O	-
+4	last	O	-
+5	night	O	-
+6	when	O	-
+7	@kbrees	O	-
+8	said	O	-
+9	(	O	-
+10	Chase	B-ORG	Chase Bank|Q524629
+11	Bank	I-ORG	Chase Bank|Q524629
+12	in	O	-
+13	the	O	-
+14	HOOOOOUSE	O	-
+15	)	O	-
+16	Inside	O	-
+17	joke	O	-
+18	.	O	-
+
+# tweet_id 256
+# ...
+1	I	O	-
+2	need	O	-
+3	some	O	-
+4	breakfast	O	-
+5	!	O	-
+6	What	O	-
+7	s	O	-
+8	good	O	-
+9	around	O	-
+10	John	B-LOC	John Wayne Airport|Q1692316
+11	Wayne	I-LOC	John Wayne Airport|Q1692316
+12	airport	I-LOC	John Wayne Airport|Q1692316
+13	?	O	-
+
+# tweet_id 257
+# ...
+1	One	O	-
+2	less	O	-
+3	question	O	-
+4	to	O	-
+5	ask	O	-
+6	Apple	B-ORG	Apple Inc.|Q312
+7	tomorrow	O	-
+8	-	O	-
+9	turning	O	-
+10	off	O	-
+11	most	O	-
+12	iCloud	B-MISC	ICloud|Q283469
+13	services	O	-
+14	returned	O	-
+15	the	O	-
+16	snappiness	O	-
+17	of	O	-
+18	my	O	-
+19	phone	O	-
+
+# tweet_id 258
+# ...
+1	What	O	-
+2	s	O	-
+3	up	O	-
+4	with	O	-
+5	the	O	-
+6	single	O	-
+7	LA	B-LOC	Los Angeles|Q65
+8	women	O	-
+9	I	O	-
+10	want	O	-
+11	to	O	-
+12	take	O	-
+13	one	O	-
+14	out	O	-
+15	to	O	-
+16	dinner	O	-
+17	in	O	-
+18	Beverly	B-LOC	Beverly Hills|Q127856
+19	hills	I-LOC	Beverly Hills|Q127856
+20	any	O	-
+21	ladies	O	-
+22	down	O	-
+23	?	O	-
+24	?	O	-
+25	?	O	-
+
+# tweet_id 259
+# ...
+1	@ALLsportsINTEL	O	-
+2	Franchise	O	-
+3	tag	O	-
+4	most	O	-
+5	likely	O	-
+6	on	O	-
+7	DeSean	B-PER	DeSean Jackson|Q984336
+8	Jackson	I-PER	DeSean Jackson|Q984336
+
+# tweet_id 260
+# ...
+1	Post	O	-
+2	blackfriday	B-MISC	Black Friday|Q86483
+3	day	O	-
+4	(	O	-
+5	@	O	-
+6	Home	B-ORG	The Home Depot|Q864407
+7	Depot	I-ORG	The Home Depot|Q864407
+8	)	O	-
+
+# tweet_id 261
+# ...
+1	Already	O	-
+2	loving	O	-
+3	this	O	-
+4	LSU	B-ORG	LSU Tigers football|Q6460028 
+5	-	O	-
+6	Arkansas	B-ORG	Arkansas Razorbacks football|Q4791842
+7	game	O	-
+8	!	O	-
+
+# tweet_id 262
+# ...
+1	I	O	-
+2	am	O	-
+3	Nicki	B-PER	Nicki Minaj|Q162202
+4	Minaj	I-PER	Nicki Minaj|Q162202
+5	,	O	-
+6	I	O	-
+7	mack	O	-
+8	them	O	-
+9	dudes	O	-
+10	up	O	-
+11	,	O	-
+12	back	O	-
+13	coupes	O	-
+14	up	O	-
+15	and	O	-
+16	chuck	O	-
+17	the	O	-
+18	deuce	O	-
+19	up	O	-
+20	.	O	-
+
+# tweet_id 263
+# ...
+1	Taylor	B-PER	Taylor Swift|Q26876
+2	Swift	I-PER	Taylor Swift|Q26876
+3	opened	O	-
+4	both	O	-
+5	of	O	-
+6	her	O	-
+7	North	O	-
+8	American	O	-
+9	tours	O	-
+10	(	O	-
+11	Fearless	B-MISC	-
+12	&	I-MISC	-
+13	Speak	I-MISC	-
+14	Now	I-MISC	-
+15	)	O	-
+16	in	O	-
+17	the	O	-
+18	only	O	-
+19	states	O	-
+20	I	O	-
+21	ve	O	-
+22	ever	O	-
+23	lived	O	-
+24	in	O	-
+25	:)	O	-
+26	she	O	-
+27	s	O	-
+28	stalking	O	-
+29	me	O	-
+30	lol	O	-
+
+# tweet_id 264
+# ...
+1	Before	O	-
+2	I	O	-
+3	die	O	-
+4	,	O	-
+5	I	O	-
+6	want	O	-
+7	to	O	-
+8	...	O	-
+9	(	O	-
+10	@	O	-
+11	Brooklyn	B-ORG	Brooklyn Law School|Q1812600
+12	Law	I-ORG	Brooklyn Law School|Q1812600
+13	School	I-ORG	Brooklyn Law School|Q1812600
+14	)	O	-
+
+# tweet_id 265
+# ...
+1	Knoxville	B-LOC	Knoxville, Tennessee|Q185582
+2	is	O	-
+3	a	O	-
+4	sketchy	O	-
+5	place	O	-
+
+# tweet_id 266
+# ...
+1	Its	O	-
+2	nice	O	-
+3	to	O	-
+4	see	O	-
+5	Will	B-PER	Will Arnett|Q355116
+6	Arnett	I-PER	Will Arnett|Q355116
+7	back	O	-
+8	on	O	-
+9	TV	O	-
+10	even	O	-
+11	though	O	-
+12	its	O	-
+13	NBC	B-ORG	NBC|Q13974
+14	and	O	-
+15	NOTHING	O	-
+16	is	O	-
+17	funny	O	-
+18	on	O	-
+19	NBC	B-ORG	NBC|Q13974
+
+# tweet_id 267
+# ...
+1	Best	O	-
+2	steak	O	-
+3	I	O	-
+4	ve	O	-
+5	had	O	-
+6	in	O	-
+7	years	O	-
+8	.	O	-
+9	Truly	O	-
+10	amazing	O	-
+11	.	O	-
+12	(	O	-
+13	@	O	-
+14	Charlie	B-PER	Charlie Palmer (chef)|Q5085338
+15	Palmer	I-PER	Charlie Palmer (chef)|Q5085338
+16	Steak	O	-
+17	w/	O	-
+18	others	O	-
+19	)	O	-
+
+# tweet_id 268
+# ...
+1	On	O	-
+2	second	O	-
+3	thought	O	-
+4	,	O	-
+5	that	O	-
+6	Spike	B-PER	Spike Lee|Q51566
+7	Lee	I-PER	Spike Lee|Q51566
+8	(	O	-
+9	Old	B-MISC	Oldboy|Q1529637
+10	Boy	I-MISC	Oldboy|Q1529637
+11	)	O	-
+12	remake	O	-
+13	(	O	-
+14	starring	O	-
+15	Will	B-PER	Will Smith|Q40096
+16	Smith	I-PER	Will Smith|Q40096
+17	)	O	-
+18	could	O	-
+19	ve	O	-
+20	been	O	-
+21	amazing	O	-
+22	.	O	-
+
+# tweet_id 269
+# ...
+1	Our	O	-
+2	dreams	O	-
+3	are	O	-
+4	not	O	-
+5	independent	O	-
+6	from	O	-
+7	God	B-MISC	deity|Q178885
+8	,	O	-
+9	but	O	-
+10	instead	O	-
+11	exist	O	-
+12	because	O	-
+13	of	O	-
+14	God	B-MISC	deity|Q178885
+15	.	O	-
+16	-	O	-
+17	Bill	B-PER	-
+18	Johnson	I-PER	-
+
+# tweet_id 270
+# ...
+1	Were	O	-
+2	seeing	O	-
+3	a	O	-
+4	fair	O	-
+5	amount	O	-
+6	of	O	-
+7	flood	O	-
+8	damage	O	-
+9	from	O	-
+10	Irene	B-MISC	Hurricane Irene|Q187621	
+11	as	O	-
+12	we	O	-
+13	drive	O	-
+14	through	O	-
+15	the	O	-
+16	Catskills	B-LOC	Catskill Mountains|Q630566
+17	--	O	-
+18	the	O	-
+19	rivers	O	-
+20	are	O	-
+21	still	O	-
+22	high	O	-
+23	and	O	-
+24	its	O	-
+25	raining	O	-
+26	again	O	-
+27	.	O	-
+
+# tweet_id 271
+# ...
+1	The	B-MISC	The Haunting|Q786019
+2	Haunting	I-MISC	The Haunting|Q786019
+3	in	O	-
+4	Connecticut	B-LOC	Connecticut|Q779
+5	is	O	-
+6	the	O	-
+7	best	O	-
+8	horror	O	-
+9	/	O	-
+10	thriller	O	-
+11	movie	O	-
+12	I	O	-
+13	ve	O	-
+14	seen	O	-
+15	in	O	-
+16	a	O	-
+17	long	O	-
+18	time	O	-
+19	.	O	-
+
+# tweet_id 272
+# ...
+1	You	O	-
+2	know	O	-
+3	you	O	-
+4	re	O	-
+5	back	O	-
+6	in	O	-
+7	Colorado	B-LOC	Colorado|Q1261
+8	when	O	-
+9	the	O	-
+10	prepackaged	O	-
+11	bags	O	-
+12	are	O	-
+13	about	O	-
+14	to	O	-
+15	pop	O	-
+16	.	O	-
+
+# tweet_id 273
+# ...
+1	Lets	O	-
+2	get	O	-
+3	this	O	-
+4	day	O	-
+5	over	O	-
+6	with	O	-
+7	.	O	-
+8	Lots	O	-
+9	to	O	-
+10	do	O	-
+11	this	O	-
+12	weekend	O	-
+13	.	O	-
+14	(	O	-
+15	@	O	-
+16	Dish	B-ORG	Dish Network|Q1199757
+17	Network	I-ORG	Dish Network|Q1199757
+18	w/	O	-
+19	@danholden	O	-
+20	)	O	-
+
+# tweet_id 274
+# ...
+1	Our	O	-
+2	friends	O	-
+3	Jordan	B-PER	-
+4	and	O	-
+5	Justin	B-PER	-
+6	are	O	-
+7	up	O	-
+8	on	O	-
+9	the	O	-
+10	blog	O	-
+11	!	O	-
+12	Check	O	-
+13	out	O	-
+14	their	O	-
+15	sweet	O	-
+16	engagement	O	-
+17	session	O	-
+18	in	O	-
+19	Maryland	B-LOC	Maryland|Q1391
+20	.	O	-
+
+# tweet_id 275
+# ...
+1	Trying	O	-
+2	to	O	-
+3	sell	O	-
+4	my	O	-
+5	Mossimo	B-ORG	Mossimo|Q17107723
+6	from	O	-
+7	Target	B-ORG	Target Corporation|Q1046951
+8	stuff	O	-
+9	on	O	-
+10	EBay	B-ORG	EBay|Q58024
+11	.	O	-
+12	Not	O	-
+13	selling	O	-
+14	well	O	-
+15	.	O	-
+16	should	O	-
+17	of	O	-
+18	just	O	-
+19	bought	O	-
+20	high	O	-
+21	end	O	-
+22	#	O	-
+23	Missoni	B-PER	Missoni|Q56546809
+24	f/	O	-
+25	a	O	-
+26	lady	O	-
+27	in	O	-
+28	the	O	-
+29	parking	O	-
+30	lot	O	-
+31	.	O	-
+
+# tweet_id 276
+# ...
+1	Urgent	O	-
+2	coffee	O	-
+3	need	O	-
+4	combined	O	-
+5	with	O	-
+6	craving	O	-
+7	for	O	-
+8	sweet	O	-
+9	snack	O	-
+10	=	O	-
+11	Starbucks	B-ORG	Starbucks|Q37158
+12	run	O	-
+13	!	O	-
+14	!	O	-
+
+# tweet_id 277
+# ...
+1	Hungry	O	-
+2	but	O	-
+3	I	O	-
+4	really	O	-
+5	do	O	-
+6	nt	O	-
+7	want	O	-
+8	McDonalds	B-ORG	McDonald's|Q38076
+9	again	O	-
+10	.	O	-
+
+# tweet_id 278
+# ...
+1	Picking	O	-
+2	up	O	-
+3	Michele	B-PER	Michele|Q18620539
+4	after	O	-
+5	two	O	-
+6	weeks	O	-
+7	visiting	O	-
+8	kids	O	-
+9	&	O	-
+10	grandkids	O	-
+11	.	O	-
+12	(	O	-
+13	@	O	-
+14	Spokane	B-ORG	Spokane International Airport|Q917528
+15	International	I-ORG	Spokane International Airport|Q917528
+16	Airport	I-ORG	Spokane International Airport|Q917528
+17	(	O	-
+18	GEG	I-ORG	Spokane International Airport|Q917528
+19	)	O	-
+20	)	O	-
+
+# tweet_id 279
+# ...
+1	Taking	O	-
+2	a	O	-
+3	quick	O	-
+4	break	O	-
+5	before	O	-
+6	powering	O	-
+7	through	O	-
+8	into	O	-
+9	Kentucky	B-LOC	Kentucky|Q1603
+10	/	O	-
+11	Tennessee	B-LOC	Tennessee|Q1509
+12	.	O	-
+13	Mountains	O	-
+14	are	O	-
+15	beautiful	O	-
+16	.	O	-
+17	(	O	-
+18	@	O	-
+19	Pilot	B-ORG	Pilot Travel Centers|Q64128179
+20	Travel	I-ORG	Pilot Travel Centers|Q64128179
+21	Center	I-ORG	Pilot Travel Centers|Q64128179
+22	)	O	-
+
+# tweet_id 280
+# ...
+1	I	O	-
+2	want	O	-
+3	to	O	-
+4	marry	O	-
+5	Daria	B-PER	Daria (name)|Q912615
+
+# tweet_id 281
+# ...
+1	Going	O	-
+2	to	O	-
+3	have	O	-
+4	a	O	-
+5	Harry	B-PER	Harry Potter (character)|Q3244512
+6	Potter	I-PER	Harry Potter (character)|Q3244512
+7	themed	O	-
+8	wedding	O	-
+9	.	O	-
+10	Dress	O	-
+11	will	O	-
+12	be	O	-
+13	Sirius	B-MISC	Sirius Black|Q713701
+14	Black	I-MISC	Sirius Black|Q713701
+15	Tie	O	-
+
+# tweet_id 282
+# ...
+1	Words	O	-
+2	are	O	-
+3	only	O	-
+4	painted	O	-
+5	fire	O	-
+6	;	O	-
+7	a	O	-
+8	book	O	-
+9	is	O	-
+10	the	O	-
+11	fire	O	-
+12	itself	O	-
+13	.	O	-
+14	Mark	B-PER	Mark Twain|Q7245
+15	Twain	I-PER	Mark Twain|Q7245
+
+# tweet_id 283
+# ...
+1	Lil	B-PER	Lil Wayne|Q15615
+2	Wayne	I-PER	Lil Wayne|Q15615
+3	looks	O	-
+4	like	O	-
+5	a	O	-
+6	monkey	O	-
+7	running	O	-
+8	around	O	-
+9	with	O	-
+10	them	O	-
+11	dread	O	-
+12	knots	O	-
+13	hahaha	O	-
+
+# tweet_id 284
+# ...
+1	Loving	O	-
+2	Seattle	B-LOC	Seattle|Q5083
+3	but	O	-
+4	still	O	-
+5	missing	O	-
+6	home	O	-
+7	...	O	-
+8	Excited	O	-
+9	to	O	-
+10	come	O	-
+11	back	O	-
+12	to	O	-
+13	NYC	B-LOC	New York City|Q60
+14	Thursday	O	-
+15	night	O	-
+16	!	O	-
+
+# tweet_id 285
+# ...
+1	Where	O	-
+2	is	O	-
+3	Jessica	B-MISC	Jessica Jones|Q2271377
+4	Jones	I-MISC	Jessica Jones|Q2271377
+5	?	O	-
+6	(	O	-
+7	@	O	-
+8	Hooters	B-ORG	Hooters|Q1025921
+9	)	O	-
+
+# tweet_id 286
+# ...
+1	Peter	B-PER	Peter Bradley Adams|Q7172927
+2	Bradley	I-PER	Peter Bradley Adams|Q7172927
+3	Adams	I-PER	Peter Bradley Adams|Q7172927
+4	pandora	O	-
+5	radio	O	-
+6	station	O	-
+7	is	O	-
+8	bringin	O	-
+9	it	O	-
+10	today	O	-
+11	.	O	-
+
+# tweet_id 287
+# ...
+1	Back	O	-
+2	to	O	-
+3	baton	O	-
+4	rouge	O	-
+5	BOLD	O	-
+6	...	O	-
+7	home	O	-
+8	of	O	-
+9	the	O	-
+10	#	O	-
+11	tigers	O	-
+12	!	O	-
+13	!	O	-
+14	!	O	-
+15	:)	O	-
+16	(	O	-
+17	@	O	-
+18	Norfolk	B-ORG	Norfolk International Airport|Q1432196
+19	International	I-ORG	Norfolk International Airport|Q1432196
+20	Airport	I-ORG	Norfolk International Airport|Q1432196
+21	(	O	-
+22	ORF	B-ORG	Norfolk International Airport|Q1432196
+23	)	O	-
+24	w/	O	-
+25	others	O	-
+26	)	O	-
+
+# tweet_id 288
+# ...
+1	@VelVelHoller	O	-
+2	ahhh	O	-
+3	,	O	-
+4	my	O	-
+5	baby	O	-
+6	mother	O	-
+7	,	O	-
+8	I	O	-
+9	can	O	-
+10	dream	O	-
+11	ca	O	-
+12	nt	O	-
+13	I	O	-
+14	?	O	-
+15	You	O	-
+16	are	O	-
+17	my	O	-
+18	favorite	O	-
+19	female	O	-
+20	wrestler	O	-
+21	besides	O	-
+22	Angelia	B-PER	Angelina Love|Q260139
+23	love	I-PER	Angelina Love|Q260139
+24	,	O	-
+25	Jeff	B-PER	Jeff Jarrett|Q352873
+26	Jarrett	I-PER	Jeff Jarrett|Q352873
+27	did	O	-
+28	good	O	-
+29	.	O	-
+
+# tweet_id 289
+# ...
+1	Holy	O	-
+2	crap	O	-
+3	this	O	-
+4	Siri	B-MISC	Siri|Q582159
+5	thing	O	-
+6	is	O	-
+7	awesome	O	-
+
+# tweet_id 290
+# ...
+1	@cbfowler	O	-
+2	Could	O	-
+3	have	O	-
+4	swore	O	-
+5	ISU	B-ORG	Iowa State Cyclones|Q3008553
+6	player	O	-
+7	tipped	O	-
+8	the	O	-
+9	ball	O	-
+10	not	O	-
+11	Blackmon	B-PER	Justin Blackmon|Q3190415
+12	.	O	-
+13	Regardless	O	-
+14	OSU	B-ORG	Oklahoma State Cowboys football|Q7082345
+15	looked	O	-
+16	beatable	O	-
+17	all	O	-
+18	night	O	-
+19	.	O	-
+
+# tweet_id 291
+# ...
+1	Jordan	B-PER	Jordan|Q1703599
+2	w	O	-
+3	/	O	-
+4	Expedition	B-MISC	Expedition Everest|Q1341067
+5	Everest	I-MISC	Expedition Everest|Q1341067
+6	in	O	-
+7	background	O	-
+8	!	O	-
+9	!	O	-
+
+# tweet_id 292
+# ...
+1	Today	O	-
+2	I	O	-
+3	was	O	-
+4	reminded	O	-
+5	of	O	-
+6	the	O	-
+7	poetry	O	-
+8	I	O	-
+9	used	O	-
+10	to	O	-
+11	read	O	-
+12	,	O	-
+13	the	O	-
+14	books	O	-
+15	I	O	-
+16	left	O	-
+17	behind	O	-
+18	in	O	-
+19	NYC	B-LOC	New York City|Q60
+20	,	O	-
+21	and	O	-
+22	...	O	-
+23	and	O	-
+24	that	O	-
+25	I	O	-
+26	should	O	-
+27	write	O	-
+28	more	O	-
+
+# tweet_id 293
+# ...
+1	The	O	-
+2	Cowboys	B-ORG	Dallas Cowboys|Q204862
+3	might	O	-
+4	win	O	-
+5	in	O	-
+6	spite	O	-
+7	of	O	-
+8	themselves	O	-
+9	.	O	-
+10	They	O	-
+11	really	O	-
+12	are	O	-
+13	the	O	-
+14	Notre	B-ORG	Notre Dame Fighting Irish football|Q16147495
+15	Dame	I-ORG	Notre Dame Fighting Irish football|Q16147495
+16	of	O	-
+17	the	O	-
+18	NFL	B-MISC	National Football League|Q1215884
+19	.	O	-
+
+# tweet_id 294
+# ...
+1	Lets	O	-
+2	go	O	-
+3	Badgers	B-ORG	Wisconsin Badgers football|Q8027119
+4	(	O	-
+5	@	O	-
+6	TCF	B-LOC	TCF Bank Stadium|Q3512039
+7	Bank	I-LOC	TCF Bank Stadium|Q3512039
+8	Stadium	I-LOC	TCF Bank Stadium|Q3512039
+9	for	O	-
+10	Wisconsin	B-ORG	Wisconsin Badgers football|Q8027119
+11	Badgers	I-ORG	Wisconsin Badgers football|Q8027119
+12	vs.	O	-
+13	Minnesota	B-ORG	Minnesota Golden Gophers football|Q6868253
+14	Golden	I-ORG	Minnesota Golden Gophers football|Q6868253
+15	Gophers	I-ORG	Minnesota Golden Gophers football|Q6868253
+16	w/	O	-
+17	others	O	-
+18	)	O	-
+
+# tweet_id 295
+# ...
+1	Yelp	B-ORG	Yelp|Q2299611
+2	business	O	-
+3	sucks	O	-
+4	today	O	-
+5	,	O	-
+6	will	O	-
+7	get	O	-
+8	worse	O	-
+9	as	O	-
+10	Foursquare	B-ORG	Foursquare (company)|Q51709
+11	,	O	-
+12	Google	B-ORG	Local Guides|Q41155532
+13	Local	I-ORG	Local Guides|Q41155532
+14	and	O	-
+15	others	O	-
+16	take	O	-
+17	share	O	-
+18	:	O	-
+19	.	O	-
+20	Too	O	-
+21	bad	O	-
+22	-	O	-
+23	I	O	-
+24	love	O	-
+25	the	O	-
+26	site	O	-
+
+# tweet_id 296
+# ...
+1	Nyjer	B-PER	Nyjer Morgan|Q861733
+2	Morgan	I-PER	Nyjer Morgan|Q861733
+3	makes	O	-
+4	Jose	B-PER	José Reyes (infielder)|Q220096
+5	Reyes	I-PER	José Reyes (infielder)|Q220096
+6	seem	O	-
+7	tolerable	O	-
+8	.	O	-
+
+# tweet_id 297
+# ...
+1	@THEnONLYaspenS	O	-
+2	yupp	O	-
+3	...	O	-
+4	Kosuke	B-PER	Kosuke Fukudome|Q1329341
+5	Fukodome	I-PER	Kosuke Fukudome|Q1329341
+6	,	O	-
+7	now	O	-
+8	plays	O	-
+9	for	O	-
+10	Cleveland	B-ORG	Cleveland Indians|Q642553
+11	,	O	-
+12	used	O	-
+13	to	O	-
+14	play	O	-
+15	for	O	-
+16	Chicago	B-ORG	Chicago Cubs|Q246782
+17	,	O	-
+18	pretty	O	-
+19	solid	O	-
+20	young	O	-
+21	Japanese	B-MISC	apanese people|Q161652
+22	outfield	O	-
+
+# tweet_id 298
+# ...
+1	hacking	O	-
+2	into	O	-
+3	the	O	-
+4	main	O	-
+5	frame	O	-
+6	at	O	-
+7	Starbucks	B-ORG	Starbucks|Q37158
+8	with	O	-
+9	Jubal	B-PER	-
+10	.	O	-
+11	Ill	O	-
+12	be	O	-
+13	back	O	-
+14	at	O	-
+15	some	O	-
+16	point	O	-
+17	.	O	-
+
+# tweet_id 299
+# ...
+1	A	O	-
+2	family	O	-
+3	JUST	O	-
+4	came	O	-
+5	to	O	-
+6	this	O	-
+7	Bank	B-ORG	Bank of America|Q487907
+8	of	I-ORG	Bank of America|Q487907
+9	America	I-ORG	Bank of America|Q487907
+10	and	O	-
+11	closed	O	-
+12	out	O	-
+13	her	O	-
+14	account	O	-
+15	!	O	-
+16	She	O	-
+17	stopped	O	-
+18	by	O	-
+19	to	O	-
+20	express	O	-
+21	her	O	-
+22	solidarity	O	-
+23	.	O	-
+24	#	O	-
+25	OccupyPV	O	-
+
+# tweet_id 300
+# ...
+1	@mogrunt	O	-
+2	its	O	-
+3	a	O	-
+4	reference	O	-
+5	to	O	-
+6	Buffy	B-MISC	Buffy the Vampire Slayer|Q39970
+7	the	I-MISC	Buffy the Vampire Slayer|Q39970
+8	Vampire	I-MISC	Buffy the Vampire Slayer|Q39970
+9	Slayer	I-MISC	Buffy the Vampire Slayer|Q39970
+
+# tweet_id 301
+# ...
+1	Watching	O	-
+2	classic	O	-
+3	comedy	O	-
+4	.	O	-
+5	Dick	B-PER	Dick Van Dyke|Q310295
+6	Van	I-PER	Dick Van Dyke|Q310295
+7	Dyke	I-PER	Dick Van Dyke|Q310295
+8	show	O	-
+9	still	O	-
+10	hilarious	O	-
+11	!	O	-
+12	The	O	-
+13	grandfather	O	-
+14	to	O	-
+15	a	O	-
+16	lot	O	-
+17	of	O	-
+18	todays	O	-
+19	successful	O	-
+20	shows	O	-
+21	.	O	-
+22	#	O	-
+23	timing	O	-
+24	#	O	-
+25	pratfalls	O	-
+
+# tweet_id 302
+# ...
+1	AM	O	-
+2	at	O	-
+3	my	O	-
+4	gate	O	-
+5	.	O	-
+6	Why	O	-
+7	am	O	-
+8	I	O	-
+9	traveling	O	-
+10	at	O	-
+11	such	O	-
+12	an	O	-
+13	ungodly	O	-
+14	hour	O	-
+15	?	O	-
+16	(	O	-
+17	@	O	-
+18	Philadelphia	B-ORG	Philadelphia International Airport|Q512128
+19	International	I-ORG	Philadelphia International Airport|Q512128
+20	Airport	I-ORG	Philadelphia International Airport|Q512128
+21	(	O	-
+22	PHL	B-ORG	Philadelphia International Airport|Q512128
+23	)	O	-
+24	)	O	-
+
+# tweet_id 303
+# ...
+1	I	O	-
+2	got	O	-
+3	the	O	-
+4	moves	O	-
+5	like	O	-
+6	Mick	B-PER	Mick Jagger|Q128121
+7	Jagger	I-PER	Mick Jagger|Q128121
+
+# tweet_id 304
+# ...
+1	Boone	B-LOC	Boone, North Carolina|Q893055
+2	the	O	-
+3	first	O	-
+4	weekend	O	-
+5	of	O	-
+6	Oct	O	-
+7	,	O	-
+8	Harrisonburg	B-LOC	Harrisonburg, Louisiana|Q2468416
+9	the	O	-
+10	last	O	-
+11	weekend	O	-
+12	of	O	-
+13	Oct	O	-
+14	,	O	-
+15	and	O	-
+16	PHX	B-LOC	Phoenix|Q16556
+17	the	O	-
+18	first	O	-
+19	weekend	O	-
+20	of	O	-
+21	Dec.	O	-
+22	I	O	-
+23	should	O	-
+24	just	O	-
+25	go	O	-
+26	on	O	-
+27	tour	O	-
+28	.	O	-
+
+# tweet_id 305
+# ...
+1	It	O	-
+2	is	O	-
+3	a	O	-
+4	fine	O	-
+5	rainy	O	-
+6	Monday	B-MISC	Monday|Q105
+7	morning	O	-
+8	in	O	-
+9	NOLA	B-LOC	New Orleans|Q34404
+10	.	O	-
+11	#	O	-
+12	Humidityville	O	-
+
+# tweet_id 306
+# ...
+1	Lunch	O	-
+2	w/@mishastudley	O	-
+3	@	O	-
+4	California	B-LOC	California Pizza Kitchen|Q15109854
+5	Pizza	I-LOC	California Pizza Kitchen|Q15109854
+6	Kitchen	I-LOC	California Pizza Kitchen|Q15109854
+
+# tweet_id 307
+# ...
+1	Just	O	-
+2	saw	O	-
+3	James	B-PER	James Madison|Q11813
+4	Madison	I-PER	James Madison|Q11813
+5	girl	O	-
+6	lecturing	O	-
+7	freshman	O	-
+8	ahhhahahha	O	-
+
+# tweet_id 308
+# ...
+1	I	O	-
+2	wanna	O	-
+3	live	O	-
+4	in	O	-
+5	Austin	B-LOC	Austin, Texas|Q16559
+
+# tweet_id 309
+# ...
+1	with	O	-
+2	@benweigold	O	-
+3	and	O	-
+4	@thatkidmelissa	O	-
+5	!	O	-
+6	so	O	-
+7	excited	O	-
+8	!	O	-
+9	!	O	-
+10	!	O	-
+11	!	O	-
+12	(	O	-
+13	@	O	-
+14	Turner	B-LOC	Turner Field|Q1150936
+15	Field	I-LOC	Turner Field|Q1150936
+16	for	O	-
+17	Philadelphia	B-ORG	Philadelphia Phillies|Q650840
+18	Phillies	I-ORG	Philadelphia Phillies|Q650840
+19	vs.	O	-
+20	Atlanta	B-ORG	Atlanta Braves|Q461595
+21	Braves	I-ORG	Atlanta Braves|Q461595
+22	)	O	-
+
+# tweet_id 310
+# ...
+1	This	O	-
+2	new	O	-
+3	show	O	-
+4	with	O	-
+5	Claire	B-PER	Claire Danes|Q867813
+6	Danes	I-PER	Claire Danes|Q867813
+7	is	O	-
+8	...	O	-
+9	not	O	-
+10	good	O	-
+11	.	O	-
+
+# tweet_id 311
+# ...
+1	Crazy	O	-
+2	lines	O	-
+3	(	O	-
+4	@	O	-
+5	Whole	B-ORG	Whole Foods Market|Q1809448
+6	Foods	I-ORG	Whole Foods Market|Q1809448
+7	w/	O	-
+8	others	O	-
+9	)	O	-
+
+# tweet_id 312
+# ...
+1	Going	O	-
+2	to	O	-
+3	watch	O	-
+4	Corpse	B-MISC	Corpse Bride|Q164417
+5	Bride	I-MISC	Corpse Bride|Q164417
+6	now	O	-
+7	and	O	-
+8	then	O	-
+9	maybe	O	-
+10	do	O	-
+11	some	O	-
+12	writing	O	-
+13	.	O	-
+
+# tweet_id 313
+# ...
+1	Kim	B-PER	Kim Kardashian|Q186304
+2	Kardashian	I-PER	Kim Kardashian|Q186304
+3	:	O	-
+4	Why	O	-
+5	I	O	-
+6	Filed	O	-
+7	for	O	-
+8	Divorce	O	-
+
+# tweet_id 314
+# ...
+1	@BrianMaiden	O	-
+2	lol	O	-
+3	!	O	-
+4	glad	O	-
+5	you	O	-
+6	re	O	-
+7	having	O	-
+8	fun	O	-
+9	!	O	-
+10	I	O	-
+11	so	O	-
+12	badly	O	-
+13	want	O	-
+14	to	O	-
+15	go	O	-
+16	to	O	-
+17	Florida	B-LOC	Florida|Q812
+18	but	O	-
+19	worked	O	-
+20	better	O	-
+21	for	O	-
+22	ppl	O	-
+23	to	O	-
+24	come	O	-
+25	here	O	-
+26	.	O	-
+27	You	O	-
+28	back	O	-
+29	soon	O	-
+30	?	O	-
+
+# tweet_id 315
+# ...
+1	This	O	-
+2	Penn	B-LOC	Pennsylvania State University|Q739627
+3	State	I-LOC	Pennsylvania State University|Q739627
+4	tragedy	O	-
+5	is	O	-
+6	getting	O	-
+7	worse	O	-
+8	,	O	-
+9	I	O	-
+10	posted	O	-
+11	to	O	-
+12	Facebook	B-MISC	Facebook|Q355
+13	that	O	-
+14	they	O	-
+15	re	O	-
+16	investigating	O	-
+17	if	O	-
+18	Sandusky	B-PER	Jerry Sandusky|Q6184378
+19	"	O	-
+20	pimped	O	-
+21	"	O	-
+22	out	O	-
+23	kids	O	-
+24	to	O	-
+25	boosters	O	-
+
+# tweet_id 316
+# ...
+1	I	O	-
+2	really	O	-
+3	feel	O	-
+4	this	O	-
+5	Occupy	B-MISC	Occupy movement|Q939103
+6	Movement	I-MISC	Occupy movement|Q939103
+7	was	O	-
+8	a	O	-
+9	big	O	-
+10	flop	O	-
+11	I	O	-
+12	think	O	-
+13	their	O	-
+14	intention	O	-
+15	was	O	-
+16	good	O	-
+17	but	O	-
+18	nothing	O	-
+19	was	O	-
+20	accomplished	O	-
+21	but	O	-
+22	a	O	-
+23	bunch	O	-
+24	of	O	-
+25	ppl	O	-
+26	arrested	O	-
+
+# tweet_id 317
+# ...
+1	Watching	O	-
+2	the	O	-
+3	last	O	-
+4	episode	O	-
+5	of	O	-
+6	Entourage	B-MISC	Entourage|Q253205
+7	ever	O	-
+8	,	O	-
+9	but	O	-
+10	on	O	-
+11	TV	O	-
+12	live	O	-
+13	for	O	-
+14	the	O	-
+15	first	O	-
+16	time	O	-
+17	#	O	-
+18	ironic	O	-
+
+# tweet_id 318
+# ...
+1	Starting	O	-
+2	season	O	-
+3	,	O	-
+4	episode	O	-
+5	of	O	-
+6	Saturday	B-MISC	Saturday Night Live|Q6122059
+7	Night	I-MISC	Saturday Night Live|Q6122059
+8	Live	I-MISC	Saturday Night Live|Q6122059
+9	.	O	-
+10	Let	O	-
+11	the	O	-
+12	marathon	O	-
+13	begin	O	-
+14	!	O	-
+
+# tweet_id 319
+# ...
+1	HBO	B-ORG	HBO Go|Q16556580
+2	Go	I-ORG	HBO Go|Q16556580
+3	.	O	-
+4	My	O	-
+5	.	O	-
+6	Life	O	-
+7	.	O	-
+8	Is	O	-
+9	.	O	-
+10	Over	O	-
+11	.	O	-
+12	But	O	-
+13	.	O	-
+14	So	O	-
+15	.	O	-
+16	Awesome	O	-
+17	.	O	-
+18	So	O	-
+19	.	O	-
+20	I.	O	-
+21	Do	O	-
+22	nt	O	-
+23	.	O	-
+24	Care	O	-
+25	.	O	-
+
+# tweet_id 320
+# ...
+1	Pit	O	-
+2	stop	O	-
+3	to	O	-
+4	Sacramento	B-LOC	Sacramento, California|Q18013
+5	.	O	-
+6	(	O	-
+7	@	O	-
+8	Salt	B-LOC	Salt Lake City International Airport|Q526488
+9	Lake	I-LOC	Salt Lake City International Airport|Q526488
+10	City	I-LOC	Salt Lake City International Airport|Q526488
+11	International	I-LOC	Salt Lake City International Airport|Q526488
+12	Airport	I-LOC	Salt Lake City International Airport|Q526488
+13	(	O	-
+14	SLC	B-LOC	Salt Lake City International Airport|Q526488
+15	)	O	-
+16	w/	O	-
+17	others	O	-
+18	)	O	-
+
+# tweet_id 321
+# ...
+1	Got	O	-
+2	my	O	-
+3	Mickey	B-MISC	Mickey Mouse|Q11934
+4	mouse	I-MISC	Mickey Mouse|Q11934
+5	socks	O	-
+6	from	O	-
+7	Disney	B-ORG	Walt Disney World|Q206859
+8	World	I-ORG	Walt Disney World|Q206859
+9	on	O	-
+10	and	O	-
+11	its	O	-
+12	gon	O	-
+13	na	O	-
+14	be	O	-
+15	a	O	-
+16	good	O	-
+17	day	O	-
+
+# tweet_id 322
+# ...
+1	A	O	-
+2	reason	O	-
+3	why	O	-
+4	I	O	-
+5	m	O	-
+6	a	O	-
+7	Giants	B-ORG	San Francisco Giants|Q308966
+8	fan	O	-
+9	in	O	-
+10	Los	B-LOC	Los Angeles|Q65
+11	Angeles	I-LOC	Los Angeles|Q65
+12	:	O	-
+13	Twitter	B-MISC	Twitter|Q918
+14	trending	O	-
+15	topic	O	-
+16	in	O	-
+17	SF	B-LOC	San Francisco|Q62
+18	is	O	-
+19	#	O	-
+20	BeatLA	O	-
+21	;	O	-
+22	in	O	-
+23	LA	B-LOC	Los Angeles|Q65
+24	,	O	-
+25	a	O	-
+26	reality	O	-
+27	show	O	-
+28	premiere	O	-
+29	(	O	-
+30	NOTHING	O	-
+31	ABOUT	O	-
+32	SPORTS	O	-
+33	)	O	-
+
+# tweet_id 323
+# ...
+1	I	O	-
+2	hope	O	-
+3	my	O	-
+4	phone	O	-
+5	gets	O	-
+6	updated	O	-
+7	to	O	-
+8	LTE	B-MISC	LTE (telecommunication)|Q79703
+9	;	O	-
+10	what	O	-
+11	about	O	-
+12	LA	B-LOC	Los Angeles|Q65
+13	?	O	-
+14	!	O	-
+15	:-(	O	-
+
+# tweet_id 324
+# ...
+1	Let	O	-
+2	the	O	-
+3	season	O	-
+4	of	O	-
+5	work	O	-
+6	travel	O	-
+7	commence	O	-
+8	...	O	-
+9	(	O	-
+10	@	O	-
+11	Ronald	B-LOC	Ronald Reagan Washington National Airport station|Q171074
+12	Reagan	I-LOC	Ronald Reagan Washington National Airport station|Q171074
+13	Washington	I-LOC	Ronald Reagan Washington National Airport station|Q171074
+14	National	I-LOC	Ronald Reagan Washington National Airport station|Q171074
+15	Airport	I-LOC	Ronald Reagan Washington National Airport station|Q171074
+16	(	O	-
+17	DCA	B-ORG	Ronald Reagan Washington National Airport station|Q171074
+18	)	O	-
+19	w/	O	-
+20	others	O	-
+21	)	O	-
+
+# tweet_id 325
+# ...
+1	Fire	O	-
+2	at	O	-
+3	hollywood	B-LOC	Hollywood Hills|Q1138378
+4	hills	I-LOC	Hollywood Hills|Q1138378
+5	home	O	-
+6	owned	O	-
+7	by	O	-
+8	actor	O	-
+9	Jack	B-PER	Jack Nicholson|Q39792
+10	Nicholson	I-PER	Jack Nicholson|Q39792
+11	one	O	-
+12	hour	O	-
+13	ago	O	-
+14	...	O	-
+15	#	O	-
+16	ktla	O	-
+
+# tweet_id 326
+# ...
+1	Since	O	-
+2	moving	O	-
+3	to	O	-
+4	LA	B-LOC	Los Angeles|Q65
+5	i	O	-
+6	met	O	-
+7	so	O	-
+8	many	O	-
+9	Jewish	B-MISC	Judaism|Q9268
+10	ppl	O	-
+11	...	O	-
+
+# tweet_id 327
+# ...
+1	Golf	O	-
+2	course	O	-
+3	with	O	-
+4	a	O	-
+5	view	O	-
+6	!	O	-
+7	That	O	-
+8	s	O	-
+9	the	O	-
+10	Golden	B-LOC	Golden Gate|Q220032
+11	Gate	I-LOC	Golden Gate|Q220032
+12	.	O	-
+13	@	O	-
+14	Lincoln	B-LOC	-
+15	Park	I-LOC	-
+16	Golf	I-LOC	-
+17	Course	I-LOC	-
+
+# tweet_id 328
+# ...
+1	Checking	O	-
+2	out	O	-
+3	Yountville	B-LOC	Yountville, California|Q2781893
+4	for	O	-
+5	the	O	-
+6	first	O	-
+7	time	O	-
+8	.	O	-
+9	Kind	O	-
+10	of	O	-
+11	exciting	O	-
+12	.	O	-
+
+# tweet_id 329
+# ...
+1	inside	O	-
+2	the	O	-
+3	top	O	-
+4	of	O	-
+5	the	O	-
+6	Capitol	B-LOC	United States Capitol|Q54109
+7	(	O	-
+8	@	O	-
+9	United	B-LOC	United States Capitol|Q54109
+10	States	I-LOC	United States Capitol|Q54109
+11	Capitol	I-LOC	United States Capitol|Q54109
+12	Building	I-LOC	United States Capitol|Q54109
+13	w/	O	-
+14	others	O	-
+15	)	O	-
+
+# tweet_id 330
+# ...
+1	Woo	O	-
+2	states	O	-
+3	down	O	-
+4	to	O	-
+5	go	O	-
+6	(	O	-
+7	@	O	-
+8	Kentucky	B-LOC	Kentucky|Q1603
+9	)	O	-
+
+# tweet_id 331
+# ...
+1	Thanks	O	-
+2	for	O	-
+3	visiting	O	-
+4	Chapel	B-LOC	Chapel Hill, North Carolina|Q671812
+5	Hill	I-LOC	Chapel Hill, North Carolina|Q671812
+6	,	O	-
+7	now	O	-
+8	heres	O	-
+9	a	O	-
+10	free	O	-
+11	parking	O	-
+12	ticket	O	-
+
+# tweet_id 332
+# ...
+1	Pre	O	-
+2	-	O	-
+3	thanksgiving	O	-
+4	walk	O	-
+5	(	O	-
+6	@	O	-
+7	Arnold	B-LOC	Arnold Arboretum|Q568666
+8	Arboretum	I-LOC	Arnold Arboretum|Q568666
+9	)	O	-
+10	[	O	-
+11	pic	O	-
+12	]	O	-
+13	:	O	-
+
+# tweet_id 333
+# ...
+1	@Heart_BreAKAh	O	-
+2	r	O	-
+3	u	O	-
+4	goin	O	-
+5	to	O	-
+6	b	O	-
+7	n	O	-
+8	Charlotte	B-LOC	Charlotte, North Carolina|Q16565
+9	for	O	-
+10	sat	O	-
+11	night	O	-
+
+# tweet_id 334
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	Wild	B-LOC	-
+5	Bills	I-LOC	-
+6	for	O	-
+7	Bret	B-PER	Bret Michaels|Q365042
+8	Michaels	I-PER	Bret Michaels|Q365042
+9	(	O	-
+10	Market	B-LOC	-
+11	St	I-LOC	-
+12	,	O	-
+13	Duluth	B-LOC	Duluth|Q285751
+14	)	O	-
+15	w/	O	-
+16	others	O	-
+
+# tweet_id 335
+# ...
+1	#	O	-
+2	Lehigh	B-ORG	Lehigh Mountain Hawks football|Q6518816
+3	moving	O	-
+4	the	O	-
+5	ball	O	-
+6	well	O	-
+7	here	O	-
+8	in	O	-
+9	the	O	-
+10	fourth	O	-
+11	quarter	O	-
+12	,	O	-
+13	going	O	-
+14	-for-	O	-
+15	on	O	-
+16	third	O	-
+17	-	O	-
+18	down	O	-
+19	conversions	O	-
+20	this	O	-
+21	drive	O	-
+22	.	O	-
+23	First	O	-
+24	-	O	-
+25	and-	O	-
+26	on	O	-
+27	#	O	-
+28	Colgate	B-ORG	Colgate Raiders football|Q5144783
+29	.	O	-
+
+# tweet_id 336
+# ...
+1	Just	O	-
+2	landed	O	-
+3	and	O	-
+4	were	O	-
+5	half	O	-
+6	an	O	-
+7	hour	O	-
+8	early	O	-
+9	!	O	-
+10	(	O	-
+11	@	O	-
+12	Los	B-LOC	Los Angeles International Airport|Q8731
+13	Angeles	I-LOC	Los Angeles International Airport|Q8731
+14	International	I-LOC	Los Angeles International Airport|Q8731
+15	Airport	I-LOC	Los Angeles International Airport|Q8731
+16	(	O	-
+17	LAX	B-LOC	Los Angeles International Airport|Q8731
+18	)	O	-
+19	w/	O	-
+20	others	O	-
+21	)	O	-
+
+# tweet_id 337
+# ...
+1	Its	O	-
+2	getting	O	-
+3	a	O	-
+4	little	O	-
+5	hot	O	-
+6	out	O	-
+7	here	O	-
+8	.	O	-
+9	What	O	-
+10	is	O	-
+11	this	O	-
+12	Austin	B-LOC	Austin, Texas|Q16559
+13	?	O	-
+14	!	O	-
+
+# tweet_id 338
+# ...
+1	Rest	O	-
+2	in	O	-
+3	peace	O	-
+4	to	O	-
+5	Frank	B-PER	-
+6	and	O	-
+7	Pablo	B-PER	-
+8	who	O	-
+9	sacrificed	O	-
+10	their	O	-
+11	lives	O	-
+12	to	O	-
+13	save	O	-
+14	people	O	-
+15	in	O	-
+16	the	O	-
+17	north	O	-
+18	tower	O	-
+19	of	O	-
+20	the	O	-
+21	World	B-LOC	World Trade Center (1973–2001)|Q11235
+22	Trade	I-LOC	World Trade Center (1973–2001)|Q11235
+23	Center	I-LOC	World Trade Center (1973–2001)|Q11235
+24	.	O	-
+
+# tweet_id 339
+# ...
+1	Finally	O	-
+2	made	O	-
+3	it	O	-
+4	here	O	-
+5	.	O	-
+6	(	O	-
+7	@	O	-
+8	Museum	B-ORG	Museum of Osteology|Q6940980
+9	of	I-ORG	Museum of Osteology|Q6940980
+10	Osteology	I-ORG	Museum of Osteology|Q6940980
+11	)	O	-
+
+# tweet_id 340
+# ...
+1	So	O	-
+2	just	O	-
+3	finished	O	-
+4	an	O	-
+5	Apple	B-ORG	Apple Inc.|Q312
+6	store	O	-
+7	meeting	O	-
+8	and	O	-
+9	got	O	-
+10	ta	O	-
+11	say	O	-
+12	I	O	-
+13	LOVE	O	-
+14	my	O	-
+15	job	O	-
+16	and	O	-
+17	the	O	-
+18	peeps	O	-
+19	I	O	-
+20	work	O	-
+21	with	O	-
+22	!	O	-
+23	All	O	-
+24	+	O	-
+25	of	O	-
+26	us	O	-
+27	need	O	-
+28	to	O	-
+29	go	O	-
+30	get	O	-
+31	DRUNK	O	-
+32	sometime	O	-
+33	!	O	-
+
+# tweet_id 341
+# ...
+1	The	O	-
+2	Google	B-MISC	Google Play Music|Q3238917
+3	Music	I-MISC	Google Play Music|Q3238917
+4	app	O	-
+5	I	O	-
+6	tweeted	O	-
+7	about	O	-
+8	is	O	-
+9	already	O	-
+10	on	O	-
+11	the	O	-
+12	AppStore	B-MISC	App Store (iOS)|Q368215
+13	,	O	-
+14	just	O	-
+15	search	O	-
+16	for	O	-
+17	"	O	-
+18	gMusic	O	-
+19	"	O	-
+
+# tweet_id 342
+# ...
+1	Breakfast	O	-
+2	at	O	-
+3	The	O	-
+4	Olympic	B-MISC	Olympic Games|Q5389
+5	club	O	-
+6	and	O	-
+7	the	O	-
+8	Sun	O	-
+9	is	O	-
+10	shining:-	O	-
+11	)	O	-
+
+# tweet_id 343
+# ...
+1	the	O	-
+2	new	O	-
+3	new	O	-
+4	Carnifex	B-MISC	Carnifex (band)|Q1044027
+5	album	O	-
+6	is	O	-
+7	literally	O	-
+8	carrying	O	-
+9	me	O	-
+10	through	O	-
+11	the	O	-
+12	day	O	-
+13	.	O	-
+14	I	O	-
+15	would	O	-
+16	be	O	-
+17	nothing	O	-
+18	without	O	-
+19	this	O	-
+20	music	O	-
+
+# tweet_id 344
+# ...
+1	When	O	-
+2	you	O	-
+3	say	O	-
+4	Wisconsin	B-LOC	Wisconsin|Q1537
+5	you	O	-
+6	said	O	-
+7	embarrassing	O	-
+8	.	O	-
+
+# tweet_id 345
+# ...
+1	Hello	O	-
+2	Ottawa	B-LOC	Ottawa|Q1930
+3	(	O	-
+4	@	O	-
+5	Ottawa	B-LOC	Ottawa|Q1930
+6	MacDonald	B-ORG	McDonald's|Q38076
+7	-	O	-
+8	Cartier	B-ORG	Ottawa Macdonald-Cartier International Airport|Q1319833
+9	International	I-ORG	Ottawa Macdonald-Cartier International Airport|Q1319833
+10	Airport	I-ORG	Ottawa Macdonald-Cartier International Airport|Q1319833
+11	(	O	-
+12	YOW	B-ORG	Ottawa Macdonald-Cartier International Airport|Q1319833
+13	)	O	-
+14	w/	O	-
+15	others	O	-
+16	)	O	-
+
+# tweet_id 346
+# ...
+1	So	O	-
+2	long	O	-
+3	Prince	O	-
+4	,	O	-
+5	it	O	-
+6	was	O	-
+7	a	O	-
+8	great	O	-
+9	run	O	-
+10	in	O	-
+11	Milwaukee	B-LOC	Milwaukee|Q37836
+12	-	O	-
+13	see	O	-
+14	you	O	-
+15	in	O	-
+16	Anaheim	B-LOC	Anaheim, California|Q49247
+17	soon	O	-
+18	!	O	-
+
+# tweet_id 347
+# ...
+1	Looking	O	-
+2	at	O	-
+3	trucks	O	-
+4	in	O	-
+5	Alberta	B-LOC	Alberta|Q1951
+6	makes	O	-
+7	me	O	-
+8	feel	O	-
+9	like	O	-
+10	a	O	-
+11	man	O	-
+12	.	O	-
+13	:-p	O	-
+14	(	O	-
+15	@	O	-
+16	Sean	B-LOC	-
+17	Sargent	I-LOC	-
+18	Toyota	I-LOC	-
+19	)	O	-
+
+# tweet_id 348
+# ...
+1	Walking	O	-
+2	the	O	-
+3	river	O	-
+4	with	O	-
+5	the	O	-
+6	Blunts	O	-
+7	.	O	-
+8	(	O	-
+9	@	O	-
+10	Ohio	B-LOC	Ohio River|Q4915
+11	River	I-LOC	Ohio River|Q4915
+12	)	O	-
+
+# tweet_id 349
+# ...
+1	Gas	O	-
+2	is	O	-
+3	down	O	-
+4	to	O	-
+5	$	O	-
+6	.	O	-
+7	at	O	-
+8	the	O	-
+9	Sheetz	B-ORG	Sheetz|Q7492551
+10	in	O	-
+11	DuBois	B-LOC	DuBois, Pennsylvania|Q1134034
+12	with	O	-
+13	the	O	-
+14	MySheetz	B-MISC	-
+15	card	O	-
+16	!	O	-
+
+# tweet_id 350
+# ...
+1	Heading	O	-
+2	to	O	-
+3	Salinas	B-LOC	Salinas, California|Q488125
+4	to	O	-
+5	buy	O	-
+6	my	O	-
+7	costume	O	-
+8	.	O	-
+9	Ugh	O	-
+10	,	O	-
+11	this	O	-
+12	is	O	-
+13	going	O	-
+14	to	O	-
+15	be	O	-
+16	hell	O	-
+17	!	O	-
+
+# tweet_id 351
+# ...
+1	Sunday	O	-
+2	is	O	-
+3	my	O	-
+4	favorite	O	-
+5	day	O	-
+6	of	O	-
+7	the	O	-
+8	week	O	-
+9	;	O	-
+10	the	O	-
+11	one	O	-
+12	day	O	-
+13	where	O	-
+14	I	O	-
+15	expect	O	-
+16	EVERY	O	-
+17	catholic	B-MISC	Catholic Church|Q9592
+18	to	O	-
+19	apologize	O	-
+20	for	O	-
+21	the	O	-
+22	Jersey	B-LOC	Jersey Shore|Q3246511
+23	Shore	I-LOC	Jersey Shore|Q3246511
+24	.	O	-
+
+# tweet_id 352
+# ...
+1	@yoditw	O	-
+2	Steve	B-PER	Steve Harvey|Q2347009
+3	Harvey	I-PER	Steve Harvey|Q2347009
+4	is	O	-
+5	satan	O	-
+6	?	O	-
+7	Makes	O	-
+8	sense	O	-
+9	..	O	-
+10	fuck	O	-
+11	that	O	-
+12	nigga	O	-
+13	..	O	-
+
+# tweet_id 353
+# ...
+1	Wow	O	-
+2	.	O	-
+3	I	O	-
+4	get	O	-
+5	full	O	-
+6	bars	O	-
+7	in	O	-
+8	DC	B-LOC	Washington, D.C.|Q61
+9	airport	O	-
+10	subway	O	-
+11	train	O	-
+12	.	O	-
+13	Impressive	O	-
+14	.	O	-
+
+# tweet_id 354
+# ...
+1	Headed	O	-
+2	to	O	-
+3	Spartan	B-LOC	Spartan Stadium (East Lansing, Michigan)|Q2164621
+4	Stadium	I-LOC	Spartan Stadium (East Lansing, Michigan)|Q2164621
+5	!	O	-
+6	#	O	-
+7	gogreen	O	-
+
+# tweet_id 355
+# ...
+1	Watching	O	-
+2	my	O	-
+3	brother	O	-
+4	play	O	-
+5	a	O	-
+6	soccer	O	-
+7	game	O	-
+8	in	O	-
+9	the	O	-
+10	Texas	B-LOC	Texas|Q1439
+11	mens	O	-
+12	league	O	-
+13	!	O	-
+14	(	O	-
+15	@	O	-
+16	Onion	B-LOC	-
+17	Creek	I-LOC	-
+18	Soccer	I-LOC	-
+19	Complex	I-LOC	-
+20	)	O	-
+
+# tweet_id 356
+# ...
+1	Fuck	O	-
+2	Kenny	B-PER	Kenny Phillips|Q3195236
+3	Phillips	I-PER	Kenny Phillips|Q3195236
+4	to	O	-
+5	death	O	-
+6	.	O	-
+
+# tweet_id 357
+# ...
+1	It	O	-
+2	feels	O	-
+3	wrong	O	-
+4	having	O	-
+5	two	O	-
+6	big	O	-
+7	sandwiches	O	-
+8	in	O	-
+9	one	O	-
+10	day	O	-
+11	.	O	-
+12	Too	O	-
+13	much	O	-
+14	bread	O	-
+15	.	O	-
+16	I	O	-
+17	dunno	O	-
+18	.	O	-
+19	Sorry	O	-
+20	.	O	-
+21	I	O	-
+22	have	O	-
+23	nt	O	-
+24	felt	O	-
+25	very	O	-
+26	Twitter	B-MISC	Twitter|Q918
+27	recently	O	-
+
+# tweet_id 358
+# ...
+1	I	O	-
+2	can	O	-
+3	not	O	-
+4	listen	O	-
+5	to	O	-
+6	Super	B-MISC	Super Bass|Q719712
+7	Bass	I-MISC	Super Bass|Q719712
+8	by	O	-
+9	Nicki	B-PER	Nicki Minaj|Q162202
+10	Minaj	I-PER	Nicki Minaj|Q162202
+11	without	O	-
+12	hearing	O	-
+13	those	O	-
+14	adorable	O	-
+15	girls	O	-
+16	singing	O	-
+17	it	O	-
+18	.	O	-
+
+# tweet_id 359
+# ...
+1	Right	O	-
+2	now	O	-
+3	I	O	-
+4	m	O	-
+5	watching	O	-
+6	the	O	-
+7	Arkansas	B-LOC	Arkansas|Q1612
+8	game	O	-
+9	because	O	-
+10	my	O	-
+11	roommate	O	-
+12	watched	O	-
+13	the	O	-
+14	series	O	-
+15	with	O	-
+16	me	O	-
+17	.	O	-
+18	This	O	-
+19	is	O	-
+20	how	O	-
+21	roommates	O	-
+22	support	O	-
+23	each	O	-
+24	other	O	-
+25	.	O	-
+
+# tweet_id 360
+# ...
+1	Browsing	O	-
+2	for	O	-
+3	clothes	O	-
+4	at	O	-
+5	the	O	-
+6	J.	B-ORG	J.Crew|Q5370765
+7	Crew	I-ORG	J.Crew|Q5370765
+8	store	O	-
+9	next	O	-
+10	to	O	-
+11	Rock	O	-
+12	.	O	-
+13	Next	O	-
+14	up	O	-
+15	,	O	-
+16	the	O	-
+17	view	O	-
+18	from	O	-
+19	the	O	-
+20	Top	B-LOC	Top of the Rock|Q23899574
+21	of	I-LOC	Top of the Rock|Q23899574
+22	the	I-LOC	Top of the Rock|Q23899574
+23	Rock	I-LOC	Top of the Rock|Q23899574
+24	#	O	-
+25	nycturkeytrip	O	-
+
+# tweet_id 361
+# ...
+1	#	O	-
+2	rain	O	-
+3	is	O	-
+4	a	O	-
+5	good	O	-
+6	thing	O	-
+7	,	O	-
+8	off	O	-
+9	to	O	-
+10	magic	B-MISC	Magic Kingdom|Q1324340
+11	kingdom	I-MISC	Magic Kingdom|Q1324340
+12	with	O	-
+13	fi	O	-
+14	,	O	-
+15	maybe	O	-
+16	Hollywood	B-LOC	Hollywood|Q34006
+17	studios	O	-
+18	after	O	-
+19	:)	O	-
+
+# tweet_id 362
+# ...
+1	The	O	-
+2	Asians	B-MISC	Asian people|Q4058325
+3	that	O	-
+4	bank	O	-
+5	together	O	-
+6	,	O	-
+7	stay	O	-
+8	together	O	-
+9	.	O	-
+
+# tweet_id 363
+# ...
+1	Alpha	B-ORG	Alpha Kappa Alpha|Q3308284
+2	Kappa	I-ORG	Alpha Kappa Alpha|Q3308284
+3	Alpha	I-ORG	Alpha Kappa Alpha|Q3308284
+4	Sorority	I-ORG	Alpha Kappa Alpha|Q3308284
+5	hosts	O	-
+6	Thanksgiving	B-MISC	Thanksgiving|Q13959
+7	dinner	O	-
+8	:	O	-
+9	The	O	-
+10	lunch	O	-
+11	is	O	-
+12	always	O	-
+13	held	O	-
+14	the	O	-
+15	Sunday	O	Sunday|Q132
+16	before	O	-
+17	Thanksgiving	O	Thanksgiving|Q13959
+18	an	O	-
+19	...	O	-
+
+# tweet_id 364
+# ...
+1	I	O	-
+2	will	O	-
+3	be	O	-
+4	dropping	O	-
+5	some	O	-
+6	bills	O	-
+7	at	O	-
+8	the	O	-
+9	new	O	-
+10	Polo	B-ORG	Ralph Lauren Corporation|Q1641437
+11	outlet	O	-
+12	in	O	-
+13	Kansas	B-LOC	Kansas City, Missouri|Q41819
+14	City	I-LOC	Kansas City, Missouri|Q41819
+15	.	O	-
+16	#	O	-
+17	guaranteed	O	-
+
+# tweet_id 365
+# ...
+1	@scribblepotemus	O	-
+2	love	O	-
+3	that	O	-
+4	you	O	-
+5	are	O	-
+6	in	O	-
+7	my	O	-
+8	Kansas	B-LOC	Kansas|Q1558
+9	tonight	O	-
+10	.	O	-
+11	love	O	-
+12	more	O	-
+13	that	O	-
+14	I	O	-
+15	will	O	-
+16	see	O	-
+17	you	O	-
+18	tomorrow	O	-
+19	.	O	-
+20	thanks	O	-
+21	for	O	-
+22	all	O	-
+23	you	O	-
+24	do	O	-
+25	...	O	-
+
+# tweet_id 366
+# ...
+1	Costco	B-ORG	Costco|Q715583
+2	is	O	-
+3	not	O	-
+4	a	O	-
+5	cheap	O	-
+6	place	O	-
+7	.	O	-
+8	Ugh	O	-
+9	!	O	-
+
+# tweet_id 367
+# ...
+1	Which	O	-
+2	is	O	-
+3	going	O	-
+4	to	O	-
+5	result	O	-
+6	in	O	-
+7	me	O	-
+8	not	O	-
+9	getting	O	-
+10	my	O	-
+11	goody	O	-
+12	bag	O	-
+13	of	O	-
+14	drugs	O	-
+15	from	O	-
+16	San	B-LOC	San Francisco|Q62
+17	Francisco	I-LOC	San Francisco|Q62
+18	.	O	-
+
+# tweet_id 368
+# ...
+1	Go	O	-
+2	Sounders	O	-
+3	!	O	-
+4	You	O	-
+5	can	O	-
+6	do	O	-
+7	it	O	-
+8	!	O	-
+9	(	O	-
+10	@	O	-
+11	CenturyLink	B-LOC	CenturyLink Field|Q612736
+12	Field	I-LOC	CenturyLink Field|Q612736
+13	for	O	-
+14	Real	B-ORG	Real Salt Lake|Q391353
+15	Salt	I-ORG	Real Salt Lake|Q391353
+16	Lake	I-ORG	Real Salt Lake|Q391353
+17	vs.	O	-
+18	Seattle	B-ORG	Seattle Sounders FC|Q632511
+19	Sounders	I-ORG	Seattle Sounders FC|Q632511
+20	FC	I-ORG	Seattle Sounders FC|Q632511
+21	w/	O	-
+22	others	O	-
+23	)	O	-
+
+# tweet_id 369
+# ...
+1	@tweetgrubes	O	-
+2	my	O	-
+3	hotel	O	-
+4	room	O	-
+5	and	O	-
+6	Disney	B-ORG	Walt Disney World|Q206859
+7	World	I-ORG	Walt Disney World|Q206859
+8	only	O	-
+9	gets	O	-
+10	CBS	B-ORG	CBS|Q43380
+11	,	O	-
+12	not	O	-
+13	FOX	B-ORG	Fox Broadcasting Company|Q166419
+14	.	O	-
+15	Stuck	O	-
+16	watching	O	-
+17	one	O	-
+18	game	O	-
+19	.	O	-
+20	#	O	-
+21	firstworldpains	O	-
+
+# tweet_id 370
+# ...
+1	Dinner	O	-
+2	with	O	-
+3	the	O	-
+4	fam	O	-
+5	!	O	-
+6	!	O	-
+7	(	O	-
+8	@	O	-
+9	Olive	B-LOC	Olive Garden|Q3045312
+10	Garden	I-LOC	Olive Garden|Q3045312
+11	)	O	-
+
+# tweet_id 371
+# ...
+1	Babe	O	-
+2	and	O	-
+3	I	O	-
+4	always	O	-
+5	take	O	-
+6	a	O	-
+7	nap	O	-
+8	...	O	-
+9	That	O	-
+10	s	O	-
+11	why	O	-
+12	we	O	-
+13	sleep	O	-
+14	sooo	O	-
+15	late	O	-
+16	everyday	O	-
+17	.	O	-
+18	Lol	O	-
+
+# tweet_id 372
+# ...
+1	There	O	-
+2	is	O	-
+3	nothing	O	-
+4	like	O	-
+5	the	O	-
+6	sound	O	-
+7	of	O	-
+8	waves	O	-
+9	crashing	O	-
+10	to	O	-
+11	relax	O	-
+12	your	O	-
+13	mind	O	-
+14	and	O	-
+15	let	O	-
+16	your	O	-
+17	body	O	-
+18	rest	O	-
+19	...	O	-
+20	I	O	-
+21	love	O	-
+22	Hawaii	B-LOC	Hawaii|Q782
+23	!	O	-
+
+# tweet_id 373
+# ...
+1	@ReverendCBaker	O	-
+2	I	O	-
+3	ve	O	-
+4	been	O	-
+5	debating	O	-
+6	on	O	-
+7	whether	O	-
+8	or	O	-
+9	not	O	-
+10	to	O	-
+11	get	O	-
+12	an	O	-
+13	iPad	B-MISC	IPad|Q2796
+14	and	O	-
+15	that	O	-
+16	may	O	-
+17	just	O	-
+18	put	O	-
+19	me	O	-
+20	over	O	-
+21	the	O	-
+22	edge	O	-
+23	.	O	-
+
+# tweet_id 374
+# ...
+1	Last	O	-
+2	day	O	-
+3	in	O	-
+4	Jamaica	B-LOC	Jamaica|Q766
+5	..	O	-
+6	not	O	-
+7	sure	O	-
+8	i	O	-
+9	m	O	-
+10	ready	O	-
+11	for	O	-
+12	a	O	-
+13	shot	O	-
+14	of	O	-
+15	cold	O	-
+16	NY	B-LOC	New York City|Q60
+17	air	O	-
+18	tomorrow	O	-
+19	!	O	-
+20	!	O	-
+
+# tweet_id 375
+# ...
+1	I	O	-
+2	wish	O	-
+3	everyone	O	-
+4	was	O	-
+5	as	O	-
+6	cool	O	-
+7	as	O	-
+8	Giovanni	B-PER	Giovanni Ribisi|Q224081
+9	Ribisi	I-PER	Giovanni Ribisi|Q224081
+10	.	O	-
+
+# tweet_id 376
+# ...
+1	@KevinHartreal	O	-
+2	finally	O	-
+3	...	O	-
+4	Atlanta	B-LOC	Atlanta|Q23556
+5	can	O	-
+6	finally	O	-
+7	get	O	-
+8	some	O	-
+9	love	O	-
+
+# tweet_id 377
+# ...
+1	@LushLuv	O	-
+2	what	O	-
+3	s	O	-
+4	your	O	-
+5	password	O	-
+6	for	O	-
+7	Twitter	B-MISC	Twitter|Q918
+8	?	O	-
+9	Lol	O	-
+10	gurl	O	-
+11	answer	O	-
+12	that	O	-
+13	secret	O	-
+14	question	O	-
+15	.	O	-
+16	Does	O	-
+17	Itunes	B-MISC	ITunes|Q9589
+18	even	O	-
+19	do	O	-
+20	that	O	-
+21	?	O	-
+
+# tweet_id 378
+# ...
+1	So	O	-
+2	my	O	-
+3	dad	O	-
+4	feels	O	-
+5	the	O	-
+6	need	O	-
+7	to	O	-
+8	interview	O	-
+9	me	O	-
+10	because	O	-
+11	I	O	-
+12	told	O	-
+13	him	O	-
+14	I	O	-
+15	have	O	-
+16	one	O	-
+17	with	O	-
+18	Radio	B-ORG	RadioShack|Q1195490
+19	Shack	I-ORG	RadioShack|Q1195490
+20	.	O	-
+21	Stop	O	-
+22	,	O	-
+23	dad	O	-
+24	.	O	-
+25	Please	O	-
+26	,	O	-
+27	just	O	-
+28	fucking	O	-
+29	stop	O	-
+30	.	O	-
+
+# tweet_id 379
+# ...
+1	Back	O	-
+2	to	O	-
+3	dublin	O	-
+4	(	O	-
+5	@	O	-
+6	San	B-LOC	San Francisco International Airport|Q8688
+7	Francisco	I-LOC	San Francisco International Airport|Q8688
+8	International	I-LOC	San Francisco International Airport|Q8688
+9	Airport	I-LOC	San Francisco International Airport|Q8688
+10	(	O	-
+11	SFO	B-LOC	San Francisco International Airport|Q8688
+12	)	O	-
+13	w/	O	-
+14	others	O	-
+15	)	O	-
+
+# tweet_id 380
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	Madison	B-LOC	Madison Square Garden|Q186125
+5	Square	I-LOC	Madison Square Garden|Q186125
+6	Garden	I-LOC	Madison Square Garden|Q186125
+7	for	O	-
+8	Duran	B-MISC	Duran Duran|Q58381
+9	Duran	I-MISC	Duran Duran|Q58381
+10	(	O	-
+11	Penn	O	-
+12	Plz	O	-
+13	.	O	-
+14	,	O	-
+15	btwn	O	-
+16	th	O	-
+17	&	O	-
+18	th	O	-
+19	,	O	-
+20	New	B-LOC	New York City|Q60
+21	York	I-LOC	New York City|Q60
+22	)	O	-
+23	w/	O	-
+24	others	O	-
+
+# tweet_id 381
+# ...
+1	Tomorrow	O	-
+2	I	O	-
+3	m	O	-
+4	going	O	-
+5	to	O	-
+6	wish	O	-
+7	that	O	-
+8	Harry	B-MISC	Harry Potter (character)|Q3244512
+9	Potter	I-MISC	Harry Potter (character)|Q3244512
+10	will	O	-
+11	never	O	-
+12	end	O	-
+13	#	O	-
+14	harrypotterfilmfinale	O	-
+
+# tweet_id 382
+# ...
+1	Chocolate	O	-
+2	hand	O	-
+3	-	O	-
+4	delivered	O	-
+5	from	O	-
+6	Zurich	B-LOC	Zürich|Q72
+7	#	O	-
+8	sodelicious	O	-
+
+# tweet_id 383
+# ...
+1	#	O	-
+2	BAMA	O	-
+3	call	O	-
+4	!	O	-
+5	!	O	-
+6	!	O	-
+7	Seeeeee	O	-
+8	!	O	-
+9	If	O	-
+10	this	O	-
+11	little	O	-
+12	blonde	O	-
+13	nurse	O	-
+14	from	O	-
+15	Michigan	B-LOC	Michigan|Q1166
+16	can	O	-
+17	see	O	-
+18	a	O	-
+19	fumble	O	-
+20	,	O	-
+21	so	O	-
+22	should	O	-
+23	the	O	-
+24	refs	O	-
+25	!	O	-
+26	There	O	-
+27	s	O	-
+28	my	O	-
+29	#	O	-
+30	turnover	O	-
+31	,	O	-
+32	thanks	O	-
+33	!	O	-
+
+# tweet_id 384
+# ...
+1	i	O	-
+2	hate	O	-
+3	it	O	-
+4	when	O	-
+5	people	O	-
+6	wear	O	-
+7	Hollister	B-ORG	Hollister Co.|Q1257477
+8	or	O	-
+9	Abercrombie	B-ORG	Abercrombie & Fitch|Q319344
+10	and	O	-
+11	think	O	-
+12	they	O	-
+13	look	O	-
+14	cute	O	-
+15	...	O	-
+16	where	O	-
+17	i	O	-
+18	m	O	-
+19	from	O	-
+20	,	O	-
+21	it	O	-
+22	means	O	-
+23	you	O	-
+24	re	O	-
+
+# tweet_id 385
+# ...
+1	Watching	O	-
+2	the	O	-
+3	Exorcist	B-MISC	The Exorcist|Q274167
+4	...	O	-
+5	Then	O	-
+6	American	B-MISC	American Horror Story|Q53922
+7	Horror	I-MISC	American Horror Story|Q53922
+8	Story	I-MISC	American Horror Story|Q53922
+9	.	O	-
+10	Fright	O	-
+11	night	O	-
+12	.	O	-
+
+# tweet_id 386
+# ...
+1	let	O	-
+2	me	O	-
+3	+	O	-
+4	@stLadySHAE	O	-
+5	be	O	-
+6	faded	O	-
+7	in	O	-
+8	DC	B-LOC	Washington, D.C.|Q61
+9	though	O	-
+10	,	O	-
+11	quit	O	-
+12	trippin	O	-
+13	#	O	-
+14	XXV	O	-
+
+# tweet_id 387
+# ...
+1	I	O	-
+2	want	O	-
+3	to	O	-
+4	watch	O	-
+5	#	O	-
+6	Twilight	B-MISC	Twilight (2008 film)|Q160071
+7	so	O	-
+8	bad	O	-
+9	!	O	-
+10	-_-	O	-
+
+# tweet_id 388
+# ...
+1	My	O	-
+2	Mickey	B-MISC	Mickey Mouse|Q11934
+3	mouse	I-MISC	Mickey Mouse|Q11934
+4	wallpaper	O	-
+5	on	O	-
+6	my	O	-
+7	phone	O	-
+
+# tweet_id 389
+# ...
+1	I	O	-
+2	swear	O	-
+3	the	O	-
+4	Devil	B-MISC	Devil|Q6674
+5	lurks	O	-
+6	the	O	-
+7	streets	O	-
+8	of	O	-
+9	Winston	B-LOC	Winston, Oregon|Q3458875
+10	.	O	-
+
+# tweet_id 390
+# ...
+1	Going	O	-
+2	hunting	O	-
+3	!	O	-
+4	(	O	-
+5	@	O	-
+6	Jeffersonville	B-LOC	Jeffersonville|Q2038010
+7	,	O	-
+8	GA	B-LOC	Georgia (U.S. state)|Q1428
+9	)	O	-
+
+# tweet_id 391
+# ...
+1	Off	O	-
+2	to	O	-
+3	Seattle	B-LOC	Seattle|Q5083
+4	,	O	-
+5	the	O	-
+6	city	O	-
+7	,	O	-
+8	to	O	-
+9	do	O	-
+10	touristy	O	-
+11	stuff	O	-
+12	with	O	-
+13	Eric	B-PER	Eric|Q12788459
+14	and	O	-
+15	@SarahCCarter	O	-
+16	.	O	-
+17	#	O	-
+18	asianpeacesignphototime	O	-
+
+# tweet_id 392
+# ...
+1	Shit	O	-
+2	funni	O	-
+3	in	O	-
+4	Miami	B-LOC	Miami|Q8652
+5	Hella	O	-
+6	man	O	-
+7	I	O	-
+8	swear	O	-
+9	...	O	-
+10	ha	O	-
+11	ok	O	-
+12	den	O	-
+
+# tweet_id 393
+# ...
+1	My	O	-
+2	absolute	O	-
+3	favorite	O	-
+4	Mexican	B-MISC	Mexicans|Q1209676
+5	in	O	-
+6	Austin	B-LOC	Austin|Q16559
+7	!	O	-
+8	(	O	-
+9	@	O	-
+10	Fonda	B-LOC	-
+11	San	I-LOC	-
+12	Miguel	I-LOC	-
+13	w/	O	-
+14	others	O	-
+15	)	O	-
+16	[	O	-
+17	pic	O	-
+18	]	O	-
+19	:	O	-
+
+# tweet_id 394
+# ...
+1	In	O	-
+2	Iran	B-LOC	Iran|Q794
+3	ppl	O	-
+4	eat	O	-
+5	more	O	-
+6	rice	O	-
+7	than	O	-
+8	bread	O	-
+9	unlike	O	-
+10	Greek	B-MISC	Greek language|Q9129
+11	ppl	O	-
+
+# tweet_id 395
+# ...
+1	Next	O	-
+2	up	O	-
+3	-	O	-
+4	study	O	-
+5	of	O	-
+6	MDs	B-MISC	Doctor of Medicine|Q913404
+7	reactions	O	-
+8	to	O	-
+9	emotional	O	-
+10	cues	O	-
+11	/	O	-
+12	concerns	O	-
+13	of	O	-
+14	minority	O	-
+15	patients	O	-
+16	in	O	-
+17	Ghent	B-LOC	Ghent|Q1296
+18	,	O	-
+19	Belgium	B-LOC	Belgium|Q31
+20	#	O	-
+21	ICCH	O	-
+
+# tweet_id 396
+# ...
+1	CERN	B-ORG	CERN|Q42944
+2	scientists	O	-
+3	break	O	-
+4	the	O	-
+5	speed	O	-
+6	of	O	-
+7	light	O	-
+8	#	O	-
+9	TimeTravel	O	-
+10	vacation	O	-
+11	here	O	-
+12	I	O	-
+13	come	O	-
+14	!	O	-
+15	#	O	-
+16	superluminal	O	-
+
+# tweet_id 397
+# ...
+1	@wAOliver	O	-
+2	Alan	B-PER	Alan|Q294833
+3	,	O	-
+4	people	O	-
+5	leave	O	-
+6	Cincinnati	B-LOC	Cincinnati|Q43196
+7	everyday	O	-
+8	,	O	-
+9	but	O	-
+10	none	O	-
+11	leave	O	-
+12	the	O	-
+13	impact	O	-
+14	you	O	-
+15	made	O	-
+16	on	O	-
+17	the	O	-
+18	world	O	-
+19	around	O	-
+20	you	O	-
+21	.	O	-
+22	Alabama	B-LOC	Alabama|Q173
+23	is	O	-
+24	lucky	O	-
+25	to	O	-
+26	have	O	-
+27	you	O	-
+28	.	O	-
+
+# tweet_id 398
+# ...
+1	Tim	B-PER	Tim Cook|Q265852
+2	Cook	I-PER	Tim Cook|Q265852
+3	REALLY	O	-
+4	REALLY	O	-
+5	loves	O	-
+6	graphs	O	-
+7	and	O	-
+8	charts	O	-
+9	.	O	-
+10	He	O	-
+11	is	O	-
+12	that	O	-
+13	kind	O	-
+14	of	O	-
+15	CEO	O	chief executive officer|Q484876
+16	I	O	-
+17	bet	O	-
+18	.	O	-
+19	CEO	O	chief executive officer|Q484876
+20	who	O	-
+21	thinks	O	-
+22	like	O	-
+23	a	O	-
+24	COO	O	chief operating officer|Q623279
+25	.	O	-
+26	:-)	O	-
+27	#	O	-
+28	apple	B-ORG	Apple Inc.|Q312
+
+# tweet_id 399
+# ...
+1	Surprised	O	-
+2	at	O	-
+3	how	O	-
+4	much	O	-
+5	Steve	B-PER	Steve Jobs|Q19837
+6	Jobs	I-PER	Steve Jobs|Q19837
+7	cries	O	-
+8	in	O	-
+9	his	O	-
+10	biography	O	-
+11	.	O	-
+
+# tweet_id 400
+# ...
+1	New	O	-
+2	Discovery	B-ORG	Discovery Channel|Q43404
+3	Channel	I-ORG	Discovery Channel|Q43404
+4	show	O	-
+5	:	O	-
+6	Extreme	O	-
+7	Tornado	O	-
+8	Home	O	-
+9	Makeovers	O	-
+10	!	O	-
+11	First	O	-
+12	the	O	-
+13	good	O	-
+14	news	O	-
+15	:	O	-
+16	the	O	-
+17	renovation	O	-
+18	did	O	-
+19	nt	O	-
+20	cost	O	-
+21	anything	O	-
+22	.	O	-
+23	The	O	-
+24	bad	O	-
+25	news	O	-
+26	...	O	-
+
+# tweet_id 401
+# ...
+1	just	O	-
+2	got	O	-
+3	an	O	-
+4	LG	B-ORG	LG Electronics|Q162345
+5	inch	O	-
+6	tv	O	-
+7	.	O	-
+8	No	O	-
+9	more	O	-
+10	gaming	O	-
+11	on	O	-
+12	a	O	-
+13	shit	O	-
+14	screen	O	-
+15	:)	O	-
+16	@Yakerrrrr	O	-
+17	LG	B-ORG	LG Electronics|Q162345
+18	=	O	-
+19	Lifes	O	-
+20	good	O	-
+21	haha	O	-
+
+# tweet_id 402
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	Buffalo	B-ORG	Buffalo Wild Wings|Q509255
+5	Wild	I-ORG	Buffalo Wild Wings|Q509255
+6	Wings	I-ORG	Buffalo Wild Wings|Q509255
+7	Grill	I-ORG	Buffalo Wild Wings|Q509255
+8	&	I-ORG	Buffalo Wild Wings|Q509255
+9	Bar	I-ORG	Buffalo Wild Wings|Q509255
+10	(	O	-
+11	US	B-LOC	-
+12	Highway	I-LOC	-
+13	N	I-LOC	-
+14	,	O	-
+15	San	B-LOC	San Antonio|Q975
+16	Antonio	I-LOC	San Antonio|Q975
+17	)	O	-
+
+# tweet_id 403
+# ...
+1	Drinking	O	-
+2	a	O	-
+3	Newcastle	B-ORG	Newcastle Brown Ale|Q887730
+4	Brown	I-ORG	Newcastle Brown Ale|Q887730
+5	Ale	I-ORG	Newcastle Brown Ale|Q887730
+6	by	O	-
+7	Scottish	B-ORG	Heineken UK Limited|Q1777807
+8	&	I-ORG	Heineken UK Limited|Q1777807
+9	Newcastle	I-ORG	Heineken UK Limited|Q1777807
+10	UK	I-ORG	Heineken UK Limited|Q1777807
+11	Ltd.	I-ORG	Heineken UK Limited|Q1777807
+12	@	O	-
+13	Dueling	B-LOC	-
+14	Mini	I-LOC	-
+15	-	I-LOC	-
+16	keg	I-LOC	-
+17	Tailgate	I-LOC	-
+18	—	O	-
+
+# tweet_id 404
+# ...
+1	-	O	-
+2	!	O	-
+3	!	O	-
+4	!	O	-
+5	!	O	-
+6	I	O	-
+7	love	O	-
+8	the	O	-
+9	Green	B-ORG	Green Bay Packers|Q213837
+10	Bay	I-ORG	Green Bay Packers|Q213837
+11	Packers	I-ORG	Green Bay Packers|Q213837
+12	!	O	-
+13	!	O	-
+14	#	O	-
+15	superbowl	B-MISC	Super Bowl|Q32096
+16	here	O	-
+17	we	O	-
+18	come	O	-
+19	!	O	-
+20	!	O	-
+
+# tweet_id 405
+# ...
+1	An	O	-
+2	Education	O	-
+3	.	O	-
+4	Surprisingly	O	-
+5	good	O	-
+6	story	O	-
+7	,	O	-
+8	although	O	-
+9	it	O	-
+10	sagged	O	-
+11	in	O	-
+12	the	O	-
+13	middle	O	-
+14	.	O	-
+15	Great	O	-
+16	cast	O	-
+17	—	O	-
+18	wish	O	-
+19	Alfred	B-PER	Alfred Molina|Q296028
+20	Molina	I-PER	Alfred Molina|Q296028
+21	were	O	-
+22	in	O	-
+23	more	O	-
+24	visible	O	-
+25	roles	O	-
+26	.	O	-
+
+# tweet_id 406
+# ...
+1	Special	O	-
+2	thanks	O	-
+3	to	O	-
+4	Bob	B-PER	Bob Costas|Q2458861
+5	Costas	I-PER	Bob Costas|Q2458861
+6	for	O	-
+7	not	O	-
+8	doing	O	-
+9	the	O	-
+10	cranky	O	-
+11	old	O	-
+12	white	O	-
+13	guy	O	-
+14	routine	O	-
+15	again	O	-
+16	in	O	-
+17	the	O	-
+18	postgame	O	-
+19	show	O	-
+20	.	O	-
+
+# tweet_id 407
+# ...
+1	@urgirlkellz	U-PER	-
+2	let	O	-
+3	him	O	-
+4	be	O	-
+5	your	O	-
+6	motivation	O	-
+7	in	O	-
+8	my	O	-
+9	Kelly	B-PER	Kelly Rowland|Q184249
+10	Rowland	I-PER	Kelly Rowland|Q184249
+11	voice	O	-
+
+# tweet_id 408
+# ...
+1	I	O	-
+2	saw	O	-
+3	a	O	-
+4	lady	O	-
+5	today	O	-
+6	with	O	-
+7	a	O	-
+8	Michael	B-MISC	-
+9	Vick	I-MISC	-
+10	jersey	I-MISC	-
+11	on	O	-
+12	as	O	-
+13	a	O	-
+14	costume	O	-
+15	...	O	-
+16	#	O	-
+17	shitaintevenfunny	O	-
+
+# tweet_id 409
+# ...
+1	So	O	-
+2	excited	O	-
+3	for	O	-
+4	book	O	-
+5	(	O	-
+6	@	O	-
+7	Lawrenceville	B-LOC	 Lawrenceville|Q970174
+8	Branch	O	-
+9	-	O	-
+10	Gwinnett	B-ORG	Gwinnett County Public Library|Q5623669
+11	County	I-ORG	Gwinnett County Public Library|Q5623669
+12	Public	I-ORG	Gwinnett County Public Library|Q5623669
+13	Library	I-ORG	Gwinnett County Public Library|Q5623669
+14	)	O	-
+15	[	O	-
+16	pic	O	-
+17	]	O	-
+18	:	O	-
+
+# tweet_id 410
+# ...
+1	Was	O	-
+2	Michelle	B-PER	Michelle Obama|Q13133
+3	Obama	I-PER	Michelle Obama|Q13133
+4	’s	O	-
+5	Target	B-ORG	Target Corporation|Q1046951
+6	Photo	O	-
+7	Staged	O	-
+8	?	O	-
+9	(	O	-
+10	with	O	-
+11	optional	O	-
+12	PIC	O	-
+13	of	O	-
+14	st	O	-
+15	Lady	O	-
+16	included	O	-
+17	)	O	-
+18	@cspanwj	O	-
+
+# tweet_id 411
+# ...
+1	exotic	O	-
+2	animals	O	-
+3	are	O	-
+4	roaming	O	-
+5	free	O	-
+6	in	O	-
+7	rural	O	-
+8	Ohio	B-LOC	Ohio|Q1397
+9	.	O	-
+10	Along	O	-
+11	with	O	-
+12	tens	O	-
+13	of	O	-
+14	thousands	O	-
+15	of	O	-
+16	rural	O	-
+17	Ohioans	B-MISC	-
+18	.	O	-
+
+# tweet_id 412
+# ...
+1	headed	O	-
+2	to	O	-
+3	West	B-LOC	West Village|Q1191048
+4	Village	I-LOC	West Village|Q1191048
+5	for	O	-
+6	brunch	O	-
+
+# tweet_id 413
+# ...
+1	Google+	B-MISC	Google+|Q356
+2	really	O	-
+3	never	O	-
+4	did	O	-
+5	catch	O	-
+6	on	O	-
+7	did	O	-
+8	it	O	-
+9	?	O	-
+
+# tweet_id 414
+# ...
+1	Places	O	-
+2	to	O	-
+3	Go	O	-
+4	When	O	-
+5	Living	O	-
+6	in	O	-
+7	Malden	B-LOC	Malden, Massachusetts|Q54149
+
+# tweet_id 415
+# ...
+1	They	O	-
+2	re	O	-
+3	taking	O	-
+4	down	O	-
+5	the	O	-
+6	JoePa	B-PER	Joe Paterno|Q546591
+7	statue	O	-
+8	outside	O	-
+9	Beaver	B-LOC	Beaver Stadium|Q692816
+10	Stadium	I-LOC	Beaver Stadium|Q692816
+11	.	O	-
+
+# tweet_id 416
+# ...
+1	Forrest	B-PER	Forrest Gump (character)|Q3077690
+2	Gump	I-PER	Forrest Gump (character)|Q3077690
+3	should	O	-
+4	get	O	-
+5	invited	O	-
+6	to	O	-
+7	the	O	-
+8	ping	O	-
+9	pong	O	-
+10	tournament	O	-
+11	on	O	-
+12	balls	O	-
+13	of	O	-
+14	fury	O	-
+15	!	O	-
+
+# tweet_id 417
+# ...
+1	@MzNina	O	-
+2	:	O	-
+3	#	O	-
+4	nowplaying	O	-
+5	Jamie	B-PER	Jamie Foxx|Q171905
+6	Foxx	I-PER	Jamie Foxx|Q171905
+7	-	O	-
+8	Slow	O	-
+9	/	O	-
+10	best	O	-
+11	song	O	-
+12	ever	O	-
+13	.	O	-
+14	Lol	O	-
+15	.	O	-
+
+# tweet_id 418
+# ...
+1	Intramural	O	-
+2	football	O	-
+3	at	O	-
+4	University	B-LOC	University of South Alabama|Q13572981
+5	of	I-LOC	University of South Alabama|Q13572981
+6	South	I-LOC	University of South Alabama|Q13572981
+7	Alabama	I-LOC	University of South Alabama|Q13572981
+8	.	O	-
+
+# tweet_id 419
+# ...
+1	Just	O	-
+2	got	O	-
+3	an	O	-
+4	acceptance	O	-
+5	letter	O	-
+6	for	O	-
+7	a	O	-
+8	Summer	O	-
+9	internship	O	-
+10	at	O	-
+11	Cisco	B-ORG	Cisco Systems|Q173395
+12	systems	O	-
+13	.	O	-
+14	Really	O	-
+15	looking	O	-
+16	forward	O	-
+17	to	O	-
+18	my	O	-
+19	summer	O	-
+20	this	O	-
+21	year	O	-
+22	,	O	-
+23	now	O	-
+24	.	O	-
+
+# tweet_id 420
+# ...
+1	Fox	B-ORG	Fox News|Q186068
+2	News	I-ORG	Fox News|Q186068
+3	reported	O	-
+4	South	O	-
+5	GA	B-LOC	Georgia|Q1428
+6	resident	O	-
+7	goes	O	-
+8	to	O	-
+9	the	O	-
+10	hospital	O	-
+11	with	O	-
+12	stroke	O	-
+13	-	O	-
+14	like	O	-
+15	symptoms	O	-
+16	leaves	O	-
+17	hospital	O	-
+18	with	O	-
+19	a	O	-
+20	British	B-MISC	British people|Q842438
+21	accent	O	-
+22	.	O	-
+23	Baffles	O	-
+24	doctor	O	-
+
+# tweet_id 421
+# ...
+1	You	O	-
+2	can	O	-
+3	tell	O	-
+4	the	O	-
+5	mood	O	-
+6	I	O	-
+7	am	O	-
+8	in	O	-
+9	hanging	B-MISC	Christmas decoration|Q641364
+10	Christmas	I-MISC	Christmas decoration|Q641364
+11	decorations	O	-
+12	listening	O	-
+13	to	O	-
+14	Metallica	B-MISC	Metallica|Q15920
+
+# tweet_id 422
+# ...
+1	Polka	B-MISC	polka|Q153071
+2	music	O	-
+3	day	O	-
+4	...	O	-
+5	(	O	-
+6	@	O	-
+7	Southside	B-LOC	-
+8	-	O	-
+9	George	B-ORG	George Mason University|Q1411222
+10	Mason	I-ORG	George Mason University|Q1411222
+11	University	I-ORG	George Mason University|Q1411222
+12	)	O	-
+
+# tweet_id 423
+# ...
+1	Sandra	O	-
+2	Peete	O	-
+3	lol	O	-
+4	!	O	-
+5	Mine	O	-
+6	are	O	-
+7	and	O	-
+8	yes	O	-
+9	I	O	-
+10	have	O	-
+11	of	O	-
+12	them	O	-
+13	Longhorns	B-ORG	Texas Longhorns football|Q7707821
+14	and	O	-
+15	GEORGIA	B-ORG	Georgia Bulldogs football|Q5547370
+16	Bulldogs	I-ORG	Georgia Bulldogs football|Q5547370
+17	lived	O	-
+18	in	O	-
+19	Texas	B-LOC	Texas|Q1439
+20	and	O	-
+21	born	O	-
+22	in	O	-
+23	and	O	-
+24	live	O	-
+25	in	O	-
+26	Georgia	B-LOC	Georgia|Q1428
+
+# tweet_id 424
+# ...
+1	Police	O	-
+2	:	O	-
+3	Body	O	-
+4	found	O	-
+5	in	O	-
+6	Miami	B-LOC	Miami Shores, Florida|Q2357116
+7	Shores	I-LOC	Miami Shores, Florida|Q2357116
+8	canal	O	-
+9	via	O	-
+
+# tweet_id 425
+# ...
+1	On	O	-
+2	the	O	-
+3	road	O	-
+4	again	O	-
+5	!	O	-
+6	Heading	O	-
+7	back	O	-
+8	to	O	-
+9	Oxford	B-LOC	Oxford|Q34217
+10	.	O	-
+11	I	O	-
+12	m	O	-
+13	not	O	-
+14	sure	O	-
+15	which	O	-
+16	will	O	-
+17	be	O	-
+18	worse	O	-
+19	:	O	-
+20	facing	O	-
+21	black	B-MISC	Black Friday|Q86483
+22	Friday	I-MISC	Black Friday|Q86483
+23	shopping	O	-
+24	crowds	O	-
+25	or	O	-
+26	traveling	O	-
+27	after	O	-
+28	holiday	O	-
+29	?	O	-
+
+# tweet_id 426
+# ...
+1	Watching	O	-
+2	this	O	-
+3	movie	O	-
+4	with	O	-
+5	my	O	-
+6	girl	O	-
+7	Jenna	B-PER	Jenna Fischer|Q238877
+8	Fischer	I-PER	Jenna Fischer|Q238877
+9	in	O	-
+10	it	O	-
+11	.	O	-
+12	She	O	-
+13	s	O	-
+14	the	O	-
+15	only	O	-
+16	interesting	O	-
+17	part	O	-
+18	half	O	-
+19	way	O	-
+20	through	O	-
+21	..	O	-
+
+# tweet_id 427
+# ...
+1	RT	O	-
+2	"	O	-
+3	@bu_sain	O	-
+4	:	O	-
+5	Beverly	B-LOC	Beverly Hills, California|Q127856
+6	Hills	I-LOC	Beverly Hills, California|Q127856
+7	#	O	-
+8	NUKSUSA	O	-
+9	"	O	-
+
+# tweet_id 428
+# ...
+1	Charlotte	B-PER	Charlotte Smith|Q2961020
+2	Smith	I-PER	Charlotte Smith|Q2961020
+3	and	O	-
+4	setting	O	-
+5	ourselves	O	-
+6	up	O	-
+7	for	O	-
+8	the	O	-
+9	future	O	-
+10	.	O	-
+11	Silence	O	-
+12	is	O	-
+13	unsettling	O	-
+14	.	O	-
+
+# tweet_id 429
+# ...
+1	Keep	O	-
+2	Me	O	-
+3	in	O	-
+4	Mind	O	-
+5	by	O	-
+6	Zac	B-MISC	Zac Brown Band|Q139154
+7	Brown	I-MISC	Zac Brown Band|Q139154
+8	Band	I-MISC	Zac Brown Band|Q139154
+9	,	O	-
+10	from	O	-
+11	#	O	-
+12	SoundHound	O	-
+
+# tweet_id 430
+# ...
+1	Anyone	O	-
+2	want	O	-
+3	to	O	-
+4	see	O	-
+5	Mastodon	B-MISC	Mastodon (band)|Q548844
+6	in	O	-
+7	NYC	B-LOC	New York City|Q60
+8	tonight	O	-
+9	?	O	-
+10	I	O	-
+11	ca	O	-
+12	nt	O	-
+13	make	O	-
+14	the	O	-
+15	show	O	-
+16	and	O	-
+17	will	O	-
+18	sell	O	-
+19	the	O	-
+20	ticket	O	-
+21	for	O	-
+22	face	O	-
+23	value	O	-
+24	.	O	-
+
+# tweet_id 431
+# ...
+1	Farm	O	-
+2	-	O	-
+3	Day	O	-
+4	Outing	O	-
+5	and	O	-
+6	Drinks	O	-
+7	for	O	-
+8	Two	O	-
+9	or	O	-
+10	Four	O	-
+11	at	O	-
+12	the	O	-
+13	Colorado	B-LOC	-
+14	Pumpkin	I-LOC	-
+15	Patch	I-LOC	-
+16	in	O	-
+17	Colorado	B-LOC	Colorado Springs, Colorado|Q49258
+18	Springs	I-LOC	Colorado Springs, Colorado|Q49258
+19	via	O	-
+20	Groupon	B-ORG	Groupon|Q852787
+21	for	O	-
+
+# tweet_id 432
+# ...
+1	Professor	O	-
+2	Robert	B-PER	Robert Hass|Q370513
+3	Hass	I-PER	Robert Hass|Q370513
+4	former	O	-
+5	Poet	B-MISC	poet laureate|Q1237928
+6	Laureate	I-MISC	poet laureate|Q1237928
+7	,	O	-
+8	National	B-MISC	National Book Award|Q572316
+9	Book	I-MISC	National Book Award|Q572316
+10	Award	I-MISC	National Book Award|Q572316
+11	and	O	-
+12	Pulitzer	B-MISC	Pulitzer Prize|Q46525
+13	Prize	I-MISC	Pulitzer Prize|Q46525
+14	winner	O	-
+15	struck	O	-
+16	with	O	-
+17	a	O	-
+18	baton	O	-
+19	UCBerkeley	B-ORG	University of California, Berkeley|Q168756
+20	faculty	O	-
+21	w	O	-
+22	students	O	-
+
+# tweet_id 433
+# ...
+1	Prop	O	-
+2	Heading	O	-
+3	to	O	-
+4	California	B-ORG	Supreme Court of California|Q2629503
+5	Supreme	I-ORG	Supreme Court of California|Q2629503
+6	Court	I-ORG	Supreme Court of California|Q2629503
+7	via	O	-
+
+# tweet_id 434
+# ...
+1	At	O	-
+2	Cheesecake	B-LOC	The Cheesecake Factory|Q1045842
+3	Factory	I-LOC	The Cheesecake Factory|Q1045842
+4	for	O	-
+5	@ladyglenda	O	-
+6	birthday	O	-
+
+# tweet_id 435
+# ...
+1	Disneyland	B-LOC	Disneyland Resort|Q1229066
+2	is	O	-
+3	something	O	-
+4	else	O	-
+5	at	O	-
+6	night	O	-
+7	.	O	-
+8	Twice	O	-
+9	as	O	-
+10	amazing	O	-
+11	.	O	-
+
+# tweet_id 436
+# ...
+1	Hold	O	-
+2	still	O	-
+3	...	O	-
+4	hoping	O	-
+5	the	O	-
+6	FedEx	B-ORG	FedEx|Q459477
+7	guy	O	-
+8	comes	O	-
+9	soon	O	-
+10	so	O	-
+11	he	O	-
+12	can	O	-
+13	fully	O	-
+14	appreciate	O	-
+15	all	O	-
+16	my	O	-
+17	hotness	O	-
+18	.	O	-
+
+# tweet_id 437
+# ...
+1	@shanaybaybay	O	-
+2	nah	O	-
+3	baby	O	-
+4	...	O	-
+5	i	O	-
+6	just	O	-
+7	know	O	-
+8	bout	O	-
+9	a	O	-
+10	few	O	-
+11	spots	O	-
+12	out	O	-
+13	there	O	-
+14	...	O	-
+15	i	O	-
+16	got	O	-
+17	fam	O	-
+18	all	O	-
+19	in	O	-
+20	Cali	B-LOC	California|Q99
+21	ya	O	-
+22	heard	O	-
+23	me	O	-
+24	...	O	-
+25	i	O	-
+26	m	O	-
+27	from	O	-
+28	New	B-LOC	New Orleans|Q34404
+29	Orleans	I-LOC	New Orleans|Q34404
+30	ya	O	-
+31	heard	O	-
+32	me	O	-
+
+# tweet_id 438
+# ...
+1	I	O	-
+2	really	O	-
+3	hate	O	-
+4	Microsoft	B-MISC	Microsoft Word|Q11261
+5	Word	I-MISC	Microsoft Word|Q11261
+6	sometimes	O	-
+7	.	O	-
+
+# tweet_id 439
+# ...
+1	OMG	O	-
+2	I	O	-
+3	walked	O	-
+4	Anna	B-PER	Anna Wintour|Q230744
+5	Wintour	I-PER	Anna Wintour|Q230744
+6	to	O	-
+7	her	O	-
+8	seat	O	-
+9	at	O	-
+10	Marc	B-ORG	Marc Jacobs|Q313108
+11	Jacobs	I-ORG	Marc Jacobs|Q313108
+12	!	O	-
+13	!	O	-
+
+# tweet_id 440
+# ...
+1	Just	O	-
+2	drove	O	-
+3	weed	O	-
+4	plants	O	-
+5	to	O	-
+6	Akron	B-LOC	Akron, Ohio|Q163132
+
+# tweet_id 441
+# ...
+1	Heard	O	-
+2	that	O	-
+3	police	O	-
+4	arrested	O	-
+5	a	O	-
+6	dude	O	-
+7	from	O	-
+8	whitehouse	O	-
+9	suspected	O	-
+10	for	O	-
+11	all	O	-
+12	the	O	-
+13	fires	O	-
+14	in	O	-
+15	Chapel	B-LOC	Chapel Hill, North Carolina|Q671812
+16	Hill	I-LOC	Chapel Hill, North Carolina|Q671812
+
+# tweet_id 442
+# ...
+1	anybody	O	-
+2	wanna	O	-
+3	go	O	-
+4	watch	O	-
+5	"	O	-
+6	Contagion	B-MISC	Contagion (2011 film)|Q730888
+7	"	O	-
+8	and	O	-
+9	realize	O	-
+10	that	O	-
+11	everyone	O	-
+12	in	O	-
+13	the	O	-
+14	theater	O	-
+15	is	O	-
+16	coughing	O	-
+17	...	O	-
+
+# tweet_id 443
+# ...
+1	Sony	B-ORG	Sony|Q41187
+2	make	O	-
+3	me	O	-
+4	waste	O	-
+5	my	O	-
+6	time	O	-
+
+# tweet_id 444
+# ...
+1	the	O	-
+2	director	O	-
+3	of	O	-
+4	law	B-MISC	Law & Order|Q321423
+5	and	I-MISC	Law & Order|Q321423
+6	order	I-MISC	Law & Order|Q321423
+7	,	O	-
+8	his	O	-
+9	name	O	-
+10	is	O	-
+11	Dick	B-PER	Dick Wolf|Q550381
+12	Wolf	I-PER	Dick Wolf|Q550381
+13	.......	O	-
+
+# tweet_id 445
+# ...
+1	InterContinental	B-LOC	-
+2	Hotel	I-LOC	-
+3	Tampa	I-LOC	-
+4	,	O	-
+5	West	B-LOC	-
+6	Kennedy	I-LOC	-
+7	Boulevard	I-LOC	-
+8	,	O	-
+9	Tampa	B-LOC	Tampa, Florida|Q49255
+10	,	O	-
+11	FL	B-LOC	Florida|Q812
+12	(	O	-
+13	@	O	-
+14	University	B-ORG	University of Tampa|Q751289
+15	of	I-ORG	University of Tampa|Q751289
+16	Tampa	I-ORG	University of Tampa|Q751289
+17	)	O	-
+
+# tweet_id 447
+# ...
+1	is	O	-
+2	Lavish	B-PER	Lavish Styles|Q20850429
+3	Styles	I-PER	Lavish Styles|Q20850429
+4	running	O	-
+5	around	O	-
+6	pretending	O	-
+7	to	O	-
+8	be	O	-
+9	Rhianna	B-PER	Rhianna (singer)|Q446731
+10	,	O	-
+11	if	O	-
+12	so	O	-
+13	that	O	-
+14	s	O	-
+15	not	O	-
+16	a	O	-
+17	bad	O	-
+18	career	O	-
+19	move	O	-
+
+# tweet_id 448
+# ...
+1	Finally	O	-
+2	in	O	-
+3	Orlando	B-LOC	Orlando, Florida|Q49233
+4	!	O	-
+5	!	O	-
+6	Let	O	-
+7	the	O	-
+8	fun	O	-
+9	Begin	O	-
+10	!	O	-
+11	!	O	-
+12	!	O	-
+
+# tweet_id 449
+# ...
+1	Why	O	-
+2	is	O	-
+3	House	B-MISC	House of Cards (American TV series)|Q3330940
+4	of	I-MISC	House of Cards (American TV series)|Q3330940
+5	Cards	I-MISC	House of Cards (American TV series)|Q3330940
+6	such	O	-
+7	a	O	-
+8	perfect	O	-
+9	song	O	-
+10	?	O	-
+11	#	O	-
+12	radiohead	O	-
+
+# tweet_id 450
+# ...
+1	Anyone	O	-
+2	think	O	-
+3	#	O	-
+4	SouthCarolina	B-LOC	South Carolina|Q1456
+5	is	O	-
+6	crowded	O	-
+7	around	O	-
+8	a	O	-
+9	television	O	-
+10	in	O	-
+11	their	O	-
+12	locker	O	-
+13	room	O	-
+14	watching	O	-
+15	the	O	-
+16	#	O	-
+17	Georgia	B-LOC	Georgia|Q1428
+18	#	O	-
+19	Dawgs	B-ORG	Georgia Bulldogs football|Q5547370
+20	play	O	-
+21	#	O	-
+22	Auburn	B-ORG	Auburn Tigers football|Q4819311
+23	right	O	-
+24	now	O	-
+25	?	O	-
+
+# tweet_id 451
+# ...
+1	Next	O	-
+2	year	O	-
+3	,	O	-
+4	or	O	-
+5	the	O	-
+6	year	O	-
+7	after	O	-
+8	,	O	-
+9	most	O	-
+10	engineers	O	-
+11	[	O	-
+12	at	O	-
+13	Facebook	B-ORG	Facebook|Q355
+14	]	O	-
+15	will	O	-
+16	be	O	-
+17	working	O	-
+18	on	O	-
+19	mobile	O	-
+20	interfaces	O	-
+21	.	O	-
+22	Bret	B-PER	Bret Taylor|Q4961964
+23	Taylor	I-PER	Bret Taylor|Q4961964
+24	,	O	-
+25	FB	B-ORG	Facebook|Q355
+26	CTO	B-MISC	chief technology officer|Q5287861
+
+# tweet_id 452
+# ...
+1	The	O	-
+2	south	O	-
+3	end	O	-
+4	of	O	-
+5	this	O	-
+6	platform	O	-
+7	feels	O	-
+8	like	O	-
+9	Maine	B-LOC	Maine|Q724
+10	,	O	-
+11	if	O	-
+12	I	O	-
+13	close	O	-
+14	my	O	-
+15	eyes	O	-
+16	.	O	-
+17	I	O	-
+18	need	O	-
+19	to	O	-
+20	find	O	-
+21	more	O	-
+22	nature	O	-
+23	in	O	-
+24	New	B-LOC	New York City|Q60
+25	York	I-LOC	New York City|Q60
+26	.	O	-
+
+# tweet_id 453
+# ...
+1	Why	O	-
+2	is	O	-
+3	Jesse	B-PER	Jesse Williams (actor)|Q40046
+4	Williams	I-PER	Jesse Williams (actor)|Q40046
+5	so	O	-
+6	perfect	O	-
+7	!	O	-
+8	Oh	O	-
+9	my	O	-
+10	God	B-MISC	deity|Q178885
+11	!	O	-
+12	#	O	-
+13	greysanatomy	B-MISC	Grey's Anatomy|Q438406
+
+# tweet_id 454
+# ...
+1	The	O	-
+2	only	O	-
+3	one	O	-
+4	who	O	-
+5	could	O	-
+6	score	O	-
+7	on	O	-
+8	Carey	B-PER	Carey Price|Q720963
+9	Price	I-PER	Carey Price|Q720963
+10	tonight	O	-
+11	....	O	-
+12	Was	O	-
+13	Carey	B-PER	Carey Price|Q720963
+14	Price	I-PER	Carey Price|Q720963
+15	;)	O	-
+16	damn	O	-
+17	I	O	-
+18	love	O	-
+19	that	O	-
+20	guy	O	-
+21	!	O	-
+22	!	O	-
+
+# tweet_id 455
+# ...
+1	I	O	-
+2	want	O	-
+3	to	O	-
+4	join	O	-
+5	the	O	-
+6	advertising	O	-
+7	staff	O	-
+8	at	O	-
+9	Forbes	B-ORG	Forbes|Q25161472
+10	someday	O	-
+11	...	O	-
+
+# tweet_id 456
+# ...
+1	Forgetting	B-MISC	Forgetting Sarah Marshall|Q201379
+2	Sarah	I-MISC	Forgetting Sarah Marshall|Q201379
+3	Marshall	I-MISC	Forgetting Sarah Marshall|Q201379
+4	is	O	-
+5	the	O	-
+6	second	O	-
+7	most	O	-
+8	funny	O	-
+9	movie	O	-
+10	of	O	-
+11	all	O	-
+12	time	O	-
+13	.	O	-
+
+# tweet_id 457
+# ...
+1	Jack	B-MISC	Jack and Jill|Q1505923
+2	and	I-MISC	Jack and Jill|Q1505923
+3	Jill	I-MISC	Jack and Jill|Q1505923
+4	is	O	-
+5	trending	O	-
+6	.	O	-
+7	Even	O	-
+8	though	O	-
+9	I	O	-
+10	love	O	-
+11	Adam	B-PER	Adam Sandler|Q132952
+12	Sandler	I-PER	Adam Sandler|Q132952
+13	movies	O	-
+14	,	O	-
+15	I	O	-
+16	am	O	-
+17	saddened	O	-
+18	by	O	-
+19	this	O	-
+20	.	O	-
+21	You	O	-
+22	people	O	-
+23	caused	O	-
+24	this	O	-
+25	.	O	-
+
+# tweet_id 458
+# ...
+1	I	O	-
+2	really	O	-
+3	hope	O	-
+4	my	O	-
+5	choices	O	-
+6	are	O	-
+7	nt	O	-
+8	between	O	-
+9	Romney	B-PER	Mitt Romney|Q4496
+10	/	O	-
+11	Perry	B-PER	Rick Perry|Q215057
+12	and	O	-
+13	Obama	B-PER	Barack Obama|Q76
+14	next	O	-
+15	year	O	-
+16	..	O	-
+17	Blah	O	-
+18	!	O	-
+
+# tweet_id 459
+# ...
+1	,	O	-
+2	Daw	O	-
+3	Aung	B-PER	Aung San Suu Kyi|Q36740
+4	San	I-PER	Aung San Suu Kyi|Q36740
+5	Suu	I-PER	Aung San Suu Kyi|Q36740
+6	Kyi	I-PER	Aung San Suu Kyi|Q36740
+7	decides	O	-
+8	to	O	-
+9	re	O	-
+10	-	O	-
+11	enter	O	-
+12	politics	O	-
+13	.	O	-
+14	[	O	-
+15	VIDEO	O	-
+16	]	O	-
+17	of	O	-
+18	Remarks	O	-
+19	by	O	-
+20	Aung	B-PER	Aung San Suu Kyi|Q36740
+21	San	I-PER	Aung San Suu Kyi|Q36740
+22	Suu	I-PER	Aung San Suu Kyi|Q36740
+23	Kyi	I-PER	Aung San Suu Kyi|Q36740
+24	&	O	-
+25	Obama	B-PER	Barack Obama|Q76
+26	on	O	-
+27	#	O	-
+28	Myanmar	B-LOC	Myanmar|Q836
+29	:	O	-
+30	#	O	-
+31	Burma	B-LOC	Myanmar|Q836
+
+# tweet_id 460
+# ...
+1	SEan	B-PER	Sean Taylor|Q7441478
+2	Taylor	I-PER	Sean Taylor|Q7441478
+3	is	O	-
+4	a	O	-
+5	Bentley	B-ORG	Bentley|Q27224
+6	and	O	-
+7	LaRon	B-PER	LaRon Landry|Q2024035
+8	Landry	I-PER	LaRon Landry|Q2024035
+9	is	O	-
+10	a	O	-
+11	Mercedes	B-ORG	Mercedes-Benz|Q36008
+12	Benz	I-ORG	Mercedes-Benz|Q36008
+
+# tweet_id 461
+# ...
+1	Watching	O	-
+2	"	O	-
+3	Half	B-MISC	Half Baked|Q1570923
+4	Baked	I-MISC	Half Baked|Q1570923
+5	"	O	-
+6	#	O	-
+7	StonerMovie	B-MISC	stoner film|Q457832
+
+# tweet_id 462
+# ...
+1	They	O	-
+2	were	O	-
+3	gettin	O	-
+4	wild	O	-
+5	lol	O	-
+6	:)	O	-
+7	Aha	O	-
+8	I	O	-
+9	loved	O	-
+10	Breaking	B-MISC	Breaking Dawn|Q509523
+11	Dawn	I-MISC	Breaking Dawn|Q509523
+12	though	O	-
+13	!	O	-
+14	Best	O	-
+15	movie	O	-
+16	ever	O	-
+17	by	O	-
+18	far	O	-
+19	.	O	-
+
+# tweet_id 463
+# ...
+1	Waiting	O	-
+2	for	O	-
+3	Astro	B-PER	Astro (rapper)|Q18162361
+4	to	O	-
+5	perform	O	-
+6	on	O	-
+7	XFactor	B-MISC	The X Factor|Q5453652
+8	then	O	-
+9	off	O	-
+10	to	O	-
+11	sleep	O	-
+12	.	O	-
+
+# tweet_id 464
+# ...
+1	Thank	O	-
+2	you	O	-
+3	,	O	-
+4	Mr.	O	-
+5	La	B-PER	Tony La Russa|Q2696934
+6	Russa	I-PER	Tony La Russa|Q2696934
+7	.	O	-
+8	You	O	-
+9	really	O	-
+10	made	O	-
+11	baseball	O	-
+12	teams	O	-
+13	in	O	-
+14	to	O	-
+15	champs	O	-
+16	from	O	-
+17	the	O	-
+18	As	O	-
+19	to	O	-
+20	the	O	-
+21	Cards	O	-
+22	:)	O	-
+23	RT	O	-
+24	@trarticles	O	-
+25	:	O	-
+26	...	O	-
+
+# tweet_id 465
+# ...
+1	Best	O	-
+2	chinese	B-MISC	-
+3	food	O	-
+4	in	O	-
+5	north	O	-
+6	Denver	B-LOC	Denver|Q16554
+7	lotus	O	-
+8	chinese	B-MISC	Chinese|Q7850
+9	kitchen	O	-
+10	off	O	-
+11	th	O	-
+12	.	O	-
+
+# tweet_id 466
+# ...
+1	At	O	-
+2	UNF	B-ORG	University of North Florida|Q1473796
+3	watching	O	-
+4	practice	O	-
+5	,	O	-
+6	before	O	-
+7	we	O	-
+8	go	O	-
+9	eat	O	-
+10	lunch	O	-
+11	!	O	-
+12	!	O	-
+
+# tweet_id 467
+# ...
+1	@juliewillfly	O	-
+2	Heading	O	-
+3	to	O	-
+4	Winston	B-LOC	Winston, Oregon|Q3458875
+5	-	O	-
+6	Salem	B-LOC	Salem, Oregon|Q43919
+7	tomorrow	O	-
+8	!	O	-
+
+# tweet_id 468
+# ...
+1	I	O	-
+2	m	O	-
+3	at	O	-
+4	UNCG	B-ORG	University of North Carolina at Greensboro|Q1321380
+5	-	O	-
+6	The	B-ORG	University of North Carolina at Greensboro|Q1321380
+7	University	I-ORG	University of North Carolina at Greensboro|Q1321380
+8	of	I-ORG	University of North Carolina at Greensboro|Q1321380
+9	North	I-ORG	University of North Carolina at Greensboro|Q1321380
+10	Carolina	I-ORG	University of North Carolina at Greensboro|Q1321380
+11	at	I-ORG	University of North Carolina at Greensboro|Q1321380
+12	Greensboro	I-ORG	University of North Carolina at Greensboro|Q1321380
+
+# tweet_id 469
+# ...
+1	Why	O	-
+2	is	O	-
+3	a	O	-
+4	Orange	O	-
+5	called	O	-
+6	a	O	-
+7	Orange	O	-
+8	..	O	-
+9	Orange	O	-
+10	is	O	-
+11	a	O	-
+12	color	O	-
+13	so	O	-
+14	how	O	-
+15	a	O	-
+16	food	O	-
+17	gone	O	-
+18	be	O	-
+19	named	O	-
+20	after	O	-
+21	a	O	-
+22	color	O	-
+23	..	O	-
+
+# tweet_id 470
+# ...
+1	Its	O	-
+2	kind	O	-
+3	of	O	-
+4	hilarious	O	-
+5	that	O	-
+6	the	O	-
+7	"	O	-
+8	Chicago	B-LOC	Chicago Spire|Q638403
+9	Spire	I-LOC	Chicago Spire|Q638403
+10	"	O	-
+11	is	O	-
+12	labeled	O	-
+13	as	O	-
+14	such	O	-
+15	in	O	-
+16	Google	B-MISC	Google Maps|Q12013
+17	Maps	I-MISC	Google Maps|Q12013
+
+# tweet_id 471
+# ...
+1	New	B-LOC	New York City|Q60
+2	York	I-LOC	New York City|Q60
+3	morning	O	-
+4	ritual	O	-
+5	:	O	-
+6	run	O	-
+7	,	O	-
+8	coffee	O	-
+9	,	O	-
+10	park	O	-
+11	,	O	-
+12	write	O	-
+13	,	O	-
+14	read	O	-
+15	paper	O	-
+16	and	O	-
+17	come	O	-
+18	home	O	-
+19	to	O	-
+20	shower	O	-
+21	.	O	-
+22	This	O	-
+23	is	O	-
+24	a	O	-
+25	perfect	O	-
+26	NYC	B-LOC	New York City|Q60
+27	morning	O	-
+28	.	O	-
+
+# tweet_id 472
+# ...
+1	Peggy	B-PER	Peggy Olson|Q3898780
+2	Olson	I-PER	Peggy Olson|Q3898780
+3	is	O	-
+4	awesome	O	-
+5	...	O	-
+6	one	O	-
+7	of	O	-
+8	the	O	-
+9	best	O	-
+10	characters	O	-
+11	on	O	-
+12	#	O	-
+13	madmen	B-MISC	Mad Men|Q223977
+
+# tweet_id 473
+# ...
+1	Dude	O	-
+2	,	O	-
+3	I	O	-
+4	want	O	-
+5	to	O	-
+6	be	O	-
+7	in	O	-
+8	North	B-LOC	North Dakota|Q1207
+9	Dakota	I-LOC	North Dakota|Q1207
+10	right	O	-
+11	now	O	-
+12	.	O	-
+13	Ugh	O	-
+14	.	O	-
+
+# tweet_id 474
+# ...
+1	#	O	-
+2	SexiestManAlive	O	-
+3	HANDS	O	-
+4	DOWN	O	-
+5	,	O	-
+6	Ryan	B-PER	Ryan Gosling|Q193815
+7	Gosling	I-PER	Ryan Gosling|Q193815
+8	!	O	-
+9	!	O	-
+10	!	O	-
+
+# tweet_id 475
+# ...
+1	Devon	B-LOC	Devon Energy Center|Q429371
+2	Energy	I-LOC	Devon Energy Center|Q429371
+3	Tower	I-LOC	Devon Energy Center|Q429371
+4	in	O	-
+5	Oklahoma	B-LOC	Oklahoma City|Q34863
+6	City	I-LOC	Oklahoma City|Q34863
+7	nearing	O	-
+8	completion	O	-
+9	.	O	-
+10	See	O	-
+11	more	O	-
+12	images	O	-
+
+# tweet_id 476
+# ...
+1	Okay	O	-
+2	so	O	-
+3	I	O	-
+4	went	O	-
+5	to	O	-
+6	the	O	-
+7	Hagley	B-LOC	Hagley Museum and Library|Q4785686
+8	Car	O	-
+9	Show	O	-
+10	in	O	-
+11	Wilmington	B-LOC	Wilmington, Delaware|Q174224
+12	and	O	-
+13	I	O	-
+14	shed	O	-
+15	a	O	-
+16	tear	O	-
+17	when	O	-
+18	I	O	-
+19	saw	O	-
+20	this	O	-
+21	orange	O	-
+22	Mustang	B-MISC	Ford Mustang|Q183476
+23	.	O	-
+24	Whew	O	-
+25	!	O	-
+
+# tweet_id 477
+# ...
+1	“	O	-
+2	@loganj	O	-
+3	_	O	-
+4	:	O	-
+5	Its	O	-
+6	halloween	B-MISC	Halloween|Q251868
+7	.	O	-
+8	Listen	O	-
+9	to	O	-
+10	Black	B-MISC	Black metal|Q132438
+11	Metal	I-MISC	Black metal|Q132438
+12	.	O	-
+13	”	O	-
+14	Duh	O	-
+15	.	O	-
+
+# tweet_id 478
+# ...
+1	Lucky	O	-
+2	!	O	-
+3	!	O	-
+4	RT	O	-
+5	@melanieleduc	O	-
+6	:	O	-
+7	Ryan	B-PER	Ryan Reynolds|Q192682
+8	Reynolds	I-PER	Ryan Reynolds|Q192682
+9	shooting	O	-
+10	a	O	-
+11	movie	O	-
+12	up	O	-
+13	the	O	-
+14	street	O	-
+15	from	O	-
+16	where	O	-
+17	I	O	-
+18	live	O	-
+19	!	O	-
+20	!	O	-
+
+# tweet_id 479
+# ...
+1	Big	O	-
+2	news	O	-
+3	from	O	-
+4	Adobe	B-ORG	Adobe|Q11463
+5	:	O	-
+6	Flash	B-MISC	Adobe Flash|Q165658
+7	is	O	-
+8	over	O	-
+9	.	O	-
+10	All	O	-
+11	at	O	-
+12	once	O	-
+13	,	O	-
+14	I	O	-
+15	m	O	-
+16	relieved	O	-
+17	&	O	-
+18	nostalgic	O	-
+19	as	O	-
+20	if	O	-
+21	a	O	-
+22	an	O	-
+23	estranged	O	-
+24	friend	O	-
+25	has	O	-
+26	died	O	-
+27	.	O	-
+
+# tweet_id 480
+# ...
+1	Back	O	-
+2	at	O	-
+3	the	O	-
+4	clinic	O	-
+5	.	O	-
+6	Watching	O	-
+7	a	O	-
+8	basketball	O	-
+9	movie	O	-
+10	I	O	-
+11	do	O	-
+12	nt	O	-
+13	know	O	-
+14	.	O	-
+15	About	O	-
+16	West	B-ORG	UTEP Miners men's basketball|Q7875996
+17	Texas	I-ORG	UTEP Miners men's basketball|Q7875996
+18	vs	O	-
+19	Kentucky	B-ORG	Kentucky Wildcats men's basketball|Q6392428
+20	?	O	-
+21	Looks	O	-
+22	like	O	-
+23	its	O	-
+24	set	O	-
+25	in	O	-
+26	the	O	-
+27	-s	O	-
+28	.	O	-
+
+# tweet_id 481
+# ...
+1	@TURF__ENVY	O	-
+2	which	O	-
+3	could	O	-
+4	still	O	-
+5	be	O	-
+6	outside	O	-
+7	in	O	-
+8	south	B-LOC	South Texas|Q2393494
+9	Texas	I-LOC	South Texas|Q2393494
+10	…	O	-
+
+# tweet_id 482
+# ...
+1	Movie	O	-
+2	night	O	-
+3	with	O	-
+4	@surfrider	O	-
+5	DC	O	-
+6	watching	O	-
+7	God	B-MISC	God Went Surfing with the Devil|Q5575976
+8	Went	I-MISC	God Went Surfing with the Devil|Q5575976
+9	Surfing	I-MISC	God Went Surfing with the Devil|Q5575976
+10	with	I-MISC	God Went Surfing with the Devil|Q5575976
+11	the	I-MISC	God Went Surfing with the Devil|Q5575976
+12	Devil	I-MISC	God Went Surfing with the Devil|Q5575976
+13	!	O	-
+14	(	O	-
+15	@	O	-
+16	Buffalo	B-LOC	-
+17	Billiards	I-LOC	-
+18	)	O	-
+
+# tweet_id 483
+# ...
+1	Dinner	O	-
+2	(	O	-
+3	@	O	-
+4	Texas	B-LOC	-
+5	Smoke	I-LOC	-
+6	Barbecue	I-LOC	-
+7	)	O	-
+
+# tweet_id 484
+# ...
+1	Come	O	-
+2	to	O	-
+3	Mood	B-LOC	-
+4	Lounge	I-LOC	-
+5	for	O	-
+6	Cocktails	O	-
+7	!	O	-
+8	We	O	-
+9	are	O	-
+10	open	O	-
+11	-	O	-
+12	E	B-LOC	-
+13	Shadowlawn	I-LOC	-
+14	ave	O	-
+15	Atlanta	B-LOC	Atlanta|Q23556
+16	GA	I-LOC	Georgia|Q1428
+17	.	O	-
+
+# tweet_id 485
+# ...
+1	Pit	O	-
+2	stop	O	-
+3	before	O	-
+4	Litchfeild	B-LOC	Litchfield|Q755403
+5	(	O	-
+6	@	O	-
+7	Dunkin	B-LOC	Dunkin'|Q847743
+8	Donuts	I-LOC	Dunkin'|Q847743
+9	)	O	-
+
+# tweet_id 486
+# ...
+1	Best	O	-
+2	in	O	-
+3	flight	O	-
+4	album	O	-
+5	yet	O	-
+6	!	O	-
+7	!	O	-
+8	@	O	-
+9	Nashville	B-LOC	Nashville International Airport|Q1432146
+10	Intl	I-LOC	Nashville International Airport|Q1432146
+11	Airport	I-LOC	Nashville International Airport|Q1432146
+12	-	O	-
+13	Gate	O	-
+14	A	O	-
+
+# tweet_id 487
+# ...
+1	Rainy	O	-
+2	Hike	O	-
+3	!	O	-
+4	(	O	-
+5	@	O	-
+6	Great	B-LOC	Great Falls Park|Q968859
+7	Falls	I-LOC	Great Falls Park|Q968859
+8	National	I-LOC	Great Falls Park|Q968859
+9	Park	I-LOC	Great Falls Park|Q968859
+10	)	O	-
+
+# tweet_id 488
+# ...
+1	Complimentary	O	-
+2	Beautiful	O	-
+3	Hold	O	-
+4	Hairspray	O	-
+5	with	O	-
+6	Blowout	O	-
+7	at	O	-
+8	Ted	B-PER	Ted Gibson|Q7693225
+9	Gibson	I-PER	Ted Gibson|Q7693225
+10	NYC	B-LOC	New York City|Q60
+11	salon	O	-
+12	..	O	-
+13	Please	O	-
+14	RT	O	-
+15	!	O	-
+16	!	O	-
+17	!	O	-
+18	!	O	-
+
+# tweet_id 489
+# ...
+1	Victorias	B-ORG	Victoria's Secret|Q332477
+2	Secret	I-ORG	Victoria's Secret|Q332477
+3	,	O	-
+4	Macys	B-LOC	Macy's|Q629269
+5	,	O	-
+6	Nail	B-ORG	nail salon|Q8007048
+7	salon	I-ORG	nail salon|Q8007048
+8	.	O	-
+9	Ugh	O	-
+10	too	O	-
+11	much	O	-
+
+# tweet_id 490
+# ...
+1	This	O	-
+2	is	O	-
+3	where	O	-
+4	we	O	-
+5	are	O	-
+6	staying	O	-
+7	for	O	-
+8	my	O	-
+9	moms	O	-
+10	th	O	-
+11	birthday	O	-
+12	weekend	O	-
+13	.	O	-
+14	(	O	-
+15	@	O	-
+16	Francis	B-ORG	Francis Marion Hotel|Q16891426
+17	Marion	I-ORG	Francis Marion Hotel|Q16891426
+18	Hotel	I-ORG	Francis Marion Hotel|Q16891426
+19	)	O	-
+
+# tweet_id 491
+# ...
+1	Much	O	-
+2	bigger	O	-
+3	Glendale	B-LOC	Glendale|Q485716
+4	Crew	O	-
+5	!	O	-
+6	=)	O	-
+7	(	O	-
+8	@	O	-
+9	L.A.	B-LOC	-
+10	Family	I-LOC	-
+11	House	I-LOC	-
+12	)	O	-
+
+# tweet_id 492
+# ...
+1	days	O	-
+2	of	O	-
+3	work	O	-
+4	left	O	-
+5	!	O	-
+6	!	O	-
+7	!	O	-
+8	(	O	-
+9	@	O	-
+10	Armed	B-ORG	Armed Forces Institute of Pathology|Q4792988
+11	Forces	I-ORG	Armed Forces Institute of Pathology|Q4792988
+12	Institute	I-ORG	Armed Forces Institute of Pathology|Q4792988
+13	Of	I-ORG	Armed Forces Institute of Pathology|Q4792988
+14	Pathology	I-ORG	Armed Forces Institute of Pathology|Q4792988
+15	)	O	-
+
+# tweet_id 493
+# ...
+1	)	O	-
+2	(	O	-
+3	@	O	-
+4	Museum	B-ORG	Museum of Science and Industry|Q1414079
+5	Of	I-ORG	Museum of Science and Industry|Q1414079
+6	Science	I-ORG	Museum of Science and Industry|Q1414079
+7	&	I-ORG	Museum of Science and Industry|Q1414079
+8	Industry	I-ORG	Museum of Science and Industry|Q1414079
+9	(	O	-
+10	MOSI	B-ORG	Museum of Science and Industry|Q1414079
+11	)	O	-
+12	)	O	-
+
+# tweet_id 494
+# ...
+1	I	O	-
+2	need	O	-
+3	a	O	-
+4	Michele	B-PER	Michelle Obama|Q13133
+5	Obama	I-PER	Michelle Obama|Q13133
+6	woman	O	-
+7	not	O	-
+8	afraid	O	-
+9	to	O	-
+10	hold	O	-
+11	her	O	-
+12	nigga	O	-
+13	down	O	-
+14	were	O	-
+15	she	O	-
+16	at	O	-
+17	#	O	-
+18	alldayerryday	O	-
+
+# tweet_id 495
+# ...
+1	When	O	-
+2	in	O	-
+3	doubt	O	-
+4	,	O	-
+5	exercise	O	-
+6	(	O	-
+7	@	O	-
+8	Los	B-ORG	-
+9	Osos	I-ORG	-
+10	Fitness	I-ORG	-
+11	)	O	-
+
+# tweet_id 496
+# ...
+1	Coming	B-MISC	Coming to America|Q493755
+2	To	I-MISC	Coming to America|Q493755
+3	America	I-MISC	Coming to America|Q493755
+4	is	O	-
+5	on	O	-
+6	!	O	-
+7	!	O	-
+8	!	O	-
+9	!	O	-
+10	!	O	-
+11	!	O	-
+12	My	O	-
+13	favorite	O	-
+14	movie	O	-
+
+# tweet_id 497
+# ...
+1	@StadiumDan	O	-
+2	@DreamzRreal	O	-
+3	@JonathanMannion	O	-
+4	Listen	O	-
+5	to	O	-
+6	Eminems	B-PER	Eminem|Q5608
+7	new	O	-
+8	artist	O	-
+9	.	O	-
+
+# tweet_id 498
+# ...
+1	had	O	-
+2	a	O	-
+3	lot	O	-
+4	of	O	-
+5	pressure	O	-
+6	to	O	-
+7	move	O	-
+8	to	O	-
+9	Silicon	B-LOC	Silicon Valley|Q163820
+10	Valley	I-LOC	Silicon Valley|Q163820
+11	.	O	-
+12	We	O	-
+13	stayed	O	-
+14	here	O	-
+15	anyway	O	-
+16	and	O	-
+17	it	O	-
+18	worked	O	-
+19	out	O	-
+20	fine	O	-
+21	.	O	-
+22	#	O	-
+23	NYCFTW	O	-
+24	#	O	-
+25	NYUEF	O	-
+
+# tweet_id 499
+# ...
+1	I	O	-
+2	love	O	-
+3	Working	O	-
+4	for	O	-
+5	amazon	B-ORG	Amazon|Q3884
+
+# tweet_id 500
+# ...
+1	Watching	O	-
+2	the	O	-
+3	SC	B-ORG	South Carolina Gamecocks football|Q7566583
+4	and	O	-	
+5	Clemson	B-ORG	Clemson Tigers football|Q5131553	
+6	game	O	-
+7	outside	O	-
+8	if	O	-
+9	the	O	-
+10	stadium	O	-
+11	..	O	-
+12	South	B-LOC	South Carolina|Q1456
+13	Carolina	I-LOC	South Carolina|Q1456
+14	style	O	-
+15	...	O	-
+
+# tweet_id 500
+# ...
+1	Some	O	-
+2	showers	O	-
+3	have	O	-
+4	popped	O	-
+5	up	O	-
+6	over	O	-
+7	the	O	-
+8	San	B-LOC	San Juan Mountains|Q2165526
+9	Juan	I-LOC	San Juan Mountains|Q2165526
+10	Mountains	I-LOC	San Juan Mountains|Q2165526
+11	.	O	-
+12	They	O	-
+13	will	O	-
+14	be	O	-
+15	done	O	-
+16	with	O	-
+17	by	O	-
+18	or	O	-
+19	pm	O	-
+20	.	O	-
+21	#	O	-
+22	gjco	O	-
+23	#	O	-
+24	cowx	O	-
+
+# tweet_id 501
+# ...
+1	Any	O	-
+2	important	O	-
+3	Yankees	B-ORG	New York Yankees|Q213417
+4	fans	O	-
+5	out	O	-
+6	there	O	-
+7	that	O	-
+8	needs	O	-
+9	to	O	-
+10	be	O	-
+11	followed	O	-
+12	?	O	-
+13	If	O	-
+14	you	O	-
+15	follow	O	-
+16	me	O	-
+17	,	O	-
+18	Ill	O	-
+19	follow	O	-
+20	back	O	-
+21	.	O	-
+22	#	O	-
+23	NYY	B-ORG	New York Yankees|Q213417
+24	#	O	-
+25	Yankees	B-ORG	New York Yankees|Q213417
+
+# tweet_id 502
+# ...
+1	Nice	O	-
+2	Fiat	B-ORG	Fiat|Q27597
+3	commercial	O	-
+4	J	B-PER	Jennifer Lopez|Q40715
+5	-	I-PER	Jennifer Lopez|Q40715
+6	Lo	I-PER	Jennifer Lopez|Q40715
+7	...	O	-
+8	dope	O	-
+9	the	O	-
+10	song	O	-
+11	not	O	-
+12	the	O	-
+13	car	O	-
