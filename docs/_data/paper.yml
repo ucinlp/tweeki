@@ -39,7 +39,7 @@ items:
 
     #   For example, such as this. 
     call_to_action_name: Get the Data
-    call_to_action_link: https://github.com/ucinlp/tweeki/data
+    call_to_action_link: https://github.com/ucinlp/tweeki/tree/main/data
   - title: 
     subtitle: Run Tweeki Yourself
     icon: fa-file-code
