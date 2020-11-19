@@ -1,0 +1,2 @@
+
+from tweeki_ner.predicators.ner_tagger_predicator import SentenceTaggerPredictor
